@@ -1,0 +1,192 @@
+1.S: Flytrap Goes for Baroque It is a popular view among pundits that Flytrap has entered what they like to call its `` endgame . '' 
+  K: If like causes call then recipient of like is the same as agent of call
+
+2.S: Because she still adores him , and she wants to signal him about how he can protect himself when he testifies . 
+  K: If adore causes want then agent of adore is the same as agent of want
+
+3.S: Because she still adores him , and she wants to signal him about how he can protect himself when he testifies . 
+  K: If want causes signal then agent of want is the same as agent of signal
+
+4.S: 2 -RRB- Monica is testifying only because she wants to force Clinton to admit their love affair to the world . 
+  K: If force causes admit then recipient of force is the same as agent of admit
+
+5.S: 2 -RRB- Monica is testifying only because she wants to force Clinton to admit their love affair to the world . 
+  K: If want causes force then agent of want is the same as agent of force
+
+6.S: 2 -RRB- Monica is testifying only because she wants to force Clinton to admit their love affair to the world . 
+  K: If force causes admit then recipient of force is the same as agent of admit
+
+7.S: Monica , in her usual mendacious way , lied to Tripp about it . 
+  K: If lie causes Tripp then agent of lie is the same as agent of Tripp
+
+8.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If know causes not lie then agent of know is the same as agent of not lie
+
+9.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+10.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+11.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If want causes signal then agent of want is the same as agent of signal
+
+12.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If know causes not lie then agent of know is the same as agent of not lie
+
+13.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+14.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+15.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If signal causes not lie then recipient of signal is the same as agent of not lie
+
+16.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If know causes not lie then agent of know is the same as agent of not lie
+
+17.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+18.S: They wanted to signal the agents that there is plenty of damning evidence of an affair , so that the agents would know not to lie to protect Clinton . 
+  K: If not lie causes protect then agent of not lie is the same as agent of protect
+
+19.S: My favorite Wag the Dog target is St. Kitts , a Caribbean island where a local drug dealer -LRB- Charles `` Little Nut '' Miller -RRB- has threatened to murder American students at the island 's veterinary school if the United States tries to extradite him . 
+  K: If try causes extradite then agent of try is the same as agent of extradite
+
+20.S: The Hillary Theories 1 -RRB- Clinton wants to apologize but is afraid to because he never told Hillary about Monica . 
+  K: If never tell causes Theories then recipient of never tell is the same as agent of Theories
+
+21.S: -LRB- She did not mind his Gennifer Flowers affair , because she knew about it . -RRB- 
+  K: If not mind causes know then agent of not mind is the same as agent of know
+
+22.S: 2 -RRB- Very similar to `` Hillary Theory 1 '' : Hillary wo n't let him apologize because she has spent so much of her own credibility defending him -LRB- `` vast right-wing conspiracy , '' etc. -RRB- . 
+  K: If defend causes apologize then recipient of defend is the same as agent of apologize
+
+23.S: She refuses to be made to look like a gullible fool . 
+  K: If refuse causes make then agent of refuse is the same as recipient of make
+
+24.S: Thus she kept the dress , knowing that her affair was going to be made public by her good friend Linda Tripp months later , and she would have a chance to produce the dress as evidence . 
+  K: If go causes make then agent of go is the same as recipient of make
+
+25.S: The Non-Right-Wing Conspiracy Theory Last fall -LRB- months before her existence was revealed to the public -RRB- , a Secret Service officer warned Bob Dole to avoid a neighbor in the Watergate named Monica Lewinsky . 
+  K: If warn causes avoid then recipient of warn is the same as agent of avoid
+
+26.S: They are doing this to pressure Clinton to apologize . 
+  K: If pressure causes apologize then recipient of pressure is the same as agent of apologize
+
+27.S: They must use the media and rumor to communicate with the president , because they are not allowed to talk to him about Flytrap directly . 
+  K: If use causes not allow then agent of use is the same as recipient of not allow
+
+28.S: They must use the media and rumor to communicate with the president , because they are not allowed to talk to him about Flytrap directly . 
+  K: If not allow causes talk then recipient of not allow is the same as agent of talk
+
+29.S: They must use the media and rumor to communicate with the president , because they are not allowed to talk to him about Flytrap directly . 
+  K: If not allow causes talk then recipient of not allow is the same as agent of talk
+
+30.S: `` I do n't want anything on his desk , and I do n't want to see his hands . 
+  K: If n't want causes n't want then agent of n't want is the same as agent of n't want
+
+31.S: He has developed this beatific smile , and I would want to show that . 
+  K: If want causes show then agent of want is the same as agent of show
+
+32.S: Ratings demonstrate that TV viewers -LRB- never mind their protestations -RRB- want to hear about Flytrap all the time . 
+  K: If want causes hear then agent of want is the same as agent of hear
+
+33.S: Pundits are reduced to flogging thirdhand and fourthhand rumors . 
+  K: If reduce causes flog then recipient of reduce is the same as agent of flog
+
+34.S: No topic is so stale that it can not be reheated : After all , it gets you air time . 
+  K: If not reheat causes get then recipient of not reheat is the same as agent of get
+
+35.S: Stuart Taylor Jr. , in a moment of high-minded optimism , proposes that pundits take advantage of the information vacuum to talk about first principles . 
+  K: If take causes talk then recipient of take is the same as agent of talk
+
+36.S: She refuses to let him humiliate her . 
+  K: If refuse causes let then agent of refuse is the same as agent of let
+
+37.S: I think we 're going to find some other things . ' '' 
+  K: If go causes find then agent of go is the same as agent of find
+
+38.S: Here , as evidence , are the notes I managed to scrawl during yesterday 's White House press briefing . 
+  K: If manage causes scrawl then agent of manage is the same as agent of scrawl
+
+39.S: I am not going to add anything . 
+  K: If not go causes add then agent of not go is the same as agent of add
+
+40.S: In half an hour of questions , reporters manage to glean nothing -- not a single picayune detail -- except the obvious fact that Clinton 's lawyers have barred any public discussion . 
+  K: If manage causes glean then agent of manage is the same as agent of glean
+
+41.S: When everyone eventually tires of this thrust and parry . 
+  K: If eventually causes parry then agent of eventually is the same as agent of parry
+
+42.S: McCurry adjourns the briefing and disappears into the West Wing . 
+  K: If adjourn causes disappear then agent of adjourn is the same as agent of disappear
+
+43.S: As I leave a few minutes later I still hear Lockhart , now pinned by another group of reporters : `` I do n't know . 
+  K: If leave causes n't know then agent of leave is the same as agent of n't know
+
+44.S: As I leave a few minutes later I still hear Lockhart , now pinned by another group of reporters : `` I do n't know . 
+  K: If hear causes n't know then agent of hear is the same as agent of n't know
+
+45.S: It is here that Lucianne Goldberg first met Linda Tripp and here that Newsweek 's Mike Isikoff refused to listen to the Lewinsky tapes . 
+  K: If refuse causes listen then agent of refuse is the same as agent of listen
+
+46.S: This is not the audience of average Americans who are supposed to watch Clinton apologize , forgive him , and -- to use the night 's phrase -- `` move on with their lives . '' 
+  K: If suppose causes watch then recipient of suppose is the same as agent of watch
+
+47.S: Nobody expected Clinton to make a baldfaced confession : `` The American people need to know if their president is a lech . 
+  K: If expect causes make then recipient of expect is the same as agent of make
+
+48.S: Nobody expected Clinton to make a baldfaced confession : `` The American people need to know if their president is a lech . 
+  K: If need causes know then agent of need is the same as agent of know
+
+49.S: But I think almost everyone expected him to at least admit it . 
+  K: If expect causes admit then recipient of expect is the same as agent of admit
+
+50.S: What does it mean to `` take complete responsibility '' ? 
+  K: If mean causes take then agent of mean is the same as agent of take
+
+51.S: -LRB- My favorite moment of the evening came when ABC pundits tried to parse Clinton 's comments about the Paula Jones deposition . 
+  K: If try causes parse then agent of try is the same as agent of parse
+
+52.S: It 's a bit much for Clinton , three hours after he finished testifying , to start impugning Starr 's credibility . 
+  K: If finish causes start then agent of finish is the same as agent of start
+
+53.S: Clinton is the one who screwed -LRB- or whatever -RRB- the 22-year-old intern and tried to cover it up . 
+  K: If try causes cover then agent of try is the same as agent of cover
+
+54.S: Clinton is the one who screwed -LRB- or whatever -RRB- the 22-year-old intern and tried to cover it up . 
+  K: If try causes cover then agent of try is the same as agent of cover
+
+55.S: Clinton is the one who has delayed and stonewalled us for seven months . 
+  K: If delay causes stonewall then agent of delay is the same as agent of stonewall
+
+56.S: The most basic facts were in dispute , and a political leader could plausibly decline to express an opinion . 
+  K: If decline causes express then agent of decline is the same as agent of express
+
+57.S: You are permitted to weave variations on a few side issues -- for example , was his apology groveling enough ? 
+  K: If permit causes weave then recipient of permit is the same as agent of weave
+
+58.S: But you are no longer permitted to say the basic question is unclear or you need more time to think . 
+  K: If permit causes say then recipient of permit is the same as agent of say
+
+59.S: Today , Gingrich , Lott , Gephardt , and Hyde broke their silence with some of the most mealy-mouthed statements you could ever hope to hear . 
+  K: If hope causes hear then agent of hope is the same as agent of hear
+
+60.S: What was one , just one , of the questions that Clinton refused to answer ? 
+  K: If refuse causes answer then agent of refuse is the same as agent of answer
+
+61.S: a -RRB- Hillary urged him to fight back , not roll over . 
+  K: If urge causes fight then recipient of urge is the same as agent of fight
+
+62.S: b -RRB- He knew Starr would n't care how apologetic he was , so he decided to take the offensive and win the PR war . 
+  K: If decide causes win then agent of decide is the same as agent of win
+
+63.S: b -RRB- He knew Starr would n't care how apologetic he was , so he decided to take the offensive and win the PR war . 
+  K: If know causes win then agent of know is the same as agent of win
+
+64.S: b -RRB- He knew Starr would n't care how apologetic he was , so he decided to take the offensive and win the PR war . 
+  K: If decide causes win then agent of decide is the same as agent of win
+

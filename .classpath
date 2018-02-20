@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/kparser_jar/kparser_oct_17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/NLP Common Sense Extraction/prj_dep_jars/stanford-parser-3.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/NLP Common Sense Extraction/prj_dep_jars/stanford-parser-3.6.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/NLP Common Sense Extraction/prj_dep_jars/stanford-parser-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/smdfa/Documents/Fall2016/nlp/NLP Common Sense Extraction/prj_dep_jars/slf4j-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

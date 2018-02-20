@@ -1,0 +1,1446 @@
+1.S: In the Texas case , reports USAT , the defendant companies have agreed to pay about $ 15 billion over 25 years to reimburse the state for expenses it incurred in the treatment of smoking-related illnesses . 
+  K: If agree causes pay then agent of agree is the same as agent of pay
+
+2.S: The Wall Street Journal states that the plaintiffs ' lawyers hired by Texas to try the case will receive as part of the deal almost $ 2.2 billion in fees . 
+  K: If hire causes try then agent of hire is the same as agent of try
+
+3.S: The finding , if it holds up , says the Times , may lead to a simple way for airline travelers to fight jet lag . 
+  K: If lead causes fight then agent of lead is the same as agent of fight
+
+4.S: The NYT lead observes that despite Castro 's talk portraying the Pope as an ally in the struggle against American imperialism , there 's still plenty of religious repression in Cuba , The Times ' Larry Rohter gives an eyewitness account of Havana cops ordering kids from a church group to stop putting up posters advertising the pontiff 's visit . 
+  K: If order causes stop then recipient of order is the same as agent of stop
+
+5.S: Sen. John McCain , reports the paper , called on TV over the weekend for `` sustained air operations '' if the crisis is n't resolved , while the Iraqi VP urged 1 million Iraqis to join a new military force to stage a holy war against the U.N. sanctions . 
+  K: If urge causes join then recipient of urge is the same as agent of join
+
+6.S: A three-judge panel , reported both the Post and Los Angeles Times , has authorized Starr to explore charges that Clinton and his close friend Vernon Jordan persuaded the intern , Monica Lewinsky , to deny that she had had a year-and-a-half-long affair with the president after she had detailed the relationship in 10 conversations with Linda Tripp . 
+  K: If authorize causes explore then recipient of authorize is the same as agent of explore
+
+7.S: A three-judge panel , reported both the Post and Los Angeles Times , has authorized Starr to explore charges that Clinton and his close friend Vernon Jordan persuaded the intern , Monica Lewinsky , to deny that she had had a year-and-a-half-long affair with the president after she had detailed the relationship in 10 conversations with Linda Tripp . 
+  K: If persuade causes deny then recipient of persuade is the same as agent of deny
+
+8.S: The LAT reports that the two leaders met again last night but also states that the long talks have thus far failed to restart the deadlocked Middle East peace process . 
+  K: If fail causes restart then agent of fail is the same as agent of restart
+
+9.S: The LAT reports that the two leaders met again last night but also states that the long talks have thus far failed to restart the deadlocked Middle East peace process . 
+  K: If fail causes restart then agent of fail is the same as agent of restart
+
+10.S: Prompted by the recent murder of a NYC plainclothes officer during a drug bust , the NYT has an informative take-out on undercover work , which points out that about twice a month a NYC undercover officer is shot during a buy , and five or six times a month , one is forced at gunpoint by dealers to use coke or heroin . 
+  K: If force causes use then recipient of force is the same as agent of use
+
+11.S: In what USA Today calls a `` rapidly escalating inquiry '' into allegations that President Clinton had an affair with a White House intern , Monica Lewinsky , and told her to lie about it to authorities , Starr yesterday subpoenaed White House documents , including , says USAT , logs on Lewinsky 's comings and goings . 
+  K: If tell causes lie then recipient of tell is the same as agent of lie
+
+12.S: But think about it : why should you have to tell the truth about anything a prosecutor can think to ask you about ? 
+  K: If think causes ask then agent of think is the same as agent of ask
+
+13.S: Should the video delivery guy have to go to jail if he does n't want to answer that one ? 
+  K: If n't want causes answer then agent of n't want is the same as agent of answer
+
+14.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If persuade causes testify then recipient of persuade is the same as agent of testify
+
+15.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If work causes persuade then agent of work is the same as agent of persuade
+
+16.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If persuade causes testify then recipient of persuade is the same as agent of testify
+
+17.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If persuade causes testify then recipient of persuade is the same as agent of testify
+
+18.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If work causes persuade then agent of work is the same as agent of persuade
+
+19.S: USA Today says that while papering Washington and elsewhere with subpoenas , Kenneth Starr was working to persuade Monica Lewinsky to testify against President Clinton . 
+  K: If persuade causes testify then recipient of persuade is the same as agent of testify
+
+20.S: Jordan vigorously denied telling her to lie . 
+  K: If tell causes lie then recipient of tell is the same as agent of lie
+
+21.S: Readers , especially those just out of college with hardly any prior work experience , are encouraged to contact Mr. Jordan 's Washington office for similar job placement assistance . 
+  K: If encourage causes contact then recipient of encourage is the same as agent of contact
+
+22.S: The obits fail to clear up an abiding mystery : Why did Kam Fong play `` Chin Ho '' ? 
+  K: If fail causes clear then agent of fail is the same as agent of clear
+
+23.S: The Washington Post says this move was still up for debate as it went to press . 
+  K: If go causes press then agent of go is the same as agent of press
+
+24.S: `` We do n't want to push her into Starr 's arms , '' is the explanation . 
+  K: If n't want causes push then agent of n't want is the same as agent of push
+
+25.S: But the pontiff also criticized Cuban atheism and called for the protection of all Cubans ' rights . 
+  K: If criticize causes call then agent of criticize is the same as agent of call
+
+26.S: The NYT runs an op-ed by writer Janna Malamud Smith that states `` If we 're going to make simplistic rules about truth-telling , mine would start here : Ms. Tripp should have told Ms. Lewinsky why she invited her to lunch . . '' 
+  K: If go causes make then agent of go is the same as agent of make
+
+27.S: Elsewhere on the page , Anthony Lewis makes a point in passing that 's been overlooked thus far : Ken Starr first got Ms. Tripp to wear a wire and then used its fruits to get permission to widen his investigation . 
+  K: If get causes wear then recipient of get is the same as agent of wear
+
+28.S: I never told anybody to lie . 
+  K: If never tell causes lie then recipient of never tell is the same as agent of lie
+
+29.S: The Washington Post says Clinton clenched his jaw and glared as he made his denial . 
+  K: If clench causes glare then agent of clench is the same as agent of glare
+
+30.S: The visit is alleged to have come two weeks after Lewinsky was served with a subpoena in the Paula Jones case and one week before Lewinsky signed an affidavit swearing that she had not had a sexual relationship with Clinton . 
+  K: If serve causes sign then recipient of serve is the same as agent of sign
+
+31.S: By the way , the paper reports that several White House aides will visit the Hill today to encourage lawmakers to applaud . 
+  K: If visit causes encourage then recipient of visit is the same as agent of encourage
+
+32.S: By the way , the paper reports that several White House aides will visit the Hill today to encourage lawmakers to applaud . 
+  K: If encourage causes applaud then recipient of encourage is the same as agent of applaud
+
+33.S: The deal , says the Journal , puts Compaq in position to compete directly with IBM and Hewlett-Packard . 
+  K: If put causes compete then recipient of put is the same as agent of compete
+
+34.S: `` We overlooked Mr. Clinton 's past indiscretions -- he was hardly the first politician with testosterone overload -- on the condition that he pursue his agenda and postpone his next dalliance until after he left the White House . 
+  K: If pursue causes postpone then agent of pursue is the same as agent of postpone
+
+35.S: I knew he was a charming rogue with an appealing agenda , but I did n't think he was a reckless idiot with an appealing agenda . '' 
+  K: If know causes n't think then agent of know is the same as agent of n't think
+
+36.S: Clinton also used the occasion to warn -LRB- USA Today says `` threaten '' -RRB- Saddam Hussein that the U.S. is determined to deny him the ability to use weapons of mass destruction again . 
+  K: If determine causes deny then recipient of determine is the same as agent of deny
+
+37.S: They are also , says the paper , trying to determine whether Currie tried to make contact with Lewinsky from the White House on the day Lewinsky was first interrogated by Starr 's FBI agents . 
+  K: If try causes make then agent of try is the same as agent of make
+
+38.S: The WP reports that Monica 's lawyers and Ken Starr are moving closer to some sort of deal under which she would testify about whether she had a sexual relationship with the president as well as -- and this would be a big chip for Starr -- whether Clinton urged her to deny this Date of the Union . 
+  K: If urge causes deny then recipient of urge is the same as agent of deny
+
+39.S: The WP reports that Monica 's lawyers and Ken Starr are moving closer to some sort of deal under which she would testify about whether she had a sexual relationship with the president as well as -- and this would be a big chip for Starr -- whether Clinton urged her to deny this Date of the Union . 
+  K: If urge causes deny then recipient of urge is the same as agent of deny
+
+40.S: The WP reports that Monica 's lawyers and Ken Starr are moving closer to some sort of deal under which she would testify about whether she had a sexual relationship with the president as well as -- and this would be a big chip for Starr -- whether Clinton urged her to deny this Date of the Union . 
+  K: If urge causes deny then recipient of urge is the same as agent of deny
+
+41.S: The WP reports that Monica 's lawyers and Ken Starr are moving closer to some sort of deal under which she would testify about whether she had a sexual relationship with the president as well as -- and this would be a big chip for Starr -- whether Clinton urged her to deny this Date of the Union . 
+  K: If urge causes deny then recipient of urge is the same as agent of deny
+
+42.S: The Post also says that more than a year prior to secretly taping Monica Lewinsky , Linda Tripp tried to sell a book about the Clinton White House , asking the conservative publisher Alfred Regnery for something in the neighborhood of $ 500,000 . 
+  K: If try causes sell then agent of try is the same as agent of sell
+
+43.S: If you thought that Dick Morris , now back in Bill Clinton 's `` crisis cabinet , '' was going to make things smoother at the White House , you do n't know Dick . 
+  K: If go causes make then agent of go is the same as agent of make
+
+44.S: Albright added that the diplomatic string is running out and reiterated the U. S. position : U.N. weapons inspectors must have unconditional access to Iraqi sites . 
+  K: If add causes reiterate then agent of add is the same as agent of reiterate
+
+45.S: The Times says this meeting was confirmed by a White House aide , while the Post says the White House declined to comment about it and has refused to release the relevant entry logs . 
+  K: If decline causes comment then agent of decline is the same as agent of comment
+
+46.S: The Times says this meeting was confirmed by a White House aide , while the Post says the White House declined to comment about it and has refused to release the relevant entry logs . 
+  K: If refuse causes release then agent of refuse is the same as agent of release
+
+47.S: The Times says this meeting was confirmed by a White House aide , while the Post says the White House declined to comment about it and has refused to release the relevant entry logs . 
+  K: If decline causes comment then agent of decline is the same as agent of comment
+
+48.S: The Times says this meeting was confirmed by a White House aide , while the Post says the White House declined to comment about it and has refused to release the relevant entry logs . 
+  K: If refuse causes release then agent of refuse is the same as agent of release
+
+49.S: Lewinsky Outsky The New York Times , Washington Post , and Los Angeles Times lead with the decision by the judge in the Paula Jones lawsuit to exclude all evidence relating to Monica Lewinsky . 
+  K: If lead causes exclude then agent of lead is the same as agent of exclude
+
+50.S: The Wall Street Journal `` Washington Wire '' reminds us that journalists can dish it out but they ca n't take it , with its report that Sidney Blumenthal , who is suing Matt Drudge for slander , has , via his lawyers , blasted NBC 's Tim Russert for having Drudge on `` Meet The Press '' last weekend . 
+  K: If dish causes n't take then recipient of dish is the same as recipient of n't take
+
+51.S: The Los Angeles Times lead describes those efforts too , but emphasizes the nature of the likely U.S. military response . 
+  K: If describe causes emphasize then agent of describe is the same as agent of emphasize
+
+52.S: An AP dispatch quoted in both USAT and the WSJ states that the Saudis will not allow any Iraq strikes to originate from their country . 
+  K: If not allow causes originate then recipient of not allow is the same as agent of originate
+
+53.S: High up , the reader is told only that the U.S. game plan calls for taking `` substantial military action , '' which aims to `` destroy key military props supporting Iraqi President Saddam Hussein and affirm principles for the post-Cold War world . '' 
+  K: If aim causes destroy then agent of aim is the same as agent of destroy
+
+54.S: And if Congress fails to enact the tobacco deal thereby killing these programs , says the paper , Democrats come away with a potent political issue : the Republicans favored the tobacco industry over children and health . 
+  K: If fail causes enact then agent of fail is the same as agent of enact
+
+55.S: The most newsy development in what `` Today 's Papers '' had decided to call the Whitefluid scandal is that yesterday , as reported in the WP , Monica Lewinsky 's lawyer revealed on one of his five -LRB- ! -RRB- 
+  K: If decide causes call then recipient of decide is the same as agent of call
+
+56.S: chat show appearances that it 's possible his client , who owns a share of a Australian condo , was tape-recorded offering it to Linda Tripp in return for Tripp denying knowing about Lewinsky 's claim that she had a sexual relationship with President Clinton . 
+  K: If offer causes Linda_Tripp then recipient of offer is the same as agent of Linda_Tripp
+
+57.S: The LAT also highlights political considerations , saying that the budget was `` designed to give Democrats an upper hand in November 's congressional elections and provide Vice President Al Gore with an edge as the 2000 presidential election approaches . '' 
+  K: If design causes give then recipient of design is the same as agent of give
+
+58.S: The Times says the Saudis might agree to let their bases be used for support aircraft , but not bombers . 
+  K: If agree causes let then agent of agree is the same as agent of let
+
+59.S: The Times also passes along word that Russian negotiators are trying to cobble a deal that would allow an ad hoc weapons inspection of eight heretofore-off-limits presidential palace sites . 
+  K: If try causes cobble then agent of try is the same as agent of cobble
+
+60.S: Witness this lead on Monday 's front : `` The issue of whether disabled golfer Casey Martin should be allowed to use a golf cart in tournament play has captured the nation 's imagination for weeks . '' 
+  K: If allow causes use then recipient of allow is the same as agent of use
+
+61.S: The NYT lead sees `` war fever '' gripping Congress as it 's told by Defense 's William Cohen that if diplomacy fails , the U.S. will wage a `` significant '' military campaign against Iraq , which turns out to mean a sustained air war , but no substantial number of ground troops . 
+  K: If turn causes mean then agent of turn is the same as agent of mean
+
+62.S: Before a deal can be reached , the paper says , Starr wants Lewinsky to submit to questioning by his investigators , who especially want to clarify whether or not there were any attempts to cover up an affair with the president . 
+  K: If want causes clarify then agent of want is the same as agent of clarify
+
+63.S: Before a deal can be reached , the paper says , Starr wants Lewinsky to submit to questioning by his investigators , who especially want to clarify whether or not there were any attempts to cover up an affair with the president . 
+  K: If want causes submit then recipient of want is the same as agent of submit
+
+64.S: Starr particularly wants to find out more about what Lewinsky knows about the provenance of the `` talking points '' memo that Linda Tripp apparently received from her . 
+  K: If want causes find then agent of want is the same as agent of find
+
+65.S: Top Republicans are calling for the removal of Saddam , while the administration is trying to suppress expectations . 
+  K: If try causes suppress then agent of try is the same as agent of suppress
+
+66.S: Top Republicans are calling for the removal of Saddam , while the administration is trying to suppress expectations . 
+  K: If try causes suppress then agent of try is the same as agent of suppress
+
+67.S: USA Today goes with the severe storms that are forecasted to punish both coasts starting today . 
+  K: If forecast causes punish then recipient of forecast is the same as agent of punish
+
+68.S: Also , the Times reports , Currie turned over to investigators several gifts that Clinton had given to Lewinsky -- a dress , a brooch , and a hatpin . 
+  K: If turn causes investigators then agent of turn is the same as agent of investigators
+
+69.S: In her January 21 , 1998 affidavit for Jones -LRB- still under seal but somehow obtained by the WP -RRB- , Tripp says Lewinsky told her of an affair with Clinton commencing on November 15 , 1995 , and that Lewinsky had played at least three tapes for Tripp containing Clinton 's voice and showed her gifts from Clinton . 
+  K: If tell causes show then agent of tell is the same as agent of show
+
+70.S: In her January 21 , 1998 affidavit for Jones -LRB- still under seal but somehow obtained by the WP -RRB- , Tripp says Lewinsky told her of an affair with Clinton commencing on November 15 , 1995 , and that Lewinsky had played at least three tapes for Tripp containing Clinton 's voice and showed her gifts from Clinton . 
+  K: If play causes show then agent of play is the same as agent of show
+
+71.S: Tripp also says that Lewinsky had told her she planned to lie under oath if questioned about the relationship by Jones ' attorneys . 
+  K: If plan causes lie then agent of plan is the same as agent of lie
+
+72.S: The Wall Street Journal reports that during his Middle East shuttle , Secretary of Defense Cohen may ask some smaller Gulf states to take up to 60 U.S. fighter-bombers now based in Saudi Arabia . 
+  K: If ask causes take then recipient of ask is the same as agent of take
+
+73.S: An American general says the plane was following a standard training route , and thus far the crew have refused to speak with Italian investigators . 
+  K: If refuse causes speak then agent of refuse is the same as agent of speak
+
+74.S: An American general says the plane was following a standard training route , and thus far the crew have refused to speak with Italian investigators . 
+  K: If refuse causes speak then agent of refuse is the same as agent of speak
+
+75.S: USAT reports that the makers of the best-selling drug in the U.S , Astra , has agreed to pay a record nearly $ 10 million to female employees who claimed that they were pressured for sex by company officials and urged to wear bikinis at a beach function . 
+  K: If urge causes wear then agent of urge is the same as agent of wear
+
+76.S: USAT reports that the makers of the best-selling drug in the U.S , Astra , has agreed to pay a record nearly $ 10 million to female employees who claimed that they were pressured for sex by company officials and urged to wear bikinis at a beach function . 
+  K: If agree causes pay then agent of agree is the same as agent of pay
+
+77.S: Last week , it notes , Secretary of Defense William Cohen urged Israel to refrain from retaliating , but Sunday he was quoted as granting Israel the right of self-defense . 
+  K: If urge causes refrain then recipient of urge is the same as agent of refrain
+
+78.S: The Journal reports that the FTC is set to end decades of leniency regarding cigars . 
+  K: If set causes end then recipient of set is the same as agent of end
+
+79.S: Apparently , the agency is moving towards requiring stogie makers to report their ad and promotion budgets . 
+  K: If require causes report then recipient of require is the same as agent of report
+
+80.S: And is considering further steps such as : requiring cigar ads to carry a Surgeon General 's health warning . 
+  K: If require causes carry then recipient of require is the same as agent of carry
+
+81.S: One drowned her paralyzed son by pushing him off a canoe on a family outing , leaving him and his 50 pounds of metal leg braces to sink to the bottom . '' 
+  K: If brace causes sink then agent of brace is the same as agent of sink
+
+82.S: One drowned her paralyzed son by pushing him off a canoe on a family outing , leaving him and his 50 pounds of metal leg braces to sink to the bottom . '' 
+  K: If brace causes sink then agent of brace is the same as agent of sink
+
+83.S: The Kuwaiting Game USA Today leads with the U.S. decision to move 3,000 additional troops into Kuwait as part of its Iraq build-up . 
+  K: If lead causes move then agent of lead is the same as agent of move
+
+84.S: USAT says the purpose of the fresh troops is to increase pressure on Saddam Hussein , but also collaterally raises the question of how exactly that 's supposed to work , since the paper also states there is no intention to use those soldiers or those already in Kuwait for `` offensive action '' against Iraq . 
+  K: If suppose causes work then recipient of suppose is the same as agent of work
+
+85.S: The Times , in other words , still ca n't bear to breathe the words `` Matt Drudge '' as a source of news . 
+  K: If n't bear causes breathe then agent of n't bear is the same as agent of breathe
+
+86.S: This is as absurd and snobbish as if NBC News were to report on a story that originally was broken by a `` newspaper with offices on 43rd St. '' The NYT 's Keith Bradsher has pretty much owned the topic of the dangers presented to normal-sized cars by sports utility vehicles , and today Bradsher continues , writing about an auto insurance industry report that urges auto makers to redesign SUVs because they `` increase the risk of death for other road users while providing little if any additional protection for their own occupants . '' 
+  K: If urge causes redesign then recipient of urge is the same as agent of redesign
+
+87.S: So , it may seem a little thing , but imbued with the Orwellian desire to combat imprecise language that makes lies sound truthful and murder respectable , `` Today 's Papers '' would urge the WP to rewrite such stories thus : '' ... whose license was revoked after he crashed into a car , killing a teenage motorist ... '' And to put it under a headline like : `` Driver of Truck Who Killed Teen is Cited With New Violation . '' 
+  K: If imbue causes combat then agent of imbue is the same as agent of combat
+
+88.S: So , it may seem a little thing , but imbued with the Orwellian desire to combat imprecise language that makes lies sound truthful and murder respectable , `` Today 's Papers '' would urge the WP to rewrite such stories thus : '' ... whose license was revoked after he crashed into a car , killing a teenage motorist ... '' And to put it under a headline like : `` Driver of Truck Who Killed Teen is Cited With New Violation . '' 
+  K: If urge causes rewrite then recipient of urge is the same as agent of rewrite
+
+89.S: None of the papers ' accounts addresses a natural question : If spouses ca n't be compelled to testify against each other , how come a mother -LRB- especially one who 's apparently her child 's `` closest confidante '' -RRB- can be compelled to testify against a daughter ? 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+90.S: None of the papers ' accounts addresses a natural question : If spouses ca n't be compelled to testify against each other , how come a mother -LRB- especially one who 's apparently her child 's `` closest confidante '' -RRB- can be compelled to testify against a daughter ? 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+91.S: None of the papers ' accounts addresses a natural question : If spouses ca n't be compelled to testify against each other , how come a mother -LRB- especially one who 's apparently her child 's `` closest confidante '' -RRB- can be compelled to testify against a daughter ? 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+92.S: The possible Iraq attack takes a number and waits . 
+  K: If take causes wait then agent of take is the same as agent of wait
+
+93.S: USA Today and the Los Angeles Times lead with Janet Reno 's decision to ask that one be appointed to investigate if Interior Secretary Bruce Babbitt 's decision to reject a casino application opposed by major Democratic party contributors had any connection to subsequent donations they made . 
+  K: If appoint causes investigate then recipient of appoint is the same as agent of investigate
+
+94.S: The Washington Post goes with the revelation that U.N. weapons inspectors have uncovered evidence that in 1995 Russia had agreed to sell Iraq sophisticated equipment that could be used to develop biological weapons . 
+  K: If use causes develop then recipient of use is the same as agent of develop
+
+95.S: The Washington Post goes with the revelation that U.N. weapons inspectors have uncovered evidence that in 1995 Russia had agreed to sell Iraq sophisticated equipment that could be used to develop biological weapons . 
+  K: If agree causes sell then agent of agree is the same as agent of sell
+
+96.S: This disclosure , says the WP , puts a new spin on Russia 's recent diplomatic efforts to modify the inspection procedures applying to Iraq : perhaps they are designed , not to head off a war , but to keep such mass destruction fingerprints from being lifted . 
+  K: If put causes modify then recipient of put is the same as agent of modify
+
+97.S: The Times goes on to observe that this is the first Clinton-era outside inquiry into political fund-raising . 
+  K: If go causes observe then agent of go is the same as agent of observe
+
+98.S: The USAT front carries word that the EPA is considering requiring local water systems to issue reports on the chemical contents of their water to consumers . 
+  K: If require causes issue then recipient of require is the same as agent of issue
+
+99.S: Readers are asked at this point to observe a moment of silence . 
+  K: If ask causes observe then recipient of ask is the same as agent of observe
+
+100.S: Also , the Post reports that Cohen asked Sergeyev about yesterday 's allegations in the WP about a 1995 agreement by Russia to sell Iraq equipment that could be used to develop biological weapons . 
+  K: If ask causes sell then recipient of ask is the same as agent of sell
+
+101.S: Also , the Post reports that Cohen asked Sergeyev about yesterday 's allegations in the WP about a 1995 agreement by Russia to sell Iraq equipment that could be used to develop biological weapons . 
+  K: If use causes develop then recipient of use is the same as agent of develop
+
+102.S: Also , the piece makes the point that still seven years after Desert Storm , there is no ideal bomb in the inventory that can reliably destroy bio-chemical weapons plants while keeping poisons from getting into the atmosphere , which means that true precision will be needed to avoid large numbers of civilian casualties . 
+  K: If need causes avoid then recipient of need is the same as agent of avoid
+
+103.S: But actually , the former employs smooth curves to bend radar waves while the latter uses flat , jagged edges to scatter them . 
+  K: If employ causes bend then recipient of employ is the same as agent of bend
+
+104.S: `` Today 's Papers '' appreciates all its sharp-eyed grammarian readers and will press on irregardless of its occasional missteps . 
+  K: If appreciate causes press then agent of appreciate is the same as agent of press
+
+105.S: The New York Times lead states that the `` consumer '' health-care laws -LRB- the scare-quotes are supplied by the Times -RRB- being discussed in state capitals tend to focus more on protecting `` the incomes , jobs and turf of the health-care system 's biggest and richest vested interests , '' namely , specialist physicians and managed-care plans . 
+  K: If tend causes focus then agent of tend is the same as agent of focus
+
+106.S: The paper goes on to point out that Congress , which began a week 's recess Friday , left without passing a resolution authorizing force . 
+  K: If go causes point then agent of go is the same as agent of point
+
+107.S: Yet a front-page piece by LAT Middle East expert Robin Wright states that in the eyes of some U.S. intelligence experts , the U.S. knew the intelligence it supplied to Iraq in the 80s -LRB- during its war with Iran -RRB- would be used to develop chemical weapons plans . 
+  K: If use causes develop then recipient of use is the same as agent of develop
+
+108.S: The NYT front seems to find a more conflicted public : `` While most people seem to believe the United States should take action against Iraq , there is plenty of doubt , and almost universal exasperation that American forces might once again be placed in harm 's way . '' 
+  K: If seem causes find then agent of seem is the same as agent of find
+
+109.S: Among the grounds for doubt ticked off by the Journal : U.S. targeters are n't really sure where the special weapons plants are , and do n't know what to do about `` dual use '' targets like hospitals that are also used to produce biological weapons . 
+  K: If use causes produce then recipient of use is the same as agent of produce
+
+110.S: Among the grounds for doubt ticked off by the Journal : U.S. targeters are n't really sure where the special weapons plants are , and do n't know what to do about `` dual use '' targets like hospitals that are also used to produce biological weapons . 
+  K: If use causes produce then recipient of use is the same as agent of produce
+
+111.S: Among the grounds for doubt ticked off by the Journal : U.S. targeters are n't really sure where the special weapons plants are , and do n't know what to do about `` dual use '' targets like hospitals that are also used to produce biological weapons . 
+  K: If use causes produce then recipient of use is the same as agent of produce
+
+112.S: Among the grounds for doubt ticked off by the Journal : U.S. targeters are n't really sure where the special weapons plants are , and do n't know what to do about `` dual use '' targets like hospitals that are also used to produce biological weapons . 
+  K: If use causes produce then recipient of use is the same as agent of produce
+
+113.S: The paper says the administration does n't want to advertise this . 
+  K: If n't want causes advertise then agent of n't want is the same as agent of advertise
+
+114.S: Such agreements , says the paper , have allowed the president 's defense team to learn what questions are being posed and what answers given during grand jury sessions . 
+  K: If allow causes learn then recipient of allow is the same as agent of learn
+
+115.S: Presidential lawyers tell the LAT that they expect Starr to challenge these agreements . 
+  K: If expect causes challenge then recipient of expect is the same as agent of challenge
+
+116.S: Ordinarily , if you hope for something and do things that ordinarily could be expected to bring it about , then it would count as one of your goals . 
+  K: If expect causes bring then recipient of expect is the same as agent of bring
+
+117.S: But because the U.S. government operates under a presidential executive order forbidding the assassination of foreign leaders , U.S. military planners who want to eliminate a foreign leader have to perfect the mental trick of hoping for e.g. Saddam 's death as they plan to e.g. bomb the building where they know he sleeps , but at the same time being genuinely surprised if he were to die as a result . 
+  K: If plan causes bomb then agent of plan is the same as agent of bomb
+
+118.S: But because the U.S. government operates under a presidential executive order forbidding the assassination of foreign leaders , U.S. military planners who want to eliminate a foreign leader have to perfect the mental trick of hoping for e.g. Saddam 's death as they plan to e.g. bomb the building where they know he sleeps , but at the same time being genuinely surprised if he were to die as a result . 
+  K: If want causes eliminate then agent of want is the same as agent of eliminate
+
+119.S: In its piece on the speech , USA Today mentions that the Secretary-General of the U.N. , Kofi Annan , is going to Baghdad to try for a peaceful resolution . 
+  K: If go causes try then agent of go is the same as agent of try
+
+120.S: The Washington Post makes it clear that if Annan 's mission fails to produce Iraqi compliance , an air bombardment is a `` virtual certainty . '' 
+  K: If fail causes produce then agent of fail is the same as agent of produce
+
+121.S: His report reveals that the briefing ran 45 minutes and centered on the details of a military strike . 
+  K: If run causes center then agent of run is the same as agent of center
+
+122.S: Clinton mostly listened and made no new decisions . 
+  K: If listen causes make then agent of listen is the same as agent of make
+
+123.S: The USAT , WP , and LAT fronts all report President Clinton 's lawyers asked the judge in the Paula Jones case to dismiss her suit for lack of substance . 
+  K: If ask causes dismiss then recipient of ask is the same as agent of dismiss
+
+124.S: The Pentagon corridor explanation teased out by the WP is that if it were to fail it would be a colossal embarrassment for the Air Force , while if it were to succeed it might siphon money away from newer hot Air Force aircraft programs . 
+  K: If fail causes siphon then agent of fail is the same as agent of siphon
+
+125.S: The in-studio Columbus audience of about 6,000 served up what the LAT calls a `` raucous , emotional debate that showed a nation far from convinced of the administration 's course in the Persian Gulf . '' 
+  K: If call causes show then recipient of call is the same as agent of show
+
+126.S: The Post reports that during commercial breaks , while the startled Clintonites held whispered conferences , aides fanned out into the noisy parts of the arena to calm those -LRB- numbering about 200 , guesses the Times -RRB- chanting `` We do n't want your racist war . '' 
+  K: If fan causes calm then agent of fan is the same as agent of calm
+
+127.S: The schools hired a consultant to rebut the listings and sent out a letter debunking them to 93,000 current law-school applicants . 
+  K: If hire causes send then agent of hire is the same as agent of send
+
+128.S: The Washington Post and New York Times lead with the Clinton administration 's post-Columbus moves to shore up public support for its Iraq stance , with the Post reporting that critics of a U.S. air assault now include Jimmy Carter . 
+  K: If lead causes shore then agent of lead is the same as agent of shore
+
+129.S: Allegedly , the men were plotting to deploy the agent in the New York City subway system -- yeah right , like anthrax could survive that . 
+  K: If plot causes deploy then agent of plot is the same as agent of deploy
+
+130.S: The anthrax story also makes the NYT and LAT fronts , but is pushed inside at the WP . 
+  K: If make causes push then agent of make is the same as recipient of push
+
+131.S: The WP reports that President Clinton warned Saddam Hussein not to mistake the skeptical questions raised at the raucous Columbus forum as a sign that Americans lack resolve for military action . 
+  K: If warn causes not mistake then recipient of warn is the same as agent of not mistake
+
+132.S: The NYT 's coverage of the hearts and mind stage of the Iraq run-up suggests more of an uphill battle than does the WP 's : `` A day after U.S. policy toward Iraq was passionately picked apart at a town hall meeting in Ohio , President Clinton tried to reassemble the pieces . . '' 
+  K: If try causes reassemble then agent of try is the same as agent of reassemble
+
+133.S: The NYT 's coverage of the hearts and mind stage of the Iraq run-up suggests more of an uphill battle than does the WP 's : `` A day after U.S. policy toward Iraq was passionately picked apart at a town hall meeting in Ohio , President Clinton tried to reassemble the pieces . . '' 
+  K: If try causes reassemble then agent of try is the same as agent of reassemble
+
+134.S: The LAT lead states that presidential confidant Bruce Lindsey declined to answer some questions during his two-day Starr grand jury appearance , which , the paper says , set the stage for a `` Watergate-style battle '' over the use of executive privilege . 
+  K: If decline causes answer then agent of decline is the same as agent of answer
+
+135.S: If , for instance , there was prima facie evidence that President Clinton had discussed Iraq moves with Lewinsky , then by the same logic that got us here , Ken Starr would be entitled to question her about that too . 
+  K: If entitle causes question then recipient of entitle is the same as agent of question
+
+136.S: And in return , the U.N. agrees to provide diplomats from various countries who would accompany the weapons inspectors . 
+  K: If agree causes provide then agent of agree is the same as agent of provide
+
+137.S: One administration concern the Post passes along : that Annan may not have insisted on the right of inspectors to make repeat visits to the presidential palaces . 
+  K: If not insist causes make then agent of not insist is the same as agent of make
+
+138.S: Provided that the `` donors '' in question are legitimately tried and executed , neither piece , it seems , really makes it clear exactly why this practice is inherently deplorable . 
+  K: If try causes execute then recipient of try is the same as recipient of execute
+
+139.S: The WP reports that Ms. Bono has left her newly fatherless seven-year-old and nine-year-old in school back in California while she came to Washington to raise money for her campaign to win her late husband 's congressional seat . 
+  K: If come causes raise then agent of come is the same as agent of raise
+
+140.S: The WP also reports that the U.S. wants the U.N. resolution to automatically declare Iraq in breach of the agreement if it resumes its obstructive ways . 
+  K: If want causes declare then recipient of want is the same as agent of declare
+
+141.S: The WSJ reports that the Justice Department has decided to fight Starr 's efforts to obtain testimony from presidential bodyguards . 
+  K: If decide causes fight then agent of decide is the same as agent of fight
+
+142.S: The piece goes on to quote various breathless university officials about how the money is rolling in , but nowhere is the question raised as to why if financial times are so good , tuition has risen at a ferocious rate , often outpacing even health care costs . 
+  K: If go causes quote then agent of go is the same as agent of quote
+
+143.S: The WP lead reports that yesterday , Starr lashed out at the `` avalanche of lies '' spread about his staff and defended his decision to subpoena Clinton loyalists to determine if they have been spreading derogatory information about his office . 
+  K: If subpoena causes determine then recipient of subpoena is the same as agent of determine
+
+144.S: The WP lead reports that yesterday , Starr lashed out at the `` avalanche of lies '' spread about his staff and defended his decision to subpoena Clinton loyalists to determine if they have been spreading derogatory information about his office . 
+  K: If subpoena causes determine then recipient of subpoena is the same as agent of determine
+
+145.S: The Post does report that Lewinsky was offered $ 10,000 seed money for a legal defense fund by a benefactor whose foundation promotes the view that women need to `` use their sexuality '' in the workplace to attract mentors . 
+  K: If need causes use then agent of need is the same as agent of use
+
+146.S: Lott , reports the Times , urged President Clinton to reject it , accusing the administration of abdicating its foreign policy to Kofi Annan . 
+  K: If urge causes reject then recipient of urge is the same as agent of reject
+
+147.S: The WP and LAT fronts describe how , within the past eleven days , computer hackers have broken into unclassified Pentagon networks to examine and possibly alter payroll and personnel data . 
+  K: If break causes examine then agent of break is the same as agent of examine
+
+148.S: The repetitive outcome , showed , says the paper , that a year of publicity about the excesses of political fund-raising had `` failed to change a single senator 's mind . '' 
+  K: If fail causes change then agent of fail is the same as agent of change
+
+149.S: The Times goes on to point out that while for the past year , Senate Republicans had put the spotlight on President Clinton 's more unseemly fund-raising efforts , they have fiercely resisted any legislative fix that would cancel their fund-raising advantage , which USAT spells out : $ 40.2 million in soft money , compared to the Democrats ' $ 33.3 million . 
+  K: If go causes point then agent of go is the same as agent of point
+
+150.S: The WP and NYT both report that Democrats intend to run on the issue in the fall congressional elections . 
+  K: If intend causes run then agent of intend is the same as agent of run
+
+151.S: The Washington Post goes with the weekend call by several Clinton allies for Kenneth Starr to abandon his Whitewater inquiry . 
+  K: If go causes abandon then agent of go is the same as agent of abandon
+
+152.S: It would be interesting to see how many fundraisers and meetings with lobbyists he manages to fit in . -RRB- 
+  K: If manage causes fit then agent of manage is the same as agent of fit
+
+153.S: The WP lead notes that on weekend yap shows , White House advisor Rahm Emmanuel and Sen. Patrick Leahy called on Starr to wind up Whitewater , and that three Republican senators also expressed guarded criticism of him . 
+  K: If call causes wind then agent of call is the same as agent of wind
+
+154.S: The paper reports that over the weekend Arlen Specter , John McCain and Orrin Hatch each questioned Starr 's calling in Sidney Blumenthal to question him in front of a grand jury about his press contacts . 
+  K: If call causes question then agent of call is the same as agent of question
+
+155.S: The Wall Street Journal front page tells the story of how four years after the FAA announced its intent to create a $ 500 million system for allowing commercial aircraft to use military Global Positioning satellites for navigation , the system is nowhere near in place . 
+  K: If allow causes use then recipient of allow is the same as agent of use
+
+156.S: The Wall Street Journal front page tells the story of how four years after the FAA announced its intent to create a $ 500 million system for allowing commercial aircraft to use military Global Positioning satellites for navigation , the system is nowhere near in place . 
+  K: If allow causes use then recipient of allow is the same as agent of use
+
+157.S: The programs typically cover how to handle gamblers , groupies and ... salad forks . 
+  K: If cover causes handle then agent of cover is the same as agent of handle
+
+158.S: The Security Council voted 15-0 to approve the Annan deal , which opens up eight of Saddam 's presidential sites to U.N. inspectors . 
+  K: If approve causes open then recipient of approve is the same as agent of open
+
+159.S: The U.S. and Britain wanted the Council to authorize automatic military action as part of the accord , while other member countries , led by France , Russia , and China , did not . 
+  K: If want causes authorize then recipient of want is the same as agent of authorize
+
+160.S: `` No one concerned about fighting crime would even think about saying , ` Well , three years from now we 're going to throw out the criminal code and we 'll figure out what to put in its place , ' '' the paper quotes Clinton as saying . 
+  K: If go causes throw then agent of go is the same as agent of throw
+
+161.S: Why then does the WP put it on p. 5 , and the NYT national edition bury it on p. 15 ? 
+  K: If put causes bury then recipient of put is the same as recipient of bury
+
+162.S: The paper is struck by how far Gates ' behavior is from `` the usual cautious demeanor of business leaders visiting Washington , '' and finds him `` roaring with indignation and disdain for those who question his business practices . '' 
+  K: If strike causes find then recipient of strike is the same as agent of find
+
+163.S: A good example is found in today 's LAT `` Column One '' feature , which tells us that Walt Whitman , `` the poet of democracy , the poet of the body and soul , '' commands a loyal and expansive following , and quotes a talking head from USC to drive home the point . 
+  K: If find causes drive then recipient of find is the same as agent of drive
+
+164.S: Scalia , notes the Times , went on to claim that the decision does not abrogate all `` genuine but innocuous differences in the ways men and women routinely interact with members of the same sex and of the opposite sex , '' and all the papers give his example : a football coach slapping a player 's rear on the way to the field would be lawful , while the same gesture directed at the coach 's -LRB- female or male -RRB- secretary might not be . 
+  K: If go causes claim then agent of go is the same as agent of claim
+
+165.S: The Post reports that often during the proceeding 's five hours , Clinton had to be asked to speak up . 
+  K: If ask causes speak then recipient of ask is the same as agent of speak
+
+166.S: The Post reports that often during the proceeding 's five hours , Clinton had to be asked to speak up . 
+  K: If ask causes speak then recipient of ask is the same as agent of speak
+
+167.S: Michael Kelly 's WP column about Ken Starr vs. Sidney Blumenthal has one of the more striking author disclaimers you 'll ever see : '' ... -LRB- full disclosure : I worked with Blumenthal at the New Yorker and did n't like him . -RRB- '' 
+  K: If work causes n't like then agent of work is the same as agent of n't like
+
+168.S: The USAT lead reports that while denying any obstruction of justice , Jordan said that he kept Bill Clinton informed about his efforts to land Monica Lewinsky a private-sector job . 
+  K: If inform causes land then agent of inform is the same as agent of land
+
+169.S: The USAT lead reports that while denying any obstruction of justice , Jordan said that he kept Bill Clinton informed about his efforts to land Monica Lewinsky a private-sector job . 
+  K: If inform causes land then agent of inform is the same as agent of land
+
+170.S: You have to read the Post to learn that Bennett not only viewed the WP deposition leak as `` reckless , reprehensible and unethical '' but also that he said , `` We are going to seek relief in court on this ... '' -LRB- Apparently , Bennett did n't elaborate and the Post was n't about to -- after all , it 's the WP 's source Bennett is talking about going after . -RRB- 
+  K: If read causes learn then recipient of read is the same as agent of learn
+
+171.S: You have to read the Post to learn that Bennett not only viewed the WP deposition leak as `` reckless , reprehensible and unethical '' but also that he said , `` We are going to seek relief in court on this ... '' -LRB- Apparently , Bennett did n't elaborate and the Post was n't about to -- after all , it 's the WP 's source Bennett is talking about going after . -RRB- 
+  K: If go causes seek then agent of go is the same as agent of seek
+
+172.S: The two papers also detail Clinton 's hot reaction to Thursday 's Post scoop : `` the court has made it absolutely clear it is illegal to leak and discuss '' his deposition . 
+  K: If leak causes discuss then agent of leak is the same as agent of discuss
+
+173.S: Also , the LAT front reports that Clinton `` sternly refused '' to explain Thursday why in his deposition , he said he warned Monica L. that she was likely to be called in the Jones case . 
+  K: If refuse causes explain then agent of refuse is the same as agent of explain
+
+174.S: The LAT lead is the news that California campaign donor Johnny Chung , who once compared the White House to a subway , where you need coins to open the doors , will plead guilty to tax evasion , bank fraud and election law violations in an agreement with the DOJ under which he will cooperation with the Department 's fund-raising investigation . 
+  K: If need causes open then recipient of need is the same as agent of open
+
+175.S: The paper also reports that another big Clinton donor suspected of funneling foreign money to the Democratic Party , Yogesh Gandhi , was arrested Thursday on unrelated fraud charges as he prepared to leave the country . 
+  K: If prepare causes leave then agent of prepare is the same as agent of leave
+
+176.S: The Wall Street Journal reports that military planners of possible airstrikes against Iraq have become less confident of the U.S. ability to bomb biological weapons sites in Iraq after a secret Air Force test in which a special bomb that was expected to incinerate a stockpile of anthrax-like germs instead spread them . 
+  K: If expect causes incinerate then recipient of expect is the same as agent of incinerate
+
+177.S: The Wall Street Journal reports that military planners of possible airstrikes against Iraq have become less confident of the U.S. ability to bomb biological weapons sites in Iraq after a secret Air Force test in which a special bomb that was expected to incinerate a stockpile of anthrax-like germs instead spread them . 
+  K: If expect causes incinerate then recipient of expect is the same as agent of incinerate
+
+178.S: The Wall Street Journal reports that military planners of possible airstrikes against Iraq have become less confident of the U.S. ability to bomb biological weapons sites in Iraq after a secret Air Force test in which a special bomb that was expected to incinerate a stockpile of anthrax-like germs instead spread them . 
+  K: If expect causes incinerate then recipient of expect is the same as agent of incinerate
+
+179.S: The California Highway Patrol says Sprewell 's Mercedes was traveling at `` high speed '' when it struck sand barrel obstacles , hit a wall and then collided with another car . 
+  K: If strike causes collide then agent of strike is the same as agent of collide
+
+180.S: The Times says a rift has opened between House Republicans , who continue to aggressively opt for tax cuts , and Senate Republicans , who are more apt to go along with the basic thrust of the Clinton budget plan . 
+  K: If continue causes opt then agent of continue is the same as agent of opt
+
+181.S: The WP lead reports that Starr is investigating whether Kathleen Willey , a former White House aide alleged by Linda Tripp to have once received an unsolicited sexual advance from President Clinton in the Oval Office , was ever asked by people with Clinton ties to alter her testimony about such an incident . 
+  K: If ask causes alter then recipient of ask is the same as agent of alter
+
+182.S: The Post notes that one such person Starr may investigate is a Democratic fund-raiser who may have called and met with Willey . 
+  K: If call causes meet then agent of call is the same as agent of meet
+
+183.S: He called for the president to come forward and tell the whole truth about the Lewinsky matter . 
+  K: If call causes tell then agent of call is the same as agent of tell
+
+184.S: According to the paper , the government wants Lockheed to divest all of Northrop 's defense electronics programs , which may be a deal-breaker , since acquiring them was one of the merger 's prime motivations . 
+  K: If want causes divest then recipient of want is the same as agent of divest
+
+185.S: The Wall Street Journal and NYT accounts stress that the government is concerned that consolidation among military suppliers may have gone too far to maintain competition . 
+  K: If go causes maintain then agent of go is the same as agent of maintain
+
+186.S: The papers seize on various indications that in Willey , Starr seems to have at last found a cooperative witness , noting that she did not appear to have her own lawyer with her -LRB- USAT -RRB- , that she arrived in a Starr van -LRB- the WP -RRB- , and was accompanied inside the courthouse by prosecutors -LRB- the WP and NYT -RRB- . 
+  K: If seem causes find then agent of seem is the same as agent of find
+
+187.S: But the Post also notes that the White House was mum about how Willey , a clerical volunteer , managed to wangle the private appointment in November , 1993 with Clinton to discuss her husband 's financial troubles and her sudden need for a job , during which , she charges in her Jones case deposition , he groped her . 
+  K: If manage causes wangle then agent of manage is the same as agent of wangle
+
+188.S: The Post observes that Willey 's appearance indicates Starr is widening his investigation beyond the allegations involving Monica Lewinsky to determine whether President Clinton has testified truthfully in his Paula Jones deposition about other women as well . 
+  K: If involve causes determine then recipient of involve is the same as agent of determine
+
+189.S: Everybody reports that Starr is also interested in determining if Willey was -- as she stated in her Jones case affidavit -- approached by Democratic fund-raiser Nathan Landow in an effort to influence her to back off her grope charge . 
+  K: If approach causes influence then recipient of approach is the same as agent of influence
+
+190.S: Everybody reports that Starr is also interested in determining if Willey was -- as she stated in her Jones case affidavit -- approached by Democratic fund-raiser Nathan Landow in an effort to influence her to back off her grope charge . 
+  K: If influence causes back then recipient of influence is the same as agent of back
+
+191.S: It has been widely reported that a woman named Julie Steele now says Willey asked her to falsely claim that she was told by Willey about the incident not long after it happened . 
+  K: If ask causes claim then recipient of ask is the same as agent of claim
+
+192.S: The NYT front reports that six Iraqis who worked with the CIA in plots against Saddam Hussein have now been declared threats to U.S. national security and hence subject to deportation , in a ruling so secret that their lawyers are n't allowed to read it . 
+  K: If n't allow causes read then recipient of n't allow is the same as agent of read
+
+193.S: The NYT front reports that six Iraqis who worked with the CIA in plots against Saddam Hussein have now been declared threats to U.S. national security and hence subject to deportation , in a ruling so secret that their lawyers are n't allowed to read it . 
+  K: If n't allow causes read then recipient of n't allow is the same as agent of read
+
+194.S: The NYT front reports that six Iraqis who worked with the CIA in plots against Saddam Hussein have now been declared threats to U.S. national security and hence subject to deportation , in a ruling so secret that their lawyers are n't allowed to read it . 
+  K: If n't allow causes read then recipient of n't allow is the same as agent of read
+
+195.S: The Wall Street Journal `` Tax Report '' says that the number of tax cases referred to the Justice Department in which taxpayers have simply refused to recognize the basic legality of the income tax has doubled over the past three years . 
+  K: If refuse causes recognize then agent of refuse is the same as agent of recognize
+
+196.S: And the Journal 's piece about the upcoming Blumenthal vs. Drudge libel suit quotes First Amendment scholar Floyd Abrams as saying , `` If one were rewriting libel law today , one would try to write it to assure that the false statements of Matt Drudge were treated as libel . '' 
+  K: If try causes write then agent of try is the same as agent of write
+
+197.S: And the Journal 's piece about the upcoming Blumenthal vs. Drudge libel suit quotes First Amendment scholar Floyd Abrams as saying , `` If one were rewriting libel law today , one would try to write it to assure that the false statements of Matt Drudge were treated as libel . '' 
+  K: If write causes assure then recipient of write is the same as agent of assure
+
+198.S: You know , that would n't allow Matt Drudge to say what he says , but would allow Floyd Abrams to say what he says . 
+  K: If n't allow causes say then recipient of n't allow is the same as agent of say
+
+199.S: You know , that would n't allow Matt Drudge to say what he says , but would allow Floyd Abrams to say what he says . 
+  K: If allow causes say then recipient of allow is the same as agent of say
+
+200.S: The WP reports that accident investigators found that the Marine jet was flying too low -- only 300 to 400 feet when it was supposed to be at 2,000 -- and too fast -- more than 100 miles per hour over the prescribed limit for the route -- when it struck that Italian cable car wire . 
+  K: If suppose causes strike then recipient of suppose is the same as agent of strike
+
+201.S: A USAT inside piece on Linda Tripp reveals that she never labeled the tapes she made of her phone conversations with Monica Lewinsky , but did keep her TV on during the calls , knowing that the World Series broadcasts and sitcom episodes audible in the background would enable the particular calls to be dated . 
+  K: If enable causes date then recipient of enable is the same as recipient of date
+
+202.S: The Washington Post goes with the revelation that last fall , just weeks after gaining China 's pledge to halt assistance to Iran 's nuclear programs -LRB- elicited in return for allowing American firms to sell nuclear reactors to China -RRB- , the Clinton administration discovered and protested China 's secret negotiations with Iran regarding shipping it material used to make weapons-grade uranium . 
+  K: If use causes make then agent of use is the same as agent of make
+
+203.S: The Washington Post goes with the revelation that last fall , just weeks after gaining China 's pledge to halt assistance to Iran 's nuclear programs -LRB- elicited in return for allowing American firms to sell nuclear reactors to China -RRB- , the Clinton administration discovered and protested China 's secret negotiations with Iran regarding shipping it material used to make weapons-grade uranium . 
+  K: If allow causes sell then recipient of allow is the same as agent of sell
+
+204.S: The Post also points out that in some ways , Willey could be a more troublesome witness for Clinton than the other women alleging sexual harassment , because Willey was originally unwilling to tell her story , her accusation is of a non-consensual act , and she is hardly a Clinton-hating member of the vast right-wing conspiracy Hillary Clinton cited , having worked to get Clinton elected . 
+  K: If cite causes work then agent of cite is the same as agent of work
+
+205.S: Also , USAT decides to leave out the rest of the Ireland quote , which the WP includes : `` He put his hand on her breast ; he put her hand on his erection . 
+  K: If decide causes leave then agent of decide is the same as agent of leave
+
+206.S: In another , Willey asks to be appointed to an ambassadorship . 
+  K: If ask causes appoint then agent of ask is the same as recipient of appoint
+
+207.S: The NYT lead concerning the Vatican points out that while the document issued Monday is described by the Church as `` an act of repentance '' for the failure of Roman Catholics to deter the mass killings in Europe during the Holocaust , it skirts the issue of the Vatican 's institutional shortcomings during the era , primarily its official silence about the Nazis . 
+  K: If describe causes deter then recipient of describe is the same as agent of deter
+
+208.S: The main problem , says the paper , is that the law does n't control how much companies can charge for such gap coverage , so they are tending to make it prohibitive . 
+  K: If tend causes make then agent of tend is the same as agent of make
+
+209.S: A bit further below in the story is the reason for that : they are trying to gain market share via low prices . 
+  K: If try causes gain then agent of try is the same as agent of gain
+
+210.S: The metro edition of the Times leads with the unanimous decision by the New York City Board of Education to require elementary school kids to wear uniforms . 
+  K: If lead causes require then agent of lead is the same as agent of require
+
+211.S: The metro edition of the Times leads with the unanimous decision by the New York City Board of Education to require elementary school kids to wear uniforms . 
+  K: If require causes wear then recipient of require is the same as agent of wear
+
+212.S: The paper concludes the judge wanted to `` send a message to key players in the White House intern scandal . '' 
+  K: If want causes send then agent of want is the same as agent of send
+
+213.S: The Washington Post leads with the apparent intention of President Clinton 's lawyer in the Paula Jones case , Robert Bennett , to submit material to the trial judge today covering Jones ' past sex life to rebut her claim in her previous filings that her alleged encounter with Clinton left her with an alleged `` sexual aversion injury . '' 
+  K: If lead causes submit then agent of lead is the same as agent of submit
+
+214.S: Petroleum Jelling The Washington Post and New York Times lead with the decision by a coalition of some of the world 's top oil exporters to cut back production in an attempt to reverse a sharp price slide . 
+  K: If lead causes cut then agent of lead is the same as agent of cut
+
+215.S: The move , which the WP calls `` unusual solidarity , '' is expected to send oil prices up . 
+  K: If expect causes send then recipient of expect is the same as agent of send
+
+216.S: The paper also notes that many analysts had been predicting the economic pain of low oil revenues would force the producers to rein in production . 
+  K: If force causes rein then recipient of force is the same as agent of rein
+
+217.S: Clear enough , but then the paper goes on to `` illustrate '' that idea with the following passage from the joint statement , which is anything but : '' . 
+  K: If go causes illustrate then agent of go is the same as agent of illustrate
+
+218.S: Curiously , the LAT lead puts in the second paragraph the information that businessman Al Checchi criticized Rep. Jane Harman for appealing to Republicans , that Harman sniped at Checchi for having a lot of position papers , and that Lt. Gov. Gray Davis attacked them both as millionaires trying to buy the election , but delays until the fifth paragraph the news that Checchi and Harman said that as governor they would seek to repeal Prop. 209 , the California ballot measure outlawing racial and gender preferences in state hiring and college admissions , and that Davis would not do this . 
+  K: If seek causes repeal then agent of seek is the same as agent of repeal
+
+219.S: The WP runs a piece inside reporting that according to Russian sources , Russian intelligence agents have , for the past several years , quietly recruited scientists to go to Iran and teach their Iranian counterparts how to build missiles to carry deadly payloads as far as 1,200 miles . 
+  K: If teach causes build then recipient of teach is the same as agent of build
+
+220.S: The WP runs a piece inside reporting that according to Russian sources , Russian intelligence agents have , for the past several years , quietly recruited scientists to go to Iran and teach their Iranian counterparts how to build missiles to carry deadly payloads as far as 1,200 miles . 
+  K: If build causes carry then recipient of build is the same as agent of carry
+
+221.S: The piece goes on to say that the Russians intend to stop this practice . 
+  K: If go causes say then agent of go is the same as agent of say
+
+222.S: The piece goes on to say that the Russians intend to stop this practice . 
+  K: If intend causes stop then agent of intend is the same as agent of stop
+
+223.S: The `` Rule of Law '' piece , by a former Reagan administration deputy attorney general , argues that `` it is time for a sober reassessment of the power we have concentrated in the hands of prosecutors and the alarming absence of effective checks and balances to prevent the widespread abuse of that power . '' 
+  K: If concentrate causes prevent then agent of concentrate is the same as agent of prevent
+
+224.S: In firing him , Yeltsin advised him to concentrate on the next presidential elections , to be held in 2000 . 
+  K: If advise causes concentrate then recipient of advise is the same as agent of concentrate
+
+225.S: In firing him , Yeltsin advised him to concentrate on the next presidential elections , to be held in 2000 . 
+  K: If concentrate causes hold then agent of concentrate is the same as recipient of hold
+
+226.S: The LAT , NYT , and WP fronts carry the news that the federal government has indeed , as it first hinted over a week ago , decided to try to block the Lockheed-Northrop merger . 
+  K: If decide causes try then agent of decide is the same as agent of try
+
+227.S: The LAT , NYT , and WP fronts carry the news that the federal government has indeed , as it first hinted over a week ago , decided to try to block the Lockheed-Northrop merger . 
+  K: If try causes block then agent of try is the same as agent of block
+
+228.S: The WP reports that in the Lewinsky matter , the White House is attempting to use its recently announced claim of executive privilege to cover discussions involving not just presidential advisors like Bruce Lindsey and Sidney Blumenthal , but also those involving Hillary Clinton . 
+  K: If attempt causes use then agent of attempt is the same as agent of use
+
+229.S: The WP reports that in the Lewinsky matter , the White House is attempting to use its recently announced claim of executive privilege to cover discussions involving not just presidential advisors like Bruce Lindsey and Sidney Blumenthal , but also those involving Hillary Clinton . 
+  K: If use causes cover then recipient of use is the same as agent of cover
+
+230.S: Meanwhile , a NYT editorial calls the attempt to use executive privilege in the controversy `` an alarming attempt to extend presidential power . '' 
+  K: If call causes use then recipient of call is the same as recipient of use
+
+231.S: Meanwhile , a NYT editorial calls the attempt to use executive privilege in the controversy `` an alarming attempt to extend presidential power . '' 
+  K: If call causes use then recipient of call is the same as agent of use
+
+232.S: It was reported that Clinton thought a mea culpa would distract from the real tasks of racial healing and could alienate white centrist voters . 
+  K: If think causes alienate then agent of think is the same as agent of alienate
+
+233.S: The papers note this vibe but inexplicably internalize it , and generally try to describe Clinton 's speech as something besides what it most obviously is : an apology for slavery . 
+  K: If note causes describe then agent of note is the same as agent of describe
+
+234.S: The papers note this vibe but inexplicably internalize it , and generally try to describe Clinton 's speech as something besides what it most obviously is : an apology for slavery . 
+  K: If internalize causes describe then agent of internalize is the same as agent of describe
+
+235.S: The papers note this vibe but inexplicably internalize it , and generally try to describe Clinton 's speech as something besides what it most obviously is : an apology for slavery . 
+  K: If try causes describe then agent of try is the same as agent of describe
+
+236.S: The papers note this vibe but inexplicably internalize it , and generally try to describe Clinton 's speech as something besides what it most obviously is : an apology for slavery . 
+  K: If try causes describe then agent of try is the same as agent of describe
+
+237.S: It seems that the CEO of PepsiCo , Roger A. Enrico , has given his $ 900,000 salary back to the company and directed that it be used to fund scholarships for children of the corporation 's grunt-level employees . 
+  K: If use causes fund then recipient of use is the same as agent of fund
+
+238.S: For instance , on the current trip Clinton followed Jackson 's advice and had a lengthy phone conversation with the president of Liberia to make sure he did n't feel snubbed because Clinton was n't visiting his country . 
+  K: If follow causes make then recipient of follow is the same as agent of make
+
+239.S: The New York Times goes with the decision by Switzerland 's three biggest banks to negotiate a global settlement with Holocaust victims by setting up a compensation fund . 
+  K: If go causes negotiate then agent of go is the same as agent of negotiate
+
+240.S: The papers note that Bill Clinton appeared in South Africa yesterday alongside Nelson Mandela , but none could be bothered to put their stories about the appearance -- simply unthinkable as recently as four or five years ago -- on the front page . 
+  K: If bother causes put then recipient of bother is the same as agent of put
+
+241.S: The papers note that Bill Clinton appeared in South Africa yesterday alongside Nelson Mandela , but none could be bothered to put their stories about the appearance -- simply unthinkable as recently as four or five years ago -- on the front page . 
+  K: If bother causes put then recipient of bother is the same as agent of put
+
+242.S: The Wall Street Journal reports that Senate Judiciary Committee Chairman Orrin Hatch is demanding that Microsoft allow its licensees and partners to speak with Senate investigators despite nondisclosure rules in MS contracts . 
+  K: If allow causes speak then recipient of allow is the same as agent of speak
+
+243.S: Now comes Abe Rosenthal , who responds to Gloria Steinem 's Times op-ed from earlier in the week with one of his own . 
+  K: If come causes respond then agent of come is the same as agent of respond
+
+244.S: Steinem had argued that if an uninvited sexual gesture by a man is met with noncompliance by a woman and then is not followed up by him , no sexual harassment has occurred . 
+  K: If meet causes not follow then recipient of meet is the same as recipient of not follow
+
+245.S: The New York Times leads with the endorsement by House Republican leaders of new tax breaks to help people who must buy their own health insurance . 
+  K: If lead causes help then agent of lead is the same as agent of help
+
+246.S: Like that settlement , the Senate bill aims to reduce underage smoking , regulate nicotine as a drug and alter the tone and reach of tobacco advertising . 
+  K: If aim causes alter then agent of aim is the same as agent of alter
+
+247.S: By the way , the NYT states the Republicans plan to pay for their health insurance initiative with revenue raised from higher cigarette taxes , with or without the passage of a comprehensive tobacco settlement . 
+  K: If plan causes pay then agent of plan is the same as agent of pay
+
+248.S: Over the weekend , `` Titanic '' director James `` King of the World '' Cameron began exercising the perks of his new office by writing a piece in the LAT in which he tried to fire the paper 's lead film critic , author of two scathing reviews of the iceberg epic . 
+  K: If try causes fire then agent of try is the same as agent of fire
+
+249.S: The LAT says that prospects for enacting comprehensive campaign reform this year are pretty much dashed because on Monday the House leadership of Newt Gingrich and Dick Armey adopted rules requiring any such measure to pass , not by the simple majority that seemed in the offing , but by a two-thirds `` super-majority . '' 
+  K: If require causes pass then recipient of require is the same as agent of pass
+
+250.S: The LAT says that prospects for enacting comprehensive campaign reform this year are pretty much dashed because on Monday the House leadership of Newt Gingrich and Dick Armey adopted rules requiring any such measure to pass , not by the simple majority that seemed in the offing , but by a two-thirds `` super-majority . '' 
+  K: If require causes pass then recipient of require is the same as agent of pass
+
+251.S: The LAT says that prospects for enacting comprehensive campaign reform this year are pretty much dashed because on Monday the House leadership of Newt Gingrich and Dick Armey adopted rules requiring any such measure to pass , not by the simple majority that seemed in the offing , but by a two-thirds `` super-majority . '' 
+  K: If require causes pass then recipient of require is the same as agent of pass
+
+252.S: The LAT says that prospects for enacting comprehensive campaign reform this year are pretty much dashed because on Monday the House leadership of Newt Gingrich and Dick Armey adopted rules requiring any such measure to pass , not by the simple majority that seemed in the offing , but by a two-thirds `` super-majority . '' 
+  K: If require causes pass then recipient of require is the same as agent of pass
+
+253.S: Picking up where yesterday 's USAT and WP leads left off , the NYT lead explains that when , on Monday , Sen. John McCain officially unveiled the comprehensive tobacco bill he 'd been putting together , it was seen to place no restrictions on private lawsuits against the tobacco companies , although it does contain an annual damage ceiling of $ 6.5 billion -LRB- awards in excess of that amount would be owed in full , but could be carried forward to subsequent years -RRB- . 
+  K: If see causes place then recipient of see is the same as agent of place
+
+254.S: A tobacco industry lawyer is quoted in the NYT saying that the measure would lead to `` a massive contraband market , '' and would `` almost certainly drive companies into bankruptcy . '' 
+  K: If lead causes drive then agent of lead is the same as agent of drive
+
+255.S: In the Journal , tobacco deal strategist Mississippi Attorney General Michael Moore says industry types `` think their stock prices are going to plummet . '' 
+  K: If go causes plummet then agent of go is the same as agent of plummet
+
+256.S: -LRB- `` Today 's Papers '' ca n't help but notice that McCain 's name is all over the dailies these days -- besides his smoking bill , he is also one of the Senate 's chief advocates of banning `` soft money . '' 
+  K: If n't help causes notice then agent of n't help is the same as agent of notice
+
+257.S: The piece goes on to note that in a recent study made in Washington , D.C. , when 150 pairs of black and white testers who were matched in income contacted local lenders , they encountered evidence of racial discrimination 41 percent of the time . 
+  K: If go causes note then agent of go is the same as agent of note
+
+258.S: Women know this and take full advantage . 
+  K: If know causes take then agent of know is the same as agent of take
+
+259.S: Witness the WP , which reports that Andie MacDowell is meeting with Reps. Dick Gephardt and John Dingell to lobby for more stringent oil pipeline regulations for western Montana , where she happens to own a home . 
+  K: If meet causes lobby then agent of meet is the same as agent of lobby
+
+260.S: Witness the WP , which reports that Andie MacDowell is meeting with Reps. Dick Gephardt and John Dingell to lobby for more stringent oil pipeline regulations for western Montana , where she happens to own a home . 
+  K: If happen causes own then agent of happen is the same as agent of own
+
+261.S: The Washington Post goes with the Supreme Court 's decision allowing states to ban the courtroom use of polygraph results . 
+  K: If allow causes ban then recipient of allow is the same as agent of ban
+
+262.S: But the paper goes on to note that the study was sponsored by Redux 's manufacturer and does not in any case address the consequences of long-term use . 
+  K: If go causes note then agent of go is the same as agent of note
+
+263.S: But the paper goes on to note that the study was sponsored by Redux 's manufacturer and does not in any case address the consequences of long-term use . 
+  K: If note causes not address then agent of note is the same as agent of not address
+
+264.S: A more striking Connerly quote somehow does n't make the cut at either Times , but is in the WP and USAT : `` These numbers will finally and conclusively put to rest the lie that we 've heard for so long from these campuses that race is only one factor in how they choose students . . 
+  K: If put causes rest then agent of put is the same as agent of rest
+
+265.S: Some questions : Why does the NYT headline only mention the drop in black admissions and relegate the drop for Hispanics to the subhead ? 
+  K: If mention causes relegate then agent of mention is the same as agent of relegate
+
+266.S: Some questions : Why does the NYT headline only mention the drop in black admissions and relegate the drop for Hispanics to the subhead ? 
+  K: If mention causes relegate then recipient of mention is the same as recipient of relegate
+
+267.S: In the end , says the paper , it may fall to one man to bring order out of this chaos -- Bill Clinton . 
+  K: If fall causes bring then agent of fall is the same as agent of bring
+
+268.S: Jones ' lawyers intend to appeal . 
+  K: If intend causes appeal then agent of intend is the same as agent of appeal
+
+269.S: Both USAT and the WP report his case for pressing on sans Paula : `` If you lie under oath , if you intimidate a witness , if you seek otherwise to obstruct the process of justice , it does n't matter who wins and loses in the civil case . '' 
+  K: If seek causes obstruct then agent of seek is the same as agent of obstruct
+
+270.S: They ended their lives as free people before they fell into white hands . 
+  K: If end causes fall then agent of end is the same as agent of fall
+
+271.S: TP will essay to use the phrase and commends it to the dailies . 
+  K: If essay causes use then agent of essay is the same as agent of use
+
+272.S: TP will essay to use the phrase and commends it to the dailies . 
+  K: If use causes commend then agent of use is the same as agent of commend
+
+273.S: And thanks to the many readers who rushed forward with considerable expertise to answer this column 's somewhat inept question about the NYT 's story concerning that fourth-grader 's `` therapeutic touch '' experiment . 
+  K: If rush causes answer then agent of rush is the same as agent of answer
+
+274.S: USA Today leads with the Department of Transportation 's decision to crack down on airlines that use unfair methods to snuff out low-fare competitors . 
+  K: If use causes snuff then recipient of use is the same as agent of snuff
+
+275.S: The NRA assailed the ban , and promised to seek relief in Congress and the courts . 
+  K: If assail causes seek then agent of assail is the same as agent of seek
+
+276.S: The NRA assailed the ban , and promised to seek relief in Congress and the courts . 
+  K: If promise causes seek then agent of promise is the same as agent of seek
+
+277.S: Plus , Congress is considering `` boneheaded '' legislation that would force cities to allow pit bulls in public housing . 
+  K: If force causes allow then recipient of force is the same as agent of allow
+
+278.S: In Sunday 's column , Maureen Dowd pointed out that when Ken Starr was pressed recently to justify the $ 30 million he 's spent so far javerting Bill Clinton , Starr replied that hey , he always flies coach on his investigatory jaunts to Little Rock . 
+  K: If press causes justify then recipient of press is the same as agent of justify
+
+279.S: The reader has to wait until the tenth paragraph to learn that former Rep. Ronald Dellums routinely booked first class seats for his trips , at a cost to taxpayers of six times the basic government rate . 
+  K: If learn causes wait then agent of learn is the same as agent of wait
+
+280.S: Another unusual aspect of the deal drawing lots of comment is that Travelers ' Sanford Weill and Citicorp 's John Reed have decided to rule their new kingdom as co-CEOs . 
+  K: If decide causes rule then agent of decide is the same as agent of rule
+
+281.S: The Journal and the NYT try to summon atmosphere with their descriptions of early meetings where the top dogs sniffed each other . 
+  K: If summon causes try then agent of summon is the same as agent of try
+
+282.S: If you missed the two top stories in yesterday 's USAT -- the government 's first post-deregulation attempt to preserve competitiveness among airlines and the emergence of a drug that can prevent breast cancer -- they are on the NYT 's front today . 
+  K: If attempt causes preserve then agent of attempt is the same as agent of preserve
+
+283.S: Truscott compares the intensive training you get in the Army with one of these weapons long before you 're ever allowed to fire it , and then only under the supervision of an expert marksman , with the situation in states like Arkansas , where `` it 's legal for a 10-year-old to own a semiautomatic assault weapon without a moment of safety instruction , training in how to shoot it or adult supervision . '' 
+  K: If allow causes fire then recipient of allow is the same as agent of fire
+
+284.S: Truscott compares the intensive training you get in the Army with one of these weapons long before you 're ever allowed to fire it , and then only under the supervision of an expert marksman , with the situation in states like Arkansas , where `` it 's legal for a 10-year-old to own a semiautomatic assault weapon without a moment of safety instruction , training in how to shoot it or adult supervision . '' 
+  K: If allow causes fire then recipient of allow is the same as agent of fire
+
+285.S: She writes that much of the Starr report earmarked for the House of Representatives -LRB- on the grounds that it describes potentially impeachable offenses -RRB- has already been written , and that it pertains not only to President Clinton 's actions in the Lewinsky matter but also may include material about whether Clinton was truthful in his sworn testimony for the 1996 bank fraud trial of James and Susan McDougal . 
+  K: If describe causes not pertain then agent of describe is the same as agent of not pertain
+
+286.S: But the NYT says Clinton is willing to consider private individual accounts provided the overall plan they 're a part of continues to provide recipients with a guaranteed retirement benefit . 
+  K: If continue causes provide then agent of continue is the same as agent of provide
+
+287.S: The industry promises to immediately launch a public relations offensive against a `` coercive , Big Brother-type Congress . '' 
+  K: If promise causes launch then agent of promise is the same as agent of launch
+
+288.S: Goldstone is widely quoted as saying , `` Washington has rushed to collect more tobacco revenues while playing the politics of punishment . '' 
+  K: If rush causes collect then agent of rush is the same as agent of collect
+
+289.S: Goldstone is widely quoted as saying , `` Washington has rushed to collect more tobacco revenues while playing the politics of punishment . '' 
+  K: If rush causes collect then agent of rush is the same as agent of collect
+
+290.S: The Journal also sends along word that Mississippi Attorney General Michael Moore , an architect of last summer 's original tobacco deal , says he understands the industry position and calls on President Clinton and Congress to convene new negotiations . 
+  K: If call causes convene then agent of call is the same as agent of convene
+
+291.S: The NYT front reports that President Clinton has ordered the Departments of Defense , State , and Justice to devise plans for the arrest and trial of Pol Pot , the Khmer Rouge leader responsible for the death of perhaps a million Cambodians in the 1970s . 
+  K: If order causes devise then recipient of order is the same as agent of devise
+
+292.S: `` Today 's Papers '' is somewhat surprised that none of the Hashimoto reporting mentions the situation in the U.S. in 1993 when the incoming Clinton administration was likewise attempting to address a sluggish economy . 
+  K: If attempt causes address then agent of attempt is the same as agent of address
+
+293.S: A big LAT front-page piece reveals that Microsoft has been secretly planning a massive media campaign that , the paper says , was designed to influence state investigators contemplating further anti-trust action by `` creating the appearance of a groundswell of public support '' for the company . 
+  K: If design causes influence then recipient of design is the same as agent of influence
+
+294.S: The plan included `` the planting of articles , letters to the editor and opinion pieces '' to be commissioned by Microsoft but presented as spontaneous local offerings about `` how wonderful it is to do business with Microsoft . '' 
+  K: If include causes present then agent of include is the same as agent of present
+
+295.S: But Shaw 's name is on some of the confidential company documents in the LAT 's possession and he later acknowledged the PR plan but said it was `` merely a proposal . '' 
+  K: If acknowledge causes say then agent of acknowledge is the same as agent of say
+
+296.S: The issue here , one that occurs not infrequently in the case of foreign national criminal suspects , is that the cops forgot to tell the man about his right to talk to the Paraguayan consulate . 
+  K: If forget causes tell then agent of forget is the same as agent of tell
+
+297.S: The WP lead asserts that eighteen months after federal welfare reform , `` it is becoming clear that the mass of data the government requires states to collect is in such disarray that it is impossible to determine whether the law is working . '' 
+  K: If require causes collect then recipient of require is the same as agent of collect
+
+298.S: A top-of-the-page op-ed piece in yesterday 's LAT responds to the recent decision by the Department of Justice not to prosecute Mark Fuhrman for any crimes he committed while with the LAPD by calling for the public disclosure of all of Fuhrman 's police records . 
+  K: If respond causes prosecute then agent of respond is the same as agent of prosecute
+
+299.S: USA Today goes with the mysterious breakdown experienced by AT&T 's `` frame relay '' data network , which is used by hundreds of multinational companies to handle such tasks as central database access and e-mail . 
+  K: If use causes handle then recipient of use is the same as agent of handle
+
+300.S: USA Today goes with the mysterious breakdown experienced by AT&T 's `` frame relay '' data network , which is used by hundreds of multinational companies to handle such tasks as central database access and e-mail . 
+  K: If use causes handle then recipient of use is the same as agent of handle
+
+301.S: But USAT 's news section cover story on bank mergers says it flat-out : `` surveys show that big banks charge higher fees , '' and backs that assertion up with several data bullets . 
+  K: If charge causes back then agent of charge is the same as agent of back
+
+302.S: That would encourage them to monitor their banks more closely . 
+  K: If encourage causes monitor then recipient of encourage is the same as agent of monitor
+
+303.S: The trend is being attributed to Bill Clinton 's 1995 decision to mount an early and intense television campaign . 
+  K: If attribute causes mount then recipient of attribute is the same as agent of mount
+
+304.S: Checchi 's standard , says the Times , promises to lead to the most expensive state election in history . 
+  K: If promise causes lead then agent of promise is the same as agent of lead
+
+305.S: The WSJ `` Work Week '' column notes a simple position taken by the National Association of Manufacturers that could encourage high school students to take their classes more seriously : use high-school transcripts more in hiring . 
+  K: If encourage causes take then recipient of encourage is the same as agent of take
+
+306.S: In effect , the court said it did n't see the difference , holding that goals still tended to promote numerical targets and hence hiring on purely racial grounds . 
+  K: If tend causes promote then agent of tend is the same as agent of promote
+
+307.S: The LAT front plus inside stories in the NYT and WP detail how two containers filled with 12,000 gallons of napalm are still riding the rails -- destination still unknown -- after the Chicago facility that was to recycle the shipment decided not to accept it , on the heels of protests from several midwestern members of Congress . 
+  K: If decide causes not accept then agent of decide is the same as agent of not accept
+
+308.S: The LAT front plus inside stories in the NYT and WP detail how two containers filled with 12,000 gallons of napalm are still riding the rails -- destination still unknown -- after the Chicago facility that was to recycle the shipment decided not to accept it , on the heels of protests from several midwestern members of Congress . 
+  K: If decide causes not accept then agent of decide is the same as agent of not accept
+
+309.S: The LAT front plus inside stories in the NYT and WP detail how two containers filled with 12,000 gallons of napalm are still riding the rails -- destination still unknown -- after the Chicago facility that was to recycle the shipment decided not to accept it , on the heels of protests from several midwestern members of Congress . 
+  K: If decide causes not accept then agent of decide is the same as agent of not accept
+
+310.S: Meanwhile , reports the NYT , the new publisher of The American Spectator , Terry Eastland , is trying to find out what became of the nearly $ 2 million in Scaife grants to investigate Clinton the magazine received . 
+  K: If become causes investigate then agent of become is the same as agent of investigate
+
+311.S: Meanwhile , reports the NYT , the new publisher of The American Spectator , Terry Eastland , is trying to find out what became of the nearly $ 2 million in Scaife grants to investigate Clinton the magazine received . 
+  K: If try causes find then agent of try is the same as agent of find
+
+312.S: What Lehrer was beating around the bush about is that Taylor recently admitted he 'd talked to Ken Starr about coming to work for him , and then decided not to . 
+  K: If talk causes decide then agent of talk is the same as agent of decide
+
+313.S: The Wall Street Journal reports that a bill already passed by the House and awaiting Senate approval calls for taxpayers to start writing checks to the Treasury instead of the IRS . 
+  K: If call causes start then agent of call is the same as agent of start
+
+314.S: The Wall Street Journal reports that a bill already passed by the House and awaiting Senate approval calls for taxpayers to start writing checks to the Treasury instead of the IRS . 
+  K: If call causes start then agent of call is the same as agent of start
+
+315.S: The NYT lead is that Kofi Annan has decided to pull U.N. human rights investigators out of Congo -LRB- formerly Zaire -RRB- because of the new government 's harassment and obstruction of their work . 
+  K: If decide causes pull then agent of decide is the same as agent of pull
+
+316.S: Some doctors quoted in the Post say that the threat of malpractice suits in the U.S. contributes to the problem , in that it pressures radiologists to overdiagnose breast cancer . 
+  K: If radiologists causes overdiagnose then agent of radiologists is the same as agent of overdiagnose
+
+317.S: Some doctors quoted in the Post say that the threat of malpractice suits in the U.S. contributes to the problem , in that it pressures radiologists to overdiagnose breast cancer . 
+  K: If radiologists causes overdiagnose then agent of radiologists is the same as agent of overdiagnose
+
+318.S: Some doctors quoted in the Post say that the threat of malpractice suits in the U.S. contributes to the problem , in that it pressures radiologists to overdiagnose breast cancer . 
+  K: If radiologists causes overdiagnose then agent of radiologists is the same as agent of overdiagnose
+
+319.S: The digital economy is growing at twice the rate of the overall economy and now represents 8 percent of GDP . 
+  K: If grow causes represent then agent of grow is the same as agent of represent
+
+320.S: The Times lead is spurred by the latest report from the U.N. chief arms inspector to Kofi Annan concluding that Iraq is no closer now to meeting U.N. requirements for the lifting of sanctions than it was last fall , when Saddam Hussein went to the brink to prevent further arms inspections . 
+  K: If go causes prevent then agent of go is the same as agent of prevent
+
+321.S: The Times lead is spurred by the latest report from the U.N. chief arms inspector to Kofi Annan concluding that Iraq is no closer now to meeting U.N. requirements for the lifting of sanctions than it was last fall , when Saddam Hussein went to the brink to prevent further arms inspections . 
+  K: If go causes prevent then agent of go is the same as agent of prevent
+
+322.S: Both the Post and Times note that the U.S. is taking the position that Pol Pot 's death should not end efforts to bring to justice other Khmer Rouge leaders implicated in the Cambodian slaughter . 
+  K: If not end causes bring then recipient of not end is the same as agent of bring
+
+323.S: The NYT picks up today on a story first reported by the South China Morning Post : Apple Computer , in bringing to Hong Kong its `` Think Different '' ads featuring pictures of famous independent movers and shakers , has decided to drop the Dalai Lama 's portrait from the campaign . 
+  K: If decide causes drop then agent of decide is the same as agent of drop
+
+324.S: The company at first tried to claim that this was because the Tibetan leader 's face is not well-known in the region -- until confronted with the information that polls show 80 percent of Hong Kong residents are familiar with him . 
+  K: If try causes claim then agent of try is the same as agent of claim
+
+325.S: Now the line is , `` In China , he may not get across the message that Apple is trying to send . '' 
+  K: If try causes send then agent of try is the same as agent of send
+
+326.S: -LRB- The WP notes that previously released dissident Wei Jingsheng was also flown to Detroit , but does n't explain the destination . 
+  K: If note causes n't explain then agent of note is the same as agent of n't explain
+
+327.S: The piece , by Whitewater experts Jeff Gerth and Stephen Labaton is mostly a useful summary of old news , but there is new ground broken : the grand jury evidence includes 1 -RRB- a document found last summer in a briefcase in Vince Foster 's attic that impugns Hillary Clinton 's account of how she came to represent James McDougal 's Madison Savings and Loan , and 2 -RRB- Bill Clinton 's testimony that after the initial NYT articles on Whitewater he sent an associate to see McDougal : `` And I might have asked him to , you know , talk to him and see if we could have no further damaging articles , but I do n't remember exactly what I said . '' 
+  K: If ask causes talk then recipient of ask is the same as agent of talk
+
+328.S: The piece , by Whitewater experts Jeff Gerth and Stephen Labaton is mostly a useful summary of old news , but there is new ground broken : the grand jury evidence includes 1 -RRB- a document found last summer in a briefcase in Vince Foster 's attic that impugns Hillary Clinton 's account of how she came to represent James McDougal 's Madison Savings and Loan , and 2 -RRB- Bill Clinton 's testimony that after the initial NYT articles on Whitewater he sent an associate to see McDougal : `` And I might have asked him to , you know , talk to him and see if we could have no further damaging articles , but I do n't remember exactly what I said . '' 
+  K: If come causes represent then agent of come is the same as agent of represent
+
+329.S: Not to mention , adds the Journal , 150-percent-of-home-equity loans and mortgage loans to homeowners already in foreclosure . 
+  K: If add causes mention then agent of add is the same as agent of mention
+
+330.S: A column by Mike Downey in the Sunday LAT brought word of an invention that could single-handedly reverse the tide of tabloidism : a miniature device worn on a cap or as jewelry that , whenever a photographer tries to take the wearer 's picture , emits a picture-ruining flash . 
+  K: If try causes take then agent of try is the same as agent of take
+
+331.S: But the paper carries this rejoinder from an ACLU staffer : `` The Constitution has never been found to protect extortion : someone saying they 'll break your windows every day or someone stationing a thug outside your business . '' 
+  K: If never find causes protect then recipient of never find is the same as agent of protect
+
+332.S: The Times reports that the Georgian nuclear materials -LRB- experts disagree about whether it 's enough to make a nuclear bomb , says the paper -RRB- were originally supposed to be moved to Russia , but after the Russians failed to follow through , the U.S. , concerned about the instability of the region , typified by the recent assassination attempt on the Georgian leader , Eduard Shevardnadse , made other plans while keeping Moscow informed . 
+  K: If fail causes follow then agent of fail is the same as agent of follow
+
+333.S: The Times reports that the Georgian nuclear materials -LRB- experts disagree about whether it 's enough to make a nuclear bomb , says the paper -RRB- were originally supposed to be moved to Russia , but after the Russians failed to follow through , the U.S. , concerned about the instability of the region , typified by the recent assassination attempt on the Georgian leader , Eduard Shevardnadse , made other plans while keeping Moscow informed . 
+  K: If suppose causes move then recipient of suppose is the same as recipient of move
+
+334.S: The story shows a not-altogether well-thought out applications process : for example , she decided not to pursue Bryn Mawr merely because she learned some other black students at her school were also urged to apply by a black student at the college , and was interested in another much lesser school because she mistakenly thought it was free . 
+  K: If decide causes not pursue then agent of decide is the same as agent of not pursue
+
+335.S: The story shows a not-altogether well-thought out applications process : for example , she decided not to pursue Bryn Mawr merely because she learned some other black students at her school were also urged to apply by a black student at the college , and was interested in another much lesser school because she mistakenly thought it was free . 
+  K: If urge causes apply then recipient of urge is the same as agent of apply
+
+336.S: Monday 's NYT contained William Safire 's twenty-fifth anniversary column , which confirms just how little WS learned from Watergate . 
+  K: If contain causes confirm then recipient of contain is the same as agent of confirm
+
+337.S: Safire says that on his way out of the Nixon White House he thought about going in to say goodbye to the boss , but opted not to . 
+  K: If think causes opt then agent of think is the same as agent of opt
+
+338.S: In other words , Safire still sees John Dean as a traitor , so much so that he ca n't bring himself to type his name in this story , and he still seems to think that a lot of innocent people got caught up in Watergate . 
+  K: If n't bring causes type then recipient of n't bring is the same as agent of type
+
+339.S: In other words , Safire still sees John Dean as a traitor , so much so that he ca n't bring himself to type his name in this story , and he still seems to think that a lot of innocent people got caught up in Watergate . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+340.S: Yeltsin has vowed to dissolve Parliament and hold national elections if the nomination is again rejected . 
+  K: If vow causes hold then agent of vow is the same as agent of hold
+
+341.S: Yeltsin has vowed to dissolve Parliament and hold national elections if the nomination is again rejected . 
+  K: If dissolve causes hold then agent of dissolve is the same as agent of hold
+
+342.S: On Tuesday , Berezovsky used a newspaper he owns to openly tell Yeltsin what he has to do to avoid a big fight over the nomination : abandon market reform . 
+  K: If own causes tell then agent of own is the same as agent of tell
+
+343.S: The story goes on to note that Burton is planning to release tapes made by authorities of Webster Hubbell 's phone calls from prison . 
+  K: If plan causes release then agent of plan is the same as agent of release
+
+344.S: The story goes on to note that Burton is planning to release tapes made by authorities of Webster Hubbell 's phone calls from prison . 
+  K: If go causes note then agent of go is the same as agent of note
+
+345.S: The pill is designed to correct impotence , but there are already indications that huge numbers of men who are not impotent , but who simply want the sex drive of a 19-year-old , are eager to take it . 
+  K: If design causes correct then recipient of design is the same as agent of correct
+
+346.S: The dailies explain that House GOP leaders agreed to allow campaign finance legislation to come to floor votes next month because reform advocates were close to getting enough signatures on a special petition to force a vote anyway . 
+  K: If agree causes allow then agent of agree is the same as agent of allow
+
+347.S: No wonder the Administration 's announcement the other day that needle exchange programs do work but wo n't be getting federal funds seemed so lame : according to a front-page story at the WP , until a half-hour before the press conference , HHS Secretary Donna Shalala was all set to announce federal funding . 
+  K: If set causes announce then recipient of set is the same as agent of announce
+
+348.S: The Post story goes on to say that one-third of the surveyed doctors would write prescriptions for deadly dosages . 
+  K: If go causes say then agent of go is the same as agent of say
+
+349.S: The WP front reports that NATO planning last summer to capture Bosnian Serb leader and wanted war criminal Radovan Karadzic was compromised when a French military officer met secretly with Karadzic . 
+  K: If report causes want then agent of report is the same as agent of want
+
+350.S: The Senate education bill , reports the LAT , is almost certain to draw a Clinton veto for such provisions as an IRA-style tax break for private and parochial school tuition , blocking national testing and allowing states to spend federal education funds virtually any way they choose . 
+  K: If allow causes spend then recipient of allow is the same as agent of spend
+
+351.S: The Los Angeles Times goes with the Clinton administration 's decision to oppose the California ballot referendum measure calling for an end to publicly funded bilingual education , a measure thought to be favored by 70 percent of the state 's voters . 
+  K: If oppose causes favor then recipient of oppose is the same as recipient of favor
+
+352.S: The Los Angeles Times goes with the Clinton administration 's decision to oppose the California ballot referendum measure calling for an end to publicly funded bilingual education , a measure thought to be favored by 70 percent of the state 's voters . 
+  K: If think causes favor then agent of think is the same as recipient of favor
+
+353.S: The Los Angeles Times goes with the Clinton administration 's decision to oppose the California ballot referendum measure calling for an end to publicly funded bilingual education , a measure thought to be favored by 70 percent of the state 's voters . 
+  K: If think causes favor then agent of think is the same as recipient of favor
+
+354.S: The Los Angeles Times goes with the Clinton administration 's decision to oppose the California ballot referendum measure calling for an end to publicly funded bilingual education , a measure thought to be favored by 70 percent of the state 's voters . 
+  K: If think causes favor then agent of think is the same as recipient of favor
+
+355.S: The Los Angeles Times goes with the Clinton administration 's decision to oppose the California ballot referendum measure calling for an end to publicly funded bilingual education , a measure thought to be favored by 70 percent of the state 's voters . 
+  K: If think causes favor then agent of think is the same as recipient of favor
+
+356.S: However , U.S. intelligence reports have continued to suggest a bigger Russian role . 
+  K: If continue causes suggest then agent of continue is the same as agent of suggest
+
+357.S: While the Clinton administration has not committed to deploying a national anti-missile shield , under pressure from the GOP -LRB- national missile defense was a tenet of the `` Contract With America '' -RRB- , it has promised to accelerate testing . 
+  K: If promise causes accelerate then agent of promise is the same as agent of accelerate
+
+358.S: Although the FAA seems to be catching more violators , the paper quotes one of the agency 's top officials saying , `` We would n't know whether hazardous materials are inside if a package does n't leak or break open . '' 
+  K: If seem causes catch then agent of seem is the same as agent of catch
+
+359.S: The WP leads with the decision by federal corruption investigators to let Jimmy Hoffa 's son , James P. Hoffa , run for the Teamsters presidency . 
+  K: If lead causes let then agent of lead is the same as agent of let
+
+360.S: But he went on to say that the U.S. continues to oppose any relaxation of economic sanctions on Iraq or in the U.N. 's weapons inspection program , citing , notes the LAT , Iraq 's continuing insufficient cooperation in the areas of long-range missiles and chemical and biological weapons . 
+  K: If go causes say then agent of go is the same as agent of say
+
+361.S: But he went on to say that the U.S. continues to oppose any relaxation of economic sanctions on Iraq or in the U.N. 's weapons inspection program , citing , notes the LAT , Iraq 's continuing insufficient cooperation in the areas of long-range missiles and chemical and biological weapons . 
+  K: If continue causes oppose then agent of continue is the same as agent of oppose
+
+362.S: There was Sen. Joseph Biden saying , `` The worst time to enlarge an alliance is at a moment of threat . 
+  K: If say causes enlarge then recipient of say is the same as agent of enlarge
+
+363.S: The LAT lead editorial sees the Senate in a `` reckless rush '' to approve NATO expansion , stating that supporters have pressed their case with slogans , not arguments . 
+  K: If see causes approve then recipient of see is the same as agent of approve
+
+364.S: That NYT piece that caught Bill Clinton speaking off the cuff about sanctions also includes his confession that late at night he often gets a call from Chelsea asking him about some item from the next day 's paper that she 's read on the Internet , but that he knows nothing about . 
+  K: If get causes know then agent of get is the same as agent of know
+
+365.S: Yesterday 's debate focused mainly on whether or not the proposed new members -- Poland , Hungary , and the Czech Republic -- can afford to field the level of armed forces NATO requires . 
+  K: If afford causes field then agent of afford is the same as agent of field
+
+366.S: If members are required to promise not to attack each other , as the number of non-member countries declines , the alliance 's military needs would diminish and hence so would its expenses . 
+  K: If require causes not attack then recipient of require is the same as agent of not attack
+
+367.S: The paper stays on the case with a front-page account of a Senate hearing Tuesday that disclosed corruption among IRS officials : one was thought to have stolen as many as twenty confiscated luxury vehicles and another wrote an anonymous threatening letter to a tax attorney who had testified against the agency at congressional hearings . 
+  K: If think causes steal then recipient of think is the same as agent of steal
+
+368.S: This is a little confusing since actually , Starr would have had more leverage to force Lewinsky to testify -LRB- rather than just show up -RRB- if she had immunity from prosecution . 
+  K: If force causes testify then recipient of force is the same as agent of testify
+
+369.S: A similar ratcheting up is afoot in the Microsoft wars , with , the NYT front reports , thirteen states planning a joint antitrust action , separate from the pending federal case against the company , to block the release of Windows 98 . 
+  K: If separate causes block then agent of separate is the same as agent of block
+
+370.S: The Times piece also includes a workmanlike exposition of the politics of the vote , including the observation that expansion was supported by the U.S. defense industry , which stands to `` reap huge profits '' from increased weapons sales to new NATO members . 
+  K: If stand causes reap then agent of stand is the same as agent of reap
+
+371.S: Thus far , despite a four-hour meeting with President Clinton and an admission by USDA secretary Dan Glickman that his department had swept the problem under the rug , as well as numerous specific findings of illegal denials of loans , the farmers are still waiting to be made whole . 
+  K: If wait causes make then agent of wait is the same as recipient of make
+
+372.S: The Hubbell indictment gets lots of ink and produces the day 's strangest quote . 
+  K: If get causes produce then agent of get is the same as agent of produce
+
+373.S: But I 'm not going to lie about the president . 
+  K: If not go causes lie then agent of not go is the same as agent of lie
+
+374.S: I 'm not going to lie about the first lady or anyone else . '' 
+  K: If not go causes lie then agent of not go is the same as agent of lie
+
+375.S: Tangled Web USA Today leads with promising new cancer drugs soon to be tested on humans -- a story that got prominent play in Sunday 's New York Times . 
+  K: If lead causes test then agent of lead is the same as recipient of test
+
+376.S: The material Burton released appears to describe Hubbell 's decision to continue to protect Bill and Hillary Clinton out of fears that his wife would lose her government job , but , notes the Post , does not include Hubbell 's statement that Hillary Clinton had `` no idea '' of billing irregularities at their law firm , or his assertion that he was not being paid hush money . 
+  K: If appear causes describe then agent of appear is the same as agent of describe
+
+377.S: And I do n't want to discourage it . '' 
+  K: If n't want causes discourage then agent of n't want is the same as agent of discourage
+
+378.S: The Journal 's `` The Outlook '' piece takes note of recent claims that the Y2K problem will generate a recession of 1974 oil-shock caliber and says that 's not likely : After all , the twenty-two-day-long government shut-down in 1996 did n't do that , nor did last summer 's UPS strike . 
+  K: If generate causes say then agent of generate is the same as agent of say
+
+379.S: According to the WSJ , representatives of some computer companies and of Microsoft are expected to stage a pro-MS rally Tuesday . 
+  K: If expect causes stage then recipient of expect is the same as agent of stage
+
+380.S: USAT says it 's his final effort to force McDougal to cooperate . 
+  K: If force causes cooperate then recipient of force is the same as agent of cooperate
+
+381.S: If you 're wondering what sort of service to look out for when NationsBank completes its recently announced $ 60 billion merger with BankAmerica to become the nation 's largest bank , take a gander at the WP front , which reports that NationsBank , without admitting guilt -LRB- or denying any wrongdoing -RRB- , agreed to pay $ 6.75 million in fines to settle charges it sold high-risk investment funds as safe banking products , mostly to elderly customers who suffered significant losses . 
+  K: If agree causes pay then agent of agree is the same as agent of pay
+
+382.S: Foreign student groups complain that Russian cops routinely fail to protect them . 
+  K: If fail causes protect then agent of fail is the same as agent of protect
+
+383.S: It costs only $ 20 and is not detected by some metal detectors or airport X-ray machines . 
+  K: If cost causes not detect then agent of cost is the same as recipient of not detect
+
+384.S: A perhaps more interesting difference is not covered but could be teased out by an industrious reporter -- a discussion of Daimler 's activities under the Nazis , including any involvement with slave labor . 
+  K: If not cover causes tease then recipient of not cover is the same as recipient of tease
+
+385.S: A lawmaker who was there tells the Post that Gingrich also told the group , `` I want you to forget the word ` scandals ' and start using the word ` crimes . ' '' 
+  K: If want causes forget then recipient of want is the same as agent of forget
+
+386.S: A lawmaker who was there tells the Post that Gingrich also told the group , `` I want you to forget the word ` scandals ' and start using the word ` crimes . ' '' 
+  K: If want causes forget then recipient of want is the same as agent of forget
+
+387.S: USAT 's off-lead reports that at yesterday 's presidential press conference , the first questioner asked Bill Clinton to distinguish between his case and Richard Nixon 's use of executive privilege . 
+  K: If ask causes distinguish then recipient of ask is the same as agent of distinguish
+
+388.S: But the Senate discussion utterly failed to put such figures in the larger context , which is that already the `` too-powerful '' `` abusive '' IRS is missing out on at least $ 100 billion a year in legally owed taxes and is already auditing less than one percent of all returns . 
+  K: If fail causes put then agent of fail is the same as agent of put
+
+389.S: The Science study , for instance , purports to show that among 1,600 15-19-year-old males , those computer-queried were almost 4 times more likely than the paper-and-pencil group to report homosex , 5.5 times more likely to admit they were often or always drunk or high when having sex with women , and 14 times more likely to cop to sex with an intravenous drug user . 
+  K: If purport causes show then agent of purport is the same as agent of show
+
+390.S: The national edition of the New York Times leads with the U.S. decision to give Benjamin Netanyahu two more weeks to reply to its proposal that Israel undertake a more substantial withdrawal from the West Bank . 
+  K: If lead causes give then agent of lead is the same as agent of give
+
+391.S: The 737 inspections ordered by the FAA last week -LRB- which USAT alone led with on Friday -RRB- were apparently well warranted : 13 of the first 26 fuel main fuel pump wires checked showed wear on their insulation , says USAT . 
+  K: If lead causes say then agent of lead is the same as agent of say
+
+392.S: -LRB- And if you are meticulously updating your copy of this list , odds are you are not scoring at home . -RRB- 
+  K: If update causes not score then agent of update is the same as recipient of not score
+
+393.S: The WP recently reported that a civilian security guard on duty near the Pentagon accidentally shot and killed a homeless man . 
+  K: If shoot causes kill then agent of shoot is the same as agent of kill
+
+394.S: Most of the papers observe that many Indians feel the tests were really designed to send a message to China , especially , as the Times , the WP , and the Journal report , since the Indian Defense Minister said just last week that China , not Pakistan , is India 's `` potential enemy number one . '' 
+  K: If design causes send then recipient of design is the same as agent of send
+
+395.S: The Times nicely captures the bizarre scene of the Indian announcement , in which Vajpayee ignored the likely geo-political shockwaves and spoke instead of measured yields and expected values and offered his warm congratulations to the scientists and engineers responsible . 
+  K: If capture causes offer then agent of capture is the same as agent of offer
+
+396.S: The Times and WP say that despite spy satellites , the Indian tests seemed to have caught the U.S. and the other established members of the nuclear club by surprise . 
+  K: If seem causes catch then agent of seem is the same as agent of catch
+
+397.S: Everybody 's off-lead is Janet Reno 's decision to seek the appointment of an independent counsel to investigate allegations that Labor Secretary Alexis Herman peddled influence and was involved in an illegal campaign contribution scheme . 
+  K: If influence causes involve then agent of influence is the same as recipient of involve
+
+398.S: That 's how much , the paper figures , it would cost for General Electric , the nation 's largest company , to buy Microsoft , the second largest . 
+  K: If figure causes buy then agent of figure is the same as agent of buy
+
+399.S: To head it off , Clinton telephoned Pakistan 's prime minister to urge him not to test nukes too . 
+  K: If urge causes not test then recipient of urge is the same as agent of not test
+
+400.S: To head it off , Clinton telephoned Pakistan 's prime minister to urge him not to test nukes too . 
+  K: If urge causes not test then recipient of urge is the same as agent of not test
+
+401.S: But the paper does n't claim to know how things turn out . 
+  K: If n't claim causes know then agent of n't claim is the same as agent of know
+
+402.S: USA Today , for instance , waits until the twelfth paragraph of its fifteen paragraph story to inform the reader that the unrest was about rising prices caused by Suharto 's introduction of new IMF-dictated austerity measures . 
+  K: If wait causes inform then agent of wait is the same as agent of inform
+
+403.S: The Wall Street Journal reports that Indonesian students have relied heavily on e-mail and cell phones to organize their protests . 
+  K: If rely causes organize then agent of rely is the same as agent of organize
+
+404.S: And although the phone companies deny it , says the paper , the protesters believe their cell calls are sometimes blocked to obstruct their planning . 
+  K: If block causes obstruct then recipient of block is the same as agent of obstruct
+
+405.S: It 's clear that government officials feel they 're in the driver 's seat now : one tells the Post , `` We 're not going to be locked in the room to be shown baby pictures of Bill Gates . '' 
+  K: If not go causes lock then agent of not go is the same as recipient of lock
+
+406.S: It 's clear that government officials feel they 're in the driver 's seat now : one tells the Post , `` We 're not going to be locked in the room to be shown baby pictures of Bill Gates . '' 
+  K: If not go causes lock then agent of not go is the same as recipient of lock
+
+407.S: It 's clear that government officials feel they 're in the driver 's seat now : one tells the Post , `` We 're not going to be locked in the room to be shown baby pictures of Bill Gates . '' 
+  K: If not go causes lock then agent of not go is the same as recipient of lock
+
+408.S: It 's clear that government officials feel they 're in the driver 's seat now : one tells the Post , `` We 're not going to be locked in the room to be shown baby pictures of Bill Gates . '' 
+  K: If not go causes lock then agent of not go is the same as recipient of lock
+
+409.S: `` Today 's Papers '' is astounded that not one reporter in attendance ventured to ask if the Attorney General had tried installing a different browser . 
+  K: If venture causes ask then agent of venture is the same as agent of ask
+
+410.S: Pakistan 's foreign minister said Sunday that despite appeals from President Clinton and other world leaders , his government has decided to conduct a nuclear test , reports USAT , the NYT and the WSJ . 
+  K: If decide causes conduct then agent of decide is the same as agent of conduct
+
+411.S: The G-8 summit refused to follow Clinton 's lead and impose sanctions against India , reports USAT , instead issuing a resolution condemning its nuclear testing . 
+  K: If refuse causes follow then agent of refuse is the same as agent of follow
+
+412.S: The G-8 summit refused to follow Clinton 's lead and impose sanctions against India , reports USAT , instead issuing a resolution condemning its nuclear testing . 
+  K: If follow causes impose then agent of follow is the same as agent of impose
+
+413.S: The state suit additionally asks for Microsoft to be forced to change the way it sells its `` Office '' software to computer manufacturers so that they would be freer to license competitors ' software . 
+  K: If ask causes force then agent of ask is the same as recipient of force
+
+414.S: The state suit additionally asks for Microsoft to be forced to change the way it sells its `` Office '' software to computer manufacturers so that they would be freer to license competitors ' software . 
+  K: If force causes change then recipient of force is the same as agent of change
+
+415.S: Bill Gates is quoted in the WP saying that these government demands for inclusion of competitors is like `` requiring Coca-Cola to include three cans of Pepsi in every six-pack . '' 
+  K: If require causes include then recipient of require is the same as agent of include
+
+416.S: The WP cites for instance a memo that says it would `` be very hard to increase browser share on the merits '' of the company 's product , and hence that the company should `` leverage Windows to make people use '' it . 
+  K: If leverage causes make then recipient of leverage is the same as agent of make
+
+417.S: The WP cites for instance a memo that says it would `` be very hard to increase browser share on the merits '' of the company 's product , and hence that the company should `` leverage Windows to make people use '' it . 
+  K: If increase causes use then agent of increase is the same as agent of use
+
+418.S: The WP cites for instance a memo that says it would `` be very hard to increase browser share on the merits '' of the company 's product , and hence that the company should `` leverage Windows to make people use '' it . 
+  K: If increase causes use then agent of increase is the same as recipient of use
+
+419.S: The WP cites for instance a memo that says it would `` be very hard to increase browser share on the merits '' of the company 's product , and hence that the company should `` leverage Windows to make people use '' it . 
+  K: If leverage causes make then recipient of leverage is the same as agent of make
+
+420.S: The WP cites for instance a memo that says it would `` be very hard to increase browser share on the merits '' of the company 's product , and hence that the company should `` leverage Windows to make people use '' it . 
+  K: If leverage causes make then recipient of leverage is the same as agent of make
+
+421.S: But none of the dailies explain how these internal documents came to be possessed by the government nor wonder about the propriety of that . 
+  K: If come causes possess then agent of come is the same as recipient of possess
+
+422.S: The WSJ and the WP report that Kodak is set to announce a deal with AOL designed help the film manufacturer counteract inroads on its business being made by computerized photography : You bring your film into a Kodak authorized developer and the snaps are returned digitally to your AOL account . 
+  K: If set causes announce then recipient of set is the same as agent of announce
+
+423.S: Suharto 's surprise announcement that he would step down failed to ease political tensions , because he described a gradual and vague transition to a successor , and the thousands of student protesters want him out now . 
+  K: If fail causes ease then agent of fail is the same as agent of ease
+
+424.S: The papers say that the nation 's top opposition leader had called for a million demonstrators to take to the streets of Jakarta , and that the military , primarily via stern television messages , urged them not to . 
+  K: If call causes take then agent of call is the same as agent of take
+
+425.S: The second paragraph of the story says that more than half of Viagra prescriptions are being subsidized by health plans , and the sixth paragraph says that slightly more than half of all birth control pills are . 
+  K: If say causes say then agent of say is the same as agent of say
+
+426.S: The NYT 's front reports on the first hard political consequences of the China money-for-missile-technology charges it aired last week : Newt Gingrich announced Tuesday he 'll seek to set up a special House panel to look into the allegations . 
+  K: If seek causes set then agent of seek is the same as agent of set
+
+427.S: Emergency room doctors and nurses were notified of the situation by a police officer , but citing hospital policy , they refused to leave the emergency room to come to his aid -- thirty-five feet away . 
+  K: If refuse causes leave then agent of refuse is the same as agent of leave
+
+428.S: The editorials continue to weigh in on the lawsuits brought against Microsoft . 
+  K: If continue causes weigh then agent of continue is the same as agent of weigh
+
+429.S: But he added something no Western politician says -- at least not until he 's at his sentencing -- he asked his countrymen to `` forgive me . '' 
+  K: If ask causes forgive then recipient of ask is the same as agent of forgive
+
+430.S: But he added something no Western politician says -- at least not until he 's at his sentencing -- he asked his countrymen to `` forgive me . '' 
+  K: If ask causes forgive then recipient of ask is the same as agent of forgive
+
+431.S: The New York Times , WP , and LAT go front-page with yesterday 's four nearly unanimous House votes stating that President Clinton failed to act in the national interest earlier this year when he permitted a U.S. company headed up by a large DNC donor to sell satellite technology to China . 
+  K: If head causes sell then agent of head is the same as agent of sell
+
+432.S: The New York Times , WP , and LAT go front-page with yesterday 's four nearly unanimous House votes stating that President Clinton failed to act in the national interest earlier this year when he permitted a U.S. company headed up by a large DNC donor to sell satellite technology to China . 
+  K: If fail causes act then agent of fail is the same as agent of act
+
+433.S: Well , whether or not they do , it seems to `` Today 's Papers '' that outrage such as Hutchinson 's over the road race policy tends to support outrage over affirmative action . 
+  K: If tend causes support then agent of tend is the same as agent of support
+
+434.S: Well , whether or not they do , it seems to `` Today 's Papers '' that outrage such as Hutchinson 's over the road race policy tends to support outrage over affirmative action . 
+  K: If tend causes support then agent of tend is the same as recipient of support
+
+435.S: The NYT reached the boy 's grandmother , who said that he `` murdered his mother and father . '' 
+  K: If reach causes say then recipient of reach is the same as agent of say
+
+436.S: USAT reports that he had been voted by classmates `` most likely to start World War III . '' 
+  K: If vote causes start then recipient of vote is the same as agent of start
+
+437.S: Both the NYT and WP quote an expert 's observation that the recent trend of school shootings has accelerated from single specific victims to indiscriminate multiple homicides . 
+  K: If accelerate causes indiscriminate then agent of accelerate is the same as agent of indiscriminate
+
+438.S: Clinton describes his administration 's decision to allow high technology to be exported to China as `` routine . '' 
+  K: If allow causes export then recipient of allow is the same as recipient of export
+
+439.S: He also tells USAT that during his trip , he will raise the issue of illegal campaign contributions with China 's leaders . 
+  K: If tell causes raise then agent of tell is the same as agent of raise
+
+440.S: The Wall Street Journal 's `` Washington Wire '' reports that some twenty lawmakers who voted this week to restrict satellite exports to China had previously urged Clinton to export satellites there . 
+  K: If urge causes export then recipient of urge is the same as agent of export
+
+441.S: Unfortunately , the piece focuses on the grousing of called-up reservists , instead of on the most important question it raises -- whether our part-time soldiers are trained well enough to be depended on this way . 
+  K: If train causes depend then recipient of train is the same as recipient of depend
+
+442.S: Furthermore , says the NYT , early on the morning of the test explosions , `` one lonely analyst '' saw a photo of fences being removed , but it took four or five hours before more experienced officers arrived to review the evidence . 
+  K: If arrive causes review then agent of arrive is the same as agent of review
+
+443.S: On the WP front , ace political reporter David Broder checks in from California to report that Prop. 226 , which would require unions to get annual permission from individual members to make any political use of dues , is , despite a commanding early lead in the polls , now sinking fast . 
+  K: If check causes report then agent of check is the same as agent of report
+
+444.S: The Wall Street Journal reports that , according to Manpower Inc. 's latest employment-outlook survey , nearly a third of U.S. businesses intend to increase staffing in the third quarter . 
+  K: If intend causes increase then agent of intend is the same as agent of increase
+
+445.S: The WP 's front reports that as part of Ken Starr 's effort to methodically reconstruct the details of Monica Lewinsky 's life that she communicated to her erstwhile friend Linda Tripp , Lewinsky has been asked to provide fingerprints and a handwriting sample to investigators today . 
+  K: If ask causes provide then recipient of ask is the same as agent of provide
+
+446.S: The WP 's front reports that as part of Ken Starr 's effort to methodically reconstruct the details of Monica Lewinsky 's life that she communicated to her erstwhile friend Linda Tripp , Lewinsky has been asked to provide fingerprints and a handwriting sample to investigators today . 
+  K: If ask causes provide then recipient of ask is the same as agent of provide
+
+447.S: The WP 's front reports that as part of Ken Starr 's effort to methodically reconstruct the details of Monica Lewinsky 's life that she communicated to her erstwhile friend Linda Tripp , Lewinsky has been asked to provide fingerprints and a handwriting sample to investigators today . 
+  K: If ask causes provide then recipient of ask is the same as agent of provide
+
+448.S: Well , the Post says he is looking to expand his office space . 
+  K: If look causes expand then agent of look is the same as agent of expand
+
+449.S: USAT says the proximate cause was Moody 's downgrading the rating of five Japanese banks and deploring the entire banking system of Indonesia . 
+  K: If downgrade causes deplore then agent of downgrade is the same as agent of deplore
+
+450.S: The WP cites that as well as indications Hong Kong is set to announce its first GDP slip in a decade . 
+  K: If set causes announce then recipient of set is the same as agent of announce
+
+451.S: The NYT and LAT leads , which focus on the Russian economy , meet this challenge with the sprinkling of additional Econ 101 information required : jacked-up rates of return encourage investors to hold on to their rubles rather than selling them for dollars . 
+  K: If encourage causes hold then recipient of encourage is the same as agent of hold
+
+452.S: In hearings last week , a House committee heard from various Platters , Drifters , Coasters , and Vogues all requesting that federal law be amended to protect oldies groups from other performers using the their group-names . 
+  K: If amend causes protect then recipient of amend is the same as agent of protect
+
+453.S: The Pakistanis claim to have set off five explosions , although USA Today and WP reports that the U.S. confirmed only one . 
+  K: If claim causes set then agent of claim is the same as agent of set
+
+454.S: -LRB- And the WP reports that the Chinese , the source of most of the Pakistanis ' atomic know-how , also tried getting them to stop the tests . -RRB- 
+  K: If get causes stop then recipient of get is the same as agent of stop
+
+455.S: Besides executive privilege , the WP reports that two other legal decisions incident to the Lewinsky case must also be made soon : whether the DOJ will challenge a court decision ordering Secret Service agents to testify , and whether Clinton himself will testify before Starr 's grand jury . 
+  K: If order causes testify then recipient of order is the same as agent of testify
+
+456.S: According to the NYT , Clinton 's Sunday statement concerning debt assistance to Russia was timed to spread calm among the Asian financial markets before they opened for the week . 
+  K: If time causes spread then recipient of time is the same as agent of spread
+
+457.S: The Times offers a helpful explanation of the hoped-for result : once investors realize the U.S. and the international funds are determined to support Russia , they will stop dumping the ruble , which may mean that actually making the loans becomes unnecessary . 
+  K: If determine causes support then recipient of determine is the same as agent of support
+
+458.S: The Times offers a helpful explanation of the hoped-for result : once investors realize the U.S. and the international funds are determined to support Russia , they will stop dumping the ruble , which may mean that actually making the loans becomes unnecessary . 
+  K: If determine causes support then recipient of determine is the same as agent of support
+
+459.S: These facilities are worried about legal liability , but this does n't add up , since the story goes on to explain that the automakers have agreed to indemnify those doing the cut-off work . 
+  K: If go causes explain then agent of go is the same as agent of explain
+
+460.S: These facilities are worried about legal liability , but this does n't add up , since the story goes on to explain that the automakers have agreed to indemnify those doing the cut-off work . 
+  K: If agree causes indemnify then agent of agree is the same as agent of indemnify
+
+461.S: The NYT has obtained a draft of a U.S. government report on Nazi gold taken from Jews -- primarily as jewelry and teeth fillings -- during World War II , and writes it up on the top-front . 
+  K: If obtain causes write then agent of obtain is the same as agent of write
+
+462.S: Principal findings : There was twice as much gold seized in this fashion as previously estimated ; it was used to pay -- mostly in transactions handled by the Swiss National Bank -- for a huge share of Nazi war needs purchased from Portugal , Spain , Sweden and Turkey ; and two major German banks , Dresdner Bank and Deutsche Bank , neither previously implicated and both now doing considerable business in the U.S. , had major roles in the transactions . 
+  K: If use causes pay then recipient of use is the same as agent of pay
+
+463.S: The NYT goes with the South Korean president 's call for the West -- including the U.S. -- to drop its sanctions against North Korea , and the WP leads with the news that Mexican drug cartels are , via a new far more potent strain of heroin , gaining a growing share of the U.S. drug trade . 
+  K: If go causes drop then agent of go is the same as agent of drop
+
+464.S: The LAT says that Clinton 's legal shift has the benefit of allowing him to fight on , but on much less controversial grounds , and yet still perhaps delaying Lindsey 's re-appearance before Starr 's grand jury for months . 
+  K: If allow causes fight then recipient of allow is the same as agent of fight
+
+465.S: He has been collecting Democratic votes for a commission that would study and recommend further changes in the system . 
+  K: If study causes recommend then agent of study is the same as agent of recommend
+
+466.S: An example he cited is translating OSHA 's `` Ways of exit access and the doors to exits to which they lead shall be so designed and arranged as to be clearly recognizable as such '' as `` An exit door must be free of signs or decorations that obscure its visibility . '' 
+  K: If design causes arrange then recipient of design is the same as recipient of arrange
+
+467.S: An example he cited is translating OSHA 's `` Ways of exit access and the doors to exits to which they lead shall be so designed and arranged as to be clearly recognizable as such '' as `` An exit door must be free of signs or decorations that obscure its visibility . '' 
+  K: If design causes arrange then recipient of design is the same as recipient of arrange
+
+468.S: An example he cited is translating OSHA 's `` Ways of exit access and the doors to exits to which they lead shall be so designed and arranged as to be clearly recognizable as such '' as `` An exit door must be free of signs or decorations that obscure its visibility . '' 
+  K: If design causes arrange then recipient of design is the same as recipient of arrange
+
+469.S: Electoral Collage The Washington Post goes with Kenneth Starr 's request that the Supreme Court bypass the ordinary appeals court process and directly decide on an emergency basis whether President Clinton 's White House lawyers and Secret Service agents can be compelled to testify in the Monica Lewinsky investigation . 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+470.S: Electoral Collage The Washington Post goes with Kenneth Starr 's request that the Supreme Court bypass the ordinary appeals court process and directly decide on an emergency basis whether President Clinton 's White House lawyers and Secret Service agents can be compelled to testify in the Monica Lewinsky investigation . 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+471.S: Electoral Collage The Washington Post goes with Kenneth Starr 's request that the Supreme Court bypass the ordinary appeals court process and directly decide on an emergency basis whether President Clinton 's White House lawyers and Secret Service agents can be compelled to testify in the Monica Lewinsky investigation . 
+  K: If compel causes testify then recipient of compel is the same as agent of testify
+
+472.S: The national edition of the NYT and the early edition of the Los Angeles Times lead with the decision by Merrill Lynch to pay a $ 400 million settlement for its role in the bankruptcy of California 's Orange County , but later LAT editions focus on California 's primary results . 
+  K: If lead causes pay then agent of lead is the same as agent of pay
+
+473.S: The LAT and WP report that the new lawyers immediately sought to improve their client 's relations with Kenneth Starr by paying a courtesy call to his office . 
+  K: If seek causes improve then agent of seek is the same as agent of improve
+
+474.S: Everybody looks down on lawyers who pay to advertise in the back of the paper . 
+  K: If pay causes advertise then agent of pay is the same as agent of advertise
+
+475.S: The Times interrupts its legal coverage to note that both of Monica 's new guys are `` well tailored , '' with one `` favoring customized French-cuff shirts '' and the other stepping out `` in a chalk-stripe suit and spectator shoes . '' 
+  K: If interrupt causes note then recipient of interrupt is the same as agent of note
+
+476.S: The findings by retired admiral David Jeremiah and his team : the intelligence community so ignored the new Indian government 's statements on nuclear policy that only one U.S. analyst was assigned to examine satellite photos of India 's test site . 
+  K: If assign causes examine then recipient of assign is the same as agent of examine
+
+477.S: USAT 's `` Money '' section brings word that the chemical company FMC is in serious talks with the federal government and Shoshone-Bannock Indian reps to settle a lawsuit alleging that FMC 's fifty-year-old shale extraction operation at the tribe 's southeastern Idaho reservation has left a significant number of Native Americans with lung cancer and other respiratory illnesses . 
+  K: If reps causes settle then agent of reps is the same as agent of settle
+
+478.S: A NYT editorial says the defeat in California of several super-rich candidates `` may cause multimillionaires to rethink their plans for midlife career changes . '' 
+  K: If cause causes rethink then recipient of cause is the same as agent of rethink
+
+479.S: The Wall Street Journal continues to pass along good news for the auto industry . 
+  K: If continue causes pass then agent of continue is the same as agent of pass
+
+480.S: Everybody 's inside carries word that President Clinton notified Congress that he will ask for yet another year of Most Favored Nation status for China , meaning that China will continue to enjoy the tariff and trade treatment extended to most other countries trading with the U.S. . 
+  K: If continue causes enjoy then agent of continue is the same as agent of enjoy
+
+481.S: Everybody 's inside carries word that President Clinton notified Congress that he will ask for yet another year of Most Favored Nation status for China , meaning that China will continue to enjoy the tariff and trade treatment extended to most other countries trading with the U.S. . 
+  K: If continue causes enjoy then agent of continue is the same as agent of enjoy
+
+482.S: Everybody 's inside carries word that President Clinton notified Congress that he will ask for yet another year of Most Favored Nation status for China , meaning that China will continue to enjoy the tariff and trade treatment extended to most other countries trading with the U.S. . 
+  K: If continue causes enjoy then agent of continue is the same as agent of enjoy
+

@@ -1,0 +1,897 @@
+1.S: Van Gogh wandered around Europe more rootlessly than his friend and sometime roommate Paul Gauguin , who could make a nifty domestic nest for himself even in the South Seas . 
+  K: If wander causes make then agent of wander is the same as agent of make
+
+2.S: Seventy paintings have been culled from the roughly 200 in the Amsterdam treasure trove -- the van Gogh family collection , passed on from Vincent to Theo and eventually housed in an extraordinarily popular museum in 1973 . 
+  K: If cull causes pass then recipient of cull is the same as recipient of pass
+
+3.S: The show advances no bold new perspective on van Gogh , nor does it seek to synthesize recent thinking on him , of which , it should be said , there is n't much . 
+  K: If seek causes synthesize then agent of seek is the same as agent of synthesize
+
+4.S: The modest aim of the exhibition and the catalog is to refocus our attention on the paintings as paintings , directing our attention to how van Gogh made changes in color , brushstroke , and the dimensions of his pictures over time . 
+  K: If refocus causes direct then recipient of refocus is the same as recipient of direct
+
+5.S: Once you 've read Schapiro 's classic and deeply felt essay , it 's hard to see this picture as anything other than van Gogh 's farewell to the world , his scrawled suicide note . 
+  K: If read causes feel then agent of read is the same as agent of feel
+
+6.S: Here van Gogh explicitly links the plight of European peasants and American slaves , and pictures such as The Potato Eaters may have meant to suggest that equation . 
+  K: If mean causes suggest then agent of mean is the same as agent of suggest
+
+7.S: It was not an afternoon you wanted to spend in a museum . 
+  K: If want causes spend then agent of want is the same as agent of spend
+
+8.S: If you like New York and have lived here long enough , you 'll have seen most of this stuff already , but you 'll like this show anyway . 
+  K: If like causes live then agent of like is the same as agent of live
+
+9.S: They knew what they had , and they took advantage of it . 
+  K: If know causes take then agent of know is the same as agent of take
+
+10.S: He is one of the great chroniclers of midcentury luridness , but his photographs of men grinning at a dead body on the sidewalk are like those photographs of Southerners milling around after a lynching : They are undeniably riveting , but you do n't really want to stop to think about what the photographer was doing there in the first place . 
+  K: If n't want causes stop then agent of n't want is the same as agent of stop
+
+11.S: He is one of the great chroniclers of midcentury luridness , but his photographs of men grinning at a dead body on the sidewalk are like those photographs of Southerners milling around after a lynching : They are undeniably riveting , but you do n't really want to stop to think about what the photographer was doing there in the first place . 
+  K: If stop causes think then agent of stop is the same as agent of think
+
+12.S: Although in nearly constant physical pain -- he had contracted meningitis when he was five , and the headaches continued for the rest of his life -- and mental anguish , he functioned reasonably well until the age of 41 , when a number of psychotic incidents caused him to be confined in a psychiatric hospital . 
+  K: If cause causes confine then recipient of cause is the same as recipient of confine
+
+13.S: He was trained as an actor , and went on to direct , found his own theater , and write a set of visionary theoretical essays , collected as The Theater of Cruelty , that have continued to influence theatrical practitioners to this day . 
+  K: If go causes direct then recipient of go is the same as agent of direct
+
+14.S: He was trained as an actor , and went on to direct , found his own theater , and write a set of visionary theoretical essays , collected as The Theater of Cruelty , that have continued to influence theatrical practitioners to this day . 
+  K: If continue causes influence then agent of continue is the same as agent of influence
+
+15.S: It is as if he could just make out the penumbra of some spiritual essence on the far edge of his perception , and was maddened by his inability to seize it . 
+  K: If make causes madden then agent of make is the same as recipient of madden
+
+16.S: He described all his work as `` documents '' -- that is , not the poems , essays , polemics they seem to be , and certainly not `` art , '' but mere records of his flailing attempts to reach the elusive substance of Truth . 
+  K: If attempt causes reach then agent of attempt is the same as agent of reach
+
+17.S: In 1946 , the pencil work became heavier and more insistent , the colors more assertive , the nightmare aspects harder to miss . 
+  K: If become causes miss then agent of become is the same as agent of miss
+
+18.S: Rolande Prevel , for example , is given almost a Matisse treatment , Colette Thomas is rendered with a delicacy that amounts to tenderness , while Jacques Prevel seems to have been sawn in two and restitched any old way , Mania Oïfer turned into an owl , Arthur Adamov fashioned from flung mud , with a penis for a nose . 
+  K: If seem causes saw then agent of seem is the same as recipient of saw
+
+19.S: If he is he is one of shit '' -- shit being , in Artaud 's view , of human essence and the sole alternative to the void -RRB- , he was beginning to draw complex , heavily laden constructions that look like architecture made from heads -- in the very last drawing they are stacked , as in so many totem poles . 
+  K: If begin causes draw then agent of begin is the same as agent of draw
+
+20.S: The portraits , in which he used calm observation and academic skill to depict external reality while representing the interior through distortion and paper-tearing physical force , are more troubling than many of the interestingly science-fictional renderings of his visions , for example . 
+  K: If use causes depict then recipient of use is the same as agent of depict
+
+21.S: In 1954 , when he was 24 and an artistic unknown , Johns decided to destroy all his work , with a view to purging himself of influence and beginning afresh with a blank canvas . 
+  K: If decide causes destroy then agent of decide is the same as agent of destroy
+
+22.S: It was a sacrifice the gods seems to have found satisfactory -LRB- which is , of course , why we know about it : If they had n't found it satisfactory , the story would have acquired a different beginning -RRB- . 
+  K: If seem causes find then agent of seem is the same as agent of find
+
+23.S: The following year , Castelli gave Johns a one-man exhibition ; Alfred Barr , of the Museum of Modern Art , attended , and agreed to purchase four works . 
+  K: If agree causes purchase then agent of agree is the same as agent of purchase
+
+24.S: For a version of Johns ' White Flag -LRB- 1955-1958 -RRB- had already appeared in the window of Bonwit Teller , in 1956 , as a background for two mannequins displaying the latest in ladies ' suits , and no one seems to have called in the FBI . 
+  K: If seem causes call then agent of seem is the same as agent of call
+
+25.S: They retain their intellectual aspect , but lose their sensual aspect . 
+  K: If retain causes lose then agent of retain is the same as agent of lose
+
+26.S: They retain their intellectual aspect , but lose their sensual aspect . 
+  K: If retain causes lose then recipient of retain is the same as recipient of lose
+
+27.S: He wants to transform . 
+  K: If want causes transform then agent of want is the same as agent of transform
+
+28.S: His self-effacing devotion to his art , and especially to landscape , helped to pry open the jaws of academic convention . 
+  K: If help causes pry then agent of help is the same as agent of pry
+
+29.S: He praised the Roman women in particular -- `` their asses are spectacular , '' he confided to a friend -- though he thought the Italian whores were overpriced . 
+  K: If praise causes confide then agent of praise is the same as agent of confide
+
+30.S: But the drawings in the National Gallery invite us to discover another Michelangelo , an artist of delicacy and pictorial wit . 
+  K: If invite causes discover then recipient of invite is the same as agent of discover
+
+31.S: But as Michelangelo conceives him , Hercules seems to be dancing with the Hydra , as though he 's drawing from this encounter some of the writhing , erotic energy of the monster . 
+  K: If seem causes dance then agent of seem is the same as agent of dance
+
+32.S: The awkward crosshatching makes one wonder why Michelangelo was so competitive , not to say bitchy , about his rival . 
+  K: If wonder causes not say then agent of wonder is the same as agent of not say
+
+33.S: Phaëthon , you 'll remember , wanted to drive his father 's car -- that is , Apollo 's -- across the sky . 
+  K: If want causes drive then agent of want is the same as agent of drive
+
+34.S: Michelangelo 's Tityus reclines on his craggy bed of rock , from which his muscular body seems to have been sculpted . 
+  K: If seem causes sculpt then agent of seem is the same as recipient of sculpt
+
+35.S: And what subversive intent , what wicked wit , was at work here ? 
+  K: If subversive causes wicked then recipient of subversive is the same as agent of wicked
+
+36.S: No wonder Michelangelo 's contemporaries were in awe of him and tried to follow his intimidating lead . 
+  K: If try causes follow then agent of try is the same as agent of follow
+
+37.S: The Florida International Museum 's `` Splendors of Ancient Egypt '' -LRB- through July 7 -RRB- , recreating a pharaoh 's burial chamber and providing `` a taste of the actual Karnak experience -- using mirrors and two dozen massive columns to completely surround the visitor with the magnificence of the temple . '' 
+  K: If use causes surround then recipient of use is the same as agent of surround
+
+38.S: People used to visit art museums to look at art . 
+  K: If use causes visit then agent of use is the same as agent of visit
+
+39.S: One early critic of this trend , Sherman Lee , then director of the Cleveland Museum of Art , complained 20 years ago that NEH `` tends to lose sight of the fundamental purpose of an art exhibition , which is not to illustrate history but to allow an art work to be understood and enjoyed as a work of art . '' 
+  K: If tend causes lose then agent of tend is the same as agent of lose
+
+40.S: One early critic of this trend , Sherman Lee , then director of the Cleveland Museum of Art , complained 20 years ago that NEH `` tends to lose sight of the fundamental purpose of an art exhibition , which is not to illustrate history but to allow an art work to be understood and enjoyed as a work of art . '' 
+  K: If allow causes enjoy then recipient of allow is the same as recipient of enjoy
+
+41.S: People enjoy these cybertoys : Some exhibitions where visitors tote around the latest electronic gadgetry are beginning to resemble cellular-phone-users ' conventions . 
+  K: If begin causes resemble then agent of begin is the same as agent of resemble
+
+42.S: Virtual-reality exhibitions go one step further : They attempt to create the you-are-there sensation without the objects . 
+  K: If attempt causes create then agent of attempt is the same as agent of create
+
+43.S: The Getty Conservation Institute in California recently sponsored a virtual-reality recreation of Queen Nefertari 's tomb in Egypt , which purports to let cyberexplorers `` look at the 3200-year-old wall paintings ... without fear of damaging the fragile artwork . '' 
+  K: If purport causes let then agent of purport is the same as agent of let
+
+44.S: `` Virtual Pompeii '' recently had a glitch-ridden run at the M.H. de Young Museum , San Francisco ; and a new company , Atlantic Networks , plans to work with major museums to produce a `` Great Civilizations '' series , which will display `` the finest archaeological works of art , together with reconstructions and virtual reality visits to ancient sites . '' 
+  K: If plan causes work then agent of plan is the same as agent of work
+
+45.S: `` Virtual Pompeii '' recently had a glitch-ridden run at the M.H. de Young Museum , San Francisco ; and a new company , Atlantic Networks , plans to work with major museums to produce a `` Great Civilizations '' series , which will display `` the finest archaeological works of art , together with reconstructions and virtual reality visits to ancient sites . '' 
+  K: If work causes produce then agent of work is the same as agent of produce
+
+46.S: It seems fitting that this remarkable painting was owned for a time by Henri Matisse , who experimented with similar monochromatic harmonies . 
+  K: If own causes experiment then agent of own is the same as agent of experiment
+
+47.S: A particularly bizarre transformation occurred when he made a charcoal copy of one of his women having her hair combed . 
+  K: If make causes comb then recipient of make is the same as agent of comb
+
+48.S: They can afford to risk a bit more grit in the presentation . 
+  K: If afford causes risk then agent of afford is the same as agent of risk
+
+49.S: He seems to have thought of painting as a trade like any other , surrounding himself with a workshop of assistants , including his gifted son Domenico . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+50.S: When he worked on commissions all over Europe , he was said to prefer the company of his fellow workmen to that of the wealthy patrons who had hired him . 
+  K: If work causes prefer then agent of work is the same as agent of prefer
+
+51.S: When he worked on commissions all over Europe , he was said to prefer the company of his fellow workmen to that of the wealthy patrons who had hired him . 
+  K: If say causes prefer then recipient of say is the same as agent of prefer
+
+52.S: An old crone who attends Danaë tries to catch some of the loot on a salver . 
+  K: If try causes catch then agent of try is the same as agent of catch
+
+53.S: I would like to have seen a few more of Tiepolo 's portraits -LRB- the greatest of which , depicting a Venetian naval hero with a mutilated hand , could not leave Venice -RRB- , and not quite so many sketches for ceilings . 
+  K: If like causes see then agent of like is the same as agent of see
+
+54.S: Darger collected clippings on the subject of little girls , murdered and otherwise , and went on to write and illustrate a truly amazing , Scheherazadean 15,145-page epic about seven cute prepubescent sisters being tortured by brutish men who like to capture little girls in order to enslave them and torture them and take their clothes off . 
+  K: If like causes capture then agent of like is the same as agent of capture
+
+55.S: Darger collected clippings on the subject of little girls , murdered and otherwise , and went on to write and illustrate a truly amazing , Scheherazadean 15,145-page epic about seven cute prepubescent sisters being tortured by brutish men who like to capture little girls in order to enslave them and torture them and take their clothes off . 
+  K: If go causes write then agent of go is the same as agent of write
+
+56.S: In the course of Darger 's story -- titled The Story of the Vivian Girls , in What is Known as the Realms of the Unreal , of the Glandeco-Angelinnean War Storm , Caused by the Child Slave Rebellion -- the sisters -LRB- the Vivian Girls -RRB- manage to escape from the men -LRB- the Glandelinians -RRB- time and time again , but countless less fortunate girl-slaves are spectacularly mutilated and slaughtered along the way . 
+  K: If manage causes escape then agent of manage is the same as agent of escape
+
+57.S: As such , he is presumed to have produced his work out of some unusually pure sort of inner compulsion , rather than in response to other art . 
+  K: If presume causes produce then recipient of presume is the same as agent of produce
+
+58.S: Darger produced a lot of his little-girl pictures by tracing comic strips or magazine illustrations -LRB- on occasion he cut pictures out and stuck them on the paintings directly -RRB- . 
+  K: If cut causes stick then agent of cut is the same as agent of stick
+
+59.S: It 's reminiscent , if anything , of those groups of angels or monks or soldiers in medieval manuscripts in which some of the figures are identical to each other , and others only slightly different -- but the repetition seems to be employed for the purpose of visual economy , in order not to divert attention from the picture 's central theme , rather than to draw attention to repetition or image-making itself . 
+  K: If seem causes employ then agent of seem is the same as recipient of employ
+
+60.S: But while the notion of outsider art has proved an effective marketing concept , it is often an unfortunate interpretive one -- outsider artists tend to attract a particularly crude and irritating kind of psycho-biographical analysis . 
+  K: If tend causes attract then agent of tend is the same as agent of attract
+
+61.S: Then , bursting into the doors , they thrust the heads into their laps , ordering them to make a copy of them in pencil . 
+  K: If order causes make then recipient of order is the same as agent of make
+
+62.S: Brushed Off About 15 years ago , painter Chuck Close went out to Springs , Long Island , to meet Willem de Kooning , one of the greatest American artists of this century . 
+  K: If go causes meet then agent of go is the same as agent of meet
+
+63.S: But when de Kooning pulled himself together and began painting again in earnest , in 1981 , his paintings looked unlike anything he had made before . 
+  K: If pull causes begin then agent of pull is the same as agent of begin
+
+64.S: Explosive splashes and drips were supposed to be integral to his art , proof of the painting 's volcanic authenticity . 
+  K: If suppose causes integral then recipient of suppose is the same as recipient of integral
+
+65.S: A greater sense of control seems , on the contrary , to highlight it . 
+  K: If seem causes highlight then agent of seem is the same as agent of highlight
+
+66.S: He creates a kind of equilibrium that is always mobile , always about to tilt off to one side and disappear . 
+  K: If create causes disappear then recipient of create is the same as agent of disappear
+
+67.S: De Kooning continued to paint rapidly , but now he seemed to be able to juggle fewer elements . 
+  K: If continue causes paint then agent of continue is the same as agent of paint
+
+68.S: But at this point the difference between supporters ' and detractors ' views begins to narrow . 
+  K: If begin causes narrow then agent of begin is the same as agent of narrow
+
+69.S: The pictures ' precariousness , their de Kooningness , has unmistakably begun to leak away . 
+  K: If begin causes leak then agent of begin is the same as agent of leak
+
+70.S: Immobilized by Alzheimer 's disease , he sits in his home in Springs , having lived beyond what Auden called `` his last afternoon as himself . '' 
+  K: If sit causes live then agent of sit is the same as agent of live
+
+71.S: He also crawled over broken glass and was briefly crucified on top of a Volkswagen Bug . 
+  K: If crawl causes crucify then agent of crawl is the same as recipient of crucify
+
+72.S: It sat on the wall and left us to make up our own minds about what it was all about . 
+  K: If sit causes leave then agent of sit is the same as agent of leave
+
+73.S: It sat on the wall and left us to make up our own minds about what it was all about . 
+  K: If leave causes make then recipient of leave is the same as agent of make
+
+74.S: Art history has flickered out , he says , and though art will continue to be made , each artist will follow his or her bliss , without any larger motive or connective scheme . 
+  K: If continue causes make then agent of continue is the same as recipient of make
+
+75.S: They were angry and wanted to break something -- the state , the banks , the industries -- but had to restrict themselves to the materials of the print media that served and reflected those institutions . 
+  K: If want causes break then agent of want is the same as agent of break
+
+76.S: Höch pointedly or cavalierly toyed with this concept and eventually dispensed with it altogether . 
+  K: If toy causes dispense then agent of toy is the same as agent of dispense
+
+77.S: Even her most labor-intensive works manage to look spontaneous and somehow carefree . 
+  K: If manage causes carefree then agent of manage is the same as agent of carefree
+
+78.S: But the following decade , even this gave way to works of pure nonrepresentational electricity , so bursting and swooping they make you want to use words like `` painterly '' and `` gestural '' -- oxymoronically , they seem to be a kind of Abstract Expressionism built from little , carefully scissored bits of magazine photographs . 
+  K: If want causes use then agent of want is the same as agent of use
+
+79.S: Höch in her modest way told the spectacle where to get off , and set about reconfiguring it with her scissors . 
+  K: If set causes tell then agent of set is the same as recipient of tell
+
+80.S: Around 400 B.C. , the Greek painter Zeuxis was said to have painted grapes so lifelike that birds came to peck at them . 
+  K: If come causes peck then agent of come is the same as agent of peck
+
+81.S: Around 400 B.C. , the Greek painter Zeuxis was said to have painted grapes so lifelike that birds came to peck at them . 
+  K: If say causes paint then recipient of say is the same as agent of paint
+
+82.S: Zeuxis tried to lift the curtain , and lost the contest . 
+  K: If try causes lose then agent of try is the same as agent of lose
+
+83.S: Zeuxis tried to lift the curtain , and lost the contest . 
+  K: If lift causes lose then agent of lift is the same as agent of lose
+
+84.S: When he has won , he has won spectacularly . 
+  K: If win causes win then agent of win is the same as agent of win
+
+85.S: His mother bore 11 children , whom his father tried to support by giving piano lessons and playing the church organ . 
+  K: If try causes support then recipient of try is the same as agent of support
+
+86.S: The better known he became , the more he burrowed into Cookham backyards and bedrooms . 
+  K: If become causes burrow then agent of become is the same as agent of burrow
+
+87.S: Spencer came late to sexual maturity , and he tried , after his marriage to the painter Hilda Carline in 1925 , to make up for lost time . 
+  K: If try causes make then agent of try is the same as agent of make
+
+88.S: Preece lured him into marriage , then refused to consummate it , making clear that she expected to live instead with her female lover . 
+  K: If expect causes live then agent of expect is the same as agent of live
+
+89.S: Like many another would-be prophet of sexual glamour -LRB- D.H. Lawrence comes to mind -RRB- , Spencer ended up as a poet of sexual gloom , especially in the two pitiless double portraits of naked Stanley and naked Patricia painted in 1936 and 1937 . 
+  K: If come causes mind then agent of come is the same as agent of mind
+
+90.S: In The Dustman , wrote Spencer , `` I try to express something of this wish and need I feel for things to be restored . 
+  K: If try causes need then agent of try is the same as agent of need
+
+91.S: Renoir , Monet , and their associates in the Impressionist circle were beginning to find ways to leave behind the shadowy chiaroscuro of earlier European painting , which they associated with a rural world now lost to modern experience . 
+  K: If begin causes find then agent of begin is the same as agent of find
+
+92.S: Renoir , Monet , and their associates in the Impressionist circle were beginning to find ways to leave behind the shadowy chiaroscuro of earlier European painting , which they associated with a rural world now lost to modern experience . 
+  K: If find causes leave then recipient of find is the same as agent of leave
+
+93.S: The 18 th - century rococo scenes that Renoir learned to execute with great skill , dancers and performers and picnics in the country , were a major influence on his later work . 
+  K: If learn causes execute then agent of learn is the same as agent of execute
+
+94.S: As the art historian Robert Herbert has pointed out , Renoir 's famously feathery brushwork -LRB- which , according to one hostile critic , left light `` like grease spots on the clothing of his figures '' -RRB- was meant to show the mark of the hand rather than the mechanical `` finish '' of academic and salon art . 
+  K: If mean causes show then recipient of mean is the same as agent of show
+
+95.S: Renoir went so far as to write a manifesto in 1884 for a society of `` Irregularists '' -- to include such sworn enemies of mechanical perfection as `` painters , decorators , architects , goldsmiths , embroiderers , etc. '' -- but he could n't muster enough fellow members . 
+  K: If go causes write then agent of go is the same as agent of write
+
+96.S: When he painted the two girls in his wonderful Acrobats at the Cirque Fernando -LRB- 1879 -RRB- , he was depicting members of his own social class . 
+  K: If paint causes depict then agent of paint is the same as agent of depict
+
+97.S: Peter Schjeldahl of the Village Voice called Renoir `` the worst artist ever to achieve canonical status '' ; art historian Michael Fried remarked that `` Renoir 's native gift was perilously slight '' ; and critic Robert Rosenblum worried about the `` sugar content '' of his paintings . 
+  K: If Renoir causes achieve then recipient of Renoir is the same as agent of achieve
+
+98.S: Lee tried to choose objects that demonstrated innovation and experimentation ; he has a particular interest in the relationship between technological advances -- in ceramic and bronze production , for example -- and creative ferment . 
+  K: If try causes choose then agent of try is the same as agent of choose
+
+99.S: Ren Xiong , a Shanghai artist who died of tuberculosis in 1857 at age 34 , tries to balance Chinese tradition with the inroads of Western art in his unsettling self-portrait . 
+  K: If try causes balance then agent of try is the same as agent of balance
+
+100.S: It 's as though he is shedding his Chinese accoutrements , and warily embracing a Westernized future . 
+  K: If shed causes embrace then agent of shed is the same as agent of embrace
+
+101.S: The woodcut revival of the 1920s occurred just in time to record the horrors of the Japanese invasion ; stark images of torture recall Goya 's Disasters of War , which detailed Spanish suffering under Napoleonic rule . 
+  K: If occur causes record then agent of occur is the same as agent of record
+
+102.S: The woodcut revival of the 1920s occurred just in time to record the horrors of the Japanese invasion ; stark images of torture recall Goya 's Disasters of War , which detailed Spanish suffering under Napoleonic rule . 
+  K: If recall causes detail then recipient of recall is the same as agent of detail
+
+103.S: -LRB- His Social Realist Construction Workers was displayed in the canteen of the Renault auto factory , to predictably tepid response . 
+  K: If display causes predictably then recipient of display is the same as agent of predictably
+
+104.S: Even New York City , where he waited out World War II , takes on cozy contours for Léger , who was quickly hired by Nelson Rockefeller to decorate his New York apartment -LRB- the fireplace surround is in the MoMA show -RRB- . 
+  K: If hire causes decorate then recipient of hire is the same as agent of decorate
+
+105.S: Back in Paris , he painted stilted idylls in the countryside , utopias no one would want to live in . 
+  K: If want causes live then agent of want is the same as agent of live
+
+106.S: His clever Ballet Mécanique -- an influential little non-narrative film he made in 1924 -LRB- MoMA has it on a continuous reel -RRB- -- intercuts dancing pistons and kitchenware with blinking eyes and a mouth that opens and closes rhythmically . 
+  K: If open causes close then agent of open is the same as agent of close
+
+107.S: At Yale , he learned to paint de Kooning rip-offs with such facility that he once told de Kooning that he 'd painted more de Koonings than de Kooning had . 
+  K: If learn causes paint then agent of learn is the same as agent of paint
+
+108.S: Three years later , an Artforum interview referred to Close by his nickname , `` Chuck '' -- which an assistant had scrawled on some photographs for the piece -- and the name stuck as his professional moniker . 
+  K: If refer causes Close then agent of refer is the same as agent of Close
+
+109.S: Then , he experimented with different ways to fill that grid : pointillist colored dots , blobs of papier-mâché , fingerprints and , finally , the colorful Symbolist doodles he now favors . 
+  K: If experiment causes fill then agent of experiment is the same as agent of fill
+
+110.S: The youthful Soutine seems to step right out of an Isaac Bashevis Singer story . 
+  K: If seem causes step then agent of seem is the same as agent of step
+
+111.S: Legends about his childhood -- of which he may have been the source -- include his theft of some kitchen utensils to buy his first colored pencil , and his early portrait of a local rabbi . 
+  K: If utensils causes buy then agent of utensils is the same as agent of buy
+
+112.S: But almost as soon as he had experienced this Cinderella-like reversal of fortune , Soutine developed second thoughts about his work up to that point and tried to destroy as much of it as he could get his hands on . 
+  K: If try causes destroy then agent of try is the same as agent of destroy
+
+113.S: He persuaded peasant women to hike up their skirts and stand in cold streams , just as Rembrandt had demanded . 
+  K: If persuade causes stand then recipient of persuade is the same as agent of stand
+
+114.S: He acquired a skate from the fishmonger and painted a loose paraphrase of a Chardin still life . 
+  K: If acquire causes paint then agent of acquire is the same as agent of paint
+
+115.S: It may also be worth noting that with their red or white uniforms , these servants allowed Soutine to retain his lurid , fleshy palate . 
+  K: If allow causes retain then recipient of allow is the same as agent of retain
+
+116.S: The irony is that Soutine seems to have viewed the arrival of the Nazis , at least initially , with a certain equanimity , more cheerful than fatalistic . 
+  K: If seem causes view then agent of seem is the same as agent of view
+
+117.S: In paintings such as Hierarchical Birds -LRB- 1944 -RRB- , the messy profusion of feathers and tails and eyes is meant to convey the tangle of the psyche , while the three layers of color in the background might correspond to Freud 's tripartite division of superego , ego , and id . 
+  K: If mean causes convey then recipient of mean is the same as agent of convey
+
+118.S: The boldly simplified work of friends such as Barnett Newman and Clyfford Still -LRB- the California abstractionist he 'd met on a trip west in 1944 -RRB- may have encouraged him to banish imagery from his work . 
+  K: If encourage causes banish then recipient of encourage is the same as agent of banish
+
+119.S: His mother died in 1948 , however , and Rothko went into a prolonged depression , an early episode of the periodic despondency he would continue to suffer . 
+  K: If continue causes suffer then agent of continue is the same as agent of suffer
+
+120.S: Once you 've registered that relationship , you realize that a layer of orange smolders underneath and flickers at the seam of the two colors . 
+  K: If register causes realize then agent of register is the same as agent of realize
+
+121.S: These `` breakthrough '' paintings , as Rothko himself called them , with their thick layers of paint laid on with big brushes purchased at a hardware store , give the lie to the critic Clement Greenberg 's influential claim that Rothko `` seems to soak his paint into the canvas to get a dyer 's effect and avoid the connotations of a discrete layer of paint on top of the surface . '' 
+  K: If seem causes soak then agent of seem is the same as agent of soak
+
+122.S: Greenberg wanted to enlist Rothko in his own narrative of American painting moving irrevocably toward `` flatness '' and so-called `` color-field '' painting . 
+  K: If want causes enlist then agent of want is the same as agent of enlist
+
+123.S: He refused to talk about technique , angrily denied that he was a colorist , and challenged his viewers to find the tragedy lurking in the canvases -LRB- Nietzsche 's The Birth of Tragedy was his favorite book -RRB- . 
+  K: If refuse causes talk then agent of refuse is the same as agent of talk
+
+124.S: Greenberg , writing in 1958 , took pains to deny that Rothko 's paintings were `` luxury-objects , '' arguing , rather mysteriously , that they managed to `` escape geometry through geometry itself . '' 
+  K: If manage causes escape then agent of manage is the same as agent of escape
+
+125.S: But this is no mere coffee table decoration -- although it weighs at least 5 pounds and contains 530 reproductions , it is text-laden far beyond the norm . 
+  K: If weigh causes contain then agent of weigh is the same as agent of contain
+
+126.S: Since a loss of faith in the Modernist canon often seems to be paired with a disillusionment with communist teleology , would n't championing the essential conservatism of all those Zhdanovists make a dandy short circuit ? 
+  K: If seem causes pair then agent of seem is the same as recipient of pair
+
+127.S: Indeed , the Western artist who most consistently comes to mind when you look at the pictures in Bown 's book is Andrew Wyeth . 
+  K: If come causes mind then agent of come is the same as agent of mind
+
+128.S: But there are also a considerable number of works illustrated that do not fit the bill , that refer neither to old masters nor to magazine illustration . 
+  K: If not fit causes refer then recipient of not fit is the same as agent of refer
+
+129.S: We have chosen to represent Socialist Realism in terms of its most moronic and craven examples , and we have instead upheld the banner of the `` left '' artists , the Futurists and Constructivists , who were marginal at best in their time and place . 
+  K: If choose causes represent then agent of choose is the same as agent of represent
+
+130.S: He does not dismiss the latter , recognizing the originality and strength of Kazimir Malevich , Aleksandr Rodchenko , El Lisitski , and their colleagues , but he wants us to pay attention to those other artists , many more in number , who do not fall seamlessly into the Modernist continuum but who often had to pay as harsh a price for their independence as their better-known avant-garde counterparts . 
+  K: If want causes pay then recipient of want is the same as agent of pay
+
+131.S: The reader 's mind throbs as he dissects minute shifts in official thinking and individual temper , and conducts tours of the diverse art scenes in far-flung provincial cities . 
+  K: If dissect causes conduct then agent of dissect is the same as agent of conduct
+
+132.S: As Bown takes pains to point out , it descended largely intact from the artistic currents of the 19 th century and had its roots both in classic Western art and in much older local traditions , including the work of such Russian masters as the 15 th century monk Andrei Rublev . 
+  K: If take causes point then recipient of take is the same as agent of point
+
+133.S: `` The more materialistic science becomes , '' he boasted to Oscar Wilde , `` the more angels shall I paint . '' 
+  K: If boast causes Oscar_Wilde then agent of boast is the same as agent of Oscar_Wilde
+
+134.S: Burne-Jones prefers stasis to activity ; he likes to paint people asleep , turned into stone or trees , or chained up -LRB- like the maiden waiting to see if the dragon or King George gets there first -RRB- . 
+  K: If like causes paint then agent of like is the same as agent of paint
+
+135.S: He who had painted so many knights accepted a baronetcy in 1894 . 
+  K: If paint causes accept then agent of paint is the same as agent of accept
+
+136.S: He asks us to focus our attention instead on three major clusters of Bonnard 's work : bathroom scenes of Bonnard 's wife , Marthe , undressing , primping , or toweling herself off ; scenes of Marthe submerged full-length in a bathtub ; and self-portraits of Bonnard peering at himself in the bathroom mirror . 
+  K: If ask causes focus then recipient of ask is the same as agent of focus
+
+137.S: She introduced herself as Marthe de Mélingy -- the sort of mock-noble name that demimondaines such as Proust 's Odette de Crécy liked to assume -- and claimed to be a teen-ager . 
+  K: If introduce causes claim then agent of introduce is the same as agent of claim
+
+138.S: These artists believed that if they built their respective corners of the new world , the rest would fill itself in and the people would flock to inhabit it . 
+  K: If flock causes inhabit then agent of flock is the same as agent of inhabit
+
+139.S: These artists believed that if they built their respective corners of the new world , the rest would fill itself in and the people would flock to inhabit it . 
+  K: If flock causes inhabit then agent of flock is the same as agent of inhabit
+
+140.S: Despite strong competition from abroad , he virtually came to own the rakish angle on multistory architecture , and he shared with the German Umbo title to the perpendicular view of the street from above . 
+  K: If come causes own then agent of come is the same as agent of own
+
+141.S: Rodchenko , who for a couple of years after the Revolution continued to ally himself with the soon-to-be-banned anarchists , now felt the shifting winds and bent himself to various acts of public self-criticism , but even so he found himself unable to obtain permits for street photography . 
+  K: If continue causes ally then agent of continue is the same as agent of ally
+
+142.S: O'Keeffe , initially puzzled by the young Japanese artist 's ambitions , told her to show her work to anyone willing to look at it . 
+  K: If tell causes show then recipient of tell is the same as agent of show
+
+143.S: Looking down from the top of the Empire State Building at the crowds below , Kusama realized that she needed to do something more spectacular -- `` like a bomb , '' she said -- if she wanted to attract notice . 
+  K: If want causes attract then agent of want is the same as agent of attract
+
+144.S: In such works she seemed to be toying with male expectations of the Asian femme fatale . 
+  K: If seem causes toy then agent of seem is the same as agent of toy
+
+145.S: Kusama , clothed in a kimono , dabs paint on her nude models , who begin to dance in comic self-consciousness , then escalate , to a loud acid rock soundtrack , into orgy . 
+  K: If begin causes dance then agent of begin is the same as agent of dance
+
+146.S: Her paintings and sculptures , with their use of body parts and food , anticipate the work of such current artists as Cindy Sherman and Kiki Smith -LRB- Tony Smith 's daughter -RRB- , but they failed to attract the financial and institutional backing Kusama needed . 
+  K: If fail causes attract then agent of fail is the same as agent of attract
+
+147.S: Smith liked to joke that his career -- architect , painter , sculptor -- followed the initials of his name : Anthony Peter Smith . 
+  K: If like causes joke then agent of like is the same as agent of joke
+
+148.S: -LRB- The New York City Department of Parks and Recreation has helpfully added a note that the work `` is not intended to promote cigarette smoking . '' -RRB- 
+  K: If not intend causes promote then recipient of not intend is the same as agent of promote
+
+149.S: There 's nothing on record , as far as I know , to link him to his mentor Wright 's notorious sympathy for Hitler and fascism . 
+  K: If know causes link then agent of know is the same as agent of link
+
+150.S: Or perhaps the New York art world , in which Kusama ran aground , required such a tough-guy mentality to survive . 
+  K: If require causes survive then recipient of require is the same as agent of survive
+
+151.S: His eyes shaded by a Panama hat and a full white Walt Whitman beard pointing to the water , he seems to be saying , `` This is my terrain . 
+  K: If seem causes say then agent of seem is the same as agent of say
+
+152.S: But shadows were beginning to intrude . 
+  K: If begin causes intrude then agent of begin is the same as agent of intrude
+
+153.S: During World War I , as he conveyed vegetables to the troops quartered nearby and refused to leave Giverny as the German line advanced , Monet 's panels took on some of the dark mood of war . 
+  K: If refuse causes leave then agent of refuse is the same as agent of leave
+
+154.S: At war 's end , he arranged to contribute some of his panels as a sort of victory monument to the nation -- the gift that eventually became the glorious circular water lily chapel at the Orangerie in Paris . 
+  K: If arrange causes contribute then agent of arrange is the same as agent of contribute
+
+155.S: The winner of the toss , MIT computer scientist Joseph Carl Robnett Licklider -LRB- or `` Lick , '' as he insisted on being called -RRB- , got the top job at an obscure government agency known as the Command and Control Research Division , a division of the Pentagon 's Advanced Research Projects Agency -LRB- ARPA -RRB- , which was created after Sputnik to close the purported gap between Soviet and American science . 
+  K: If create causes close then recipient of create is the same as agent of close
+
+156.S: Air Force intelligence , for instance , wanted to use the agency 's huge mainframe computers to detect patterns of behavior among high-level Soviet officials . 
+  K: If want causes use then agent of want is the same as agent of use
+
+157.S: Computer science up to that point had been dominated by `` batch-processing , '' a system believed to be maximally efficient , wherein programmers wrote code at their desks , copied it onto stacks of cards with holes punched into them , and handed them over to technicians who had a priestlike say over who got to use the computer , and when . 
+  K: If get causes use then agent of get is the same as agent of use
+
+158.S: For instance , they debunk the long-standing myth that the Internet was created as a test to see if computer networks could be designed to survive a nuclear war . 
+  K: If design causes survive then recipient of design is the same as agent of survive
+
+159.S: Perhaps the greatest mystery in the history of the Internet is one about which Hafner and Lyon never bother to speculate -- how and why the Pentagon , at the height of the backlash against the Vietnam War , was persuaded to grant a bunch of longhaired , Tolkien-reading grad students huge sums of money , without insisting on oversight . 
+  K: If never bother causes speculate then agent of never bother is the same as agent of speculate
+
+160.S: Perhaps the greatest mystery in the history of the Internet is one about which Hafner and Lyon never bother to speculate -- how and why the Pentagon , at the height of the backlash against the Vietnam War , was persuaded to grant a bunch of longhaired , Tolkien-reading grad students huge sums of money , without insisting on oversight . 
+  K: If persuade causes grant then recipient of persuade is the same as agent of grant
+
+161.S: We read about how the students developed interactive games , created the first online discussion groups , fought over what technical standards to adopt , and ran headfirst into issues still relevant today -- privacy online , the appropriate use of computers , ownership of software , how to govern the Internet . 
+  K: If fight causes govern then agent of fight is the same as agent of govern
+
+162.S: That story remains to be told . 
+  K: If remain causes tell then agent of remain is the same as recipient of tell
+
+163.S: But Banks chooses to begin with the medicine men and priests in Africa , who are , he asserts , the ancestors of contemporary African-American intellectuals . 
+  K: If choose causes begin then agent of choose is the same as agent of begin
+
+164.S: Banks ' choice of a starting point seems to invoke an expansive notion of the intellectual that includes some -LRB- but not all -RRB- academics , novelists , journalists , composers , artists , programmers , pundits , and poets -- an idea I think muddies more than it clarifies . 
+  K: If seem causes invoke then agent of seem is the same as agent of invoke
+
+165.S: The current fashion for talk about intellectuals will leave some readers to expect a few clear definitions from Banks . 
+  K: If leave causes expect then recipient of leave is the same as agent of expect
+
+166.S: Other societies had used slaves as teachers -LRB- Greece and Rome -RRB- and bureaucrats -LRB- the Ottoman Empire -RRB- , but African slaves were brought to the New World to use their muscles , not their minds . 
+  K: If bring causes use then recipient of bring is the same as agent of use
+
+167.S: According to Applebome , no place in the South has tried harder to overcome the region 's harsh racial legacy than Charlotte , N.C. . 
+  K: If try causes overcome then agent of try is the same as agent of overcome
+
+168.S: The much-hyped New South may have shed Dixie 's overt racism and acquired the same neon surfaces as the rest of America . 
+  K: If shed causes acquire then agent of shed is the same as agent of acquire
+
+169.S: Business writers are generally outsiders looking in : They lack the access granted to political , sports , or even entertainment reporters , since few companies seek the kind of publicity the press wants to bestow upon them . 
+  K: If want causes bestow then agent of want is the same as agent of bestow
+
+170.S: Den of Thieves required even more intelligence work , as well as author James B. Stewart 's master touch at cutting through the multimillion-dollar public-relations campaign -- still ongoing -- that tried to make Michael Milken look like Albert Schweitzer pursued recklessly by jackbooted government thugs . 
+  K: If try causes make then agent of try is the same as agent of make
+
+171.S: Ford 's genius lay in mass production , and in bringing down the cost of the product so that the consumer could afford to purchase a one-time luxury item . 
+  K: If afford causes purchase then agent of afford is the same as agent of purchase
+
+172.S: In the province of computing , that feat was accomplished not by Gates -- who has never fought to reduce the price of computing power , lest his margins suffer unnecessarily -- but by the boys at Intel , led by Gordon Moore , Andy Grove , and the late Robert Noyce -- who , years before his death , joked with IBM execs that computers in the future would not only be more powerful than IBM mainframes , but would be smaller , and much , much cheaper . 
+  K: If never fight causes reduce then agent of never fight is the same as agent of reduce
+
+173.S: A better comparison for Gates would have been John D. Rockefeller , who sought to monopolize the fuel that went into automobiles . 
+  K: If seek causes monopolize then agent of seek is the same as agent of monopolize
+
+174.S: It dominated the software industry because its rivals were such lightweights and buffoons , and because it hired the smartest and brightest software writers . 
+  K: If dominate causes hire then agent of dominate is the same as agent of hire
+
+175.S: Stross could have written a fabulous book about how Microsoft 's meritocracy produced a perfect monopoly , out of sheer grit and the love bestowed upon its team of managers by America 's mutual funds -LRB- their fondness for Microsoft stock yielded a price that allowed the company , with its handsome stock-option compensation program , to hold on to its best , most talented players -RRB- . 
+  K: If allow causes hold then recipient of allow is the same as agent of hold
+
+176.S: -LRB- Intriguing , though , to learn that Microsoft only approached Funk & Wagnalls to collaborate on an encyclopedia CD-ROM after being turned down by a haughty Encyclopedia Britannica . 
+  K: If approach causes collaborate then recipient of approach is the same as agent of collaborate
+
+177.S: Rather than find out how Microsoft produced Encarta , I would really like to know how Microsoft got every PC company to load its computers with Microsoft software and not that of other -- at times , superior -- operating systems -LRB- the conventional wisdom that Gates handed his systems ' standards out to everyone while his competitors kept their standards proprietary does n't begin to account for the enormity of Microsoft 's success -RRB- . 
+  K: If like causes know then agent of like is the same as agent of know
+
+178.S: Rather than find out how Microsoft produced Encarta , I would really like to know how Microsoft got every PC company to load its computers with Microsoft software and not that of other -- at times , superior -- operating systems -LRB- the conventional wisdom that Gates handed his systems ' standards out to everyone while his competitors kept their standards proprietary does n't begin to account for the enormity of Microsoft 's success -RRB- . 
+  K: If n't begin causes account then agent of n't begin is the same as agent of account
+
+179.S: Bill Gates may not be waking up in the middle of the night worried about whether Netscape has stormed the Ardennes on the way to Sedan , but I 'm sure somebody at Microsoft is worried -LRB- probably Steve Ballmer , a college buddy of mine who would wake up in the middle of the night if he bothered to sleep -RRB- , and is working on a devastating counterattack this very moment . 
+  K: If bother causes sleep then agent of bother is the same as agent of sleep
+
+180.S: Richard Klein 's EAT FAT tries to reclaim one aspect of eating -- getting fat and feeling bad about it -- from the boring debates about health and fashion in which it 's usually stuck . 
+  K: If try causes reclaim then agent of try is the same as agent of reclaim
+
+181.S: EAT FAT is a `` postmodern diet book , '' as Klein puts it -LRB- employing a rather eccentric definition of postmodern , which seems roughly to amount to `` counterintuitive '' -RRB- : an encomium to corpulence and an excoriation of all the industries that encourage you to be skinny . 
+  K: If seem causes amount then agent of seem is the same as agent of amount
+
+182.S: EAT FAT is a `` postmodern diet book , '' as Klein puts it -LRB- employing a rather eccentric definition of postmodern , which seems roughly to amount to `` counterintuitive '' -RRB- : an encomium to corpulence and an excoriation of all the industries that encourage you to be skinny . 
+  K: If amount causes counterintuitive then agent of amount is the same as agent of counterintuitive
+
+183.S: `` Science and authority come together to serve each other , to make money and murder fat . '' 
+  K: If serve causes make then agent of serve is the same as agent of make
+
+184.S: There are , you are forced to conclude , not one but two Richard Kleins lurking in this book . 
+  K: If force causes conclude then recipient of force is the same as agent of conclude
+
+185.S: Richard Klein No. 1 has written an elegant , seductive book that sets you to musing how nice it might be to put on 80 or 90 pounds to feel that sensual , private , fatty softness all over . 
+  K: If set causes muse then recipient of set is the same as agent of muse
+
+186.S: Did you know that Socrates used to dance every morning to keep his weight down ? 
+  K: If use causes dance then agent of use is the same as agent of dance
+
+187.S: -LRB- How does Klein propose to establish a drug 's safety with perfect assurance ? 
+  K: If propose causes establish then agent of propose is the same as agent of establish
+
+188.S: In short , Richard Klein No. 2 quenches our pleasure in Richard Klein No. 1 in much the same way that the health and beauty industries are supposedly determined to quench our pleasure in fat . 
+  K: If determine causes quench then recipient of determine is the same as agent of quench
+
+189.S: And it is a rather uninteresting , one-sided kind of hedonism that fails to take this into account . 
+  K: If fail causes take then agent of fail is the same as agent of take
+
+190.S: You would think that cultivating a taste for such ascetic modes of enjoyment would be at least as effective a diet strategy as glorifying blubber , but Klein fails to entertain this possibility . 
+  K: If fail causes entertain then agent of fail is the same as agent of entertain
+
+191.S: You would think that cultivating a taste for such ascetic modes of enjoyment would be at least as effective a diet strategy as glorifying blubber , but Klein fails to entertain this possibility . 
+  K: If fail causes entertain then agent of fail is the same as agent of entertain
+
+192.S: `` I was always doing things over again in my life , '' she reiterates , as if to reassure readers that she knows the territory looks familiar . 
+  K: If reiterate causes reassure then agent of reiterate is the same as agent of reassure
+
+193.S: Chief among his many conquests is Olivia , his current girlfriend , a beauty who enthralls him by night in the ramshackle mansion he 's never bothered to fix up and disappoints him by day in her modest desire for a career no greater than that of a nurse 's aide . 
+  K: If never bother causes fix then recipient of never bother is the same as agent of fix
+
+194.S: Simpson apparently meant to write an acerbic social portrait of America 's post-postindustrial revolution , and of the former countercultural baby boomers who lead it . 
+  K: If write causes lead then recipient of write is the same as agent of lead
+
+195.S: -LRB- Jane continues to eat her scabs , even as she 's being civilized . 
+  K: If continue causes eat then agent of continue is the same as agent of eat
+
+196.S: Because he wants to line up his own free-speech argument within the conventional academic view that our problems are mostly the consequences of an antiquated and discreditable ideology of liberal individualism , and that they can mostly be solved by adopting a social-constructionist , or communitarian , or `` intersubjective '' view of human nature instead . 
+  K: If want causes line then agent of want is the same as agent of line
+
+197.S: Here , assuming we want to try the interventionist approach , it is hard to see how a one-size theory can possibly fit all cases . 
+  K: If want causes try then agent of want is the same as agent of try
+
+198.S: They found them objectionable because they depicted sadomasochism . 
+  K: If depict causes find then agent of depict is the same as agent of find
+
+199.S: You might expect a painful drama to follow , a piling up of drafts and rejections . 
+  K: If expect causes follow then recipient of expect is the same as agent of follow
+
+200.S: It is this self-division that seems to defy lucid expression . 
+  K: If seem causes defy then agent of seem is the same as agent of defy
+
+201.S: The secrecy is more opaque than it appears to warrant . 
+  K: If appear causes warrant then agent of appear is the same as agent of warrant
+
+202.S: What is fine here is the precision of Begley 's attention ; he does not strive to make Schmidt either likable or a monster . 
+  K: If not strive causes make then agent of not strive is the same as agent of make
+
+203.S: Ellison seemed to have discovered instantly that his one good novel was his first . 
+  K: If seem causes discover then agent of seem is the same as agent of discover
+
+204.S: Maybe that is why he never published his second , that most talked-about advent that produced only excerpts here and there . 
+  K: If never publish causes produce then recipient of never publish is the same as agent of produce
+
+205.S: Ellison was clearly trying to learn how to write fiction . 
+  K: If try causes learn then agent of try is the same as agent of learn
+
+206.S: Ellison was clearly trying to learn how to write fiction . 
+  K: If learn causes write then agent of learn is the same as agent of write
+
+207.S: `` Nelson , '' said the patriarch , `` whom are we trying to impress ? '' 
+  K: If try causes impress then agent of try is the same as agent of impress
+
+208.S: He quickly found out who was going to be seeing FDR that morning -- it was Vice President Henry Wallace -- and persuaded him to win a stay of execution . 
+  K: If persuade causes win then recipient of persuade is the same as agent of win
+
+209.S: He quickly found out who was going to be seeing FDR that morning -- it was Vice President Henry Wallace -- and persuaded him to win a stay of execution . 
+  K: If persuade causes win then recipient of persuade is the same as agent of win
+
+210.S: He quickly found out who was going to be seeing FDR that morning -- it was Vice President Henry Wallace -- and persuaded him to win a stay of execution . 
+  K: If persuade causes win then recipient of persuade is the same as agent of win
+
+211.S: He emitted a strange kind of electricity ; before he even said a word on screen , he put everything and everyone on edge . 
+  K: If emit causes say then agent of emit is the same as agent of say
+
+212.S: He emitted a strange kind of electricity ; before he even said a word on screen , he put everything and everyone on edge . 
+  K: If say causes put then agent of say is the same as agent of put
+
+213.S: He actively sets out to make himself appear the biggest creep who ever walked the earth . 
+  K: If set causes make then agent of set is the same as agent of make
+
+214.S: `` Once when I was asleep I pissed on my sister because I dreamed she was a tree , '' writes Kinski . 
+  K: If dream causes piss then agent of dream is the same as agent of piss
+
+215.S: Here is a man who reports working on For a Few Dollars More , but fails to mention Clint Eastwood . 
+  K: If report causes mention then agent of report is the same as agent of mention
+
+216.S: Here is a man who reports working on For a Few Dollars More , but fails to mention Clint Eastwood . 
+  K: If fail causes mention then agent of fail is the same as agent of mention
+
+217.S: Here is a man who reports working on For a Few Dollars More , but fails to mention Clint Eastwood . 
+  K: If fail causes mention then agent of fail is the same as agent of mention
+
+218.S: `` There is reason to think that on the matter of homosexuality , '' he writes , `` some small but important aspect of human personality has begun to change . '' 
+  K: If begin causes change then agent of begin is the same as agent of change
+
+219.S: He lets himself dream that there might arise `` schools of creative reading , '' but he also knows that his dreams will remain just that . 
+  K: If let causes know then agent of let is the same as agent of know
+
+220.S: The essay called `` Archives of Eden '' seeks to provoke on a larger scale . 
+  K: If seek causes provoke then agent of seek is the same as agent of provoke
+
+221.S: We long ago decided to ignore the poet 's counsel and took the road more traveled . 
+  K: If decide causes take then agent of decide is the same as agent of take
+
+222.S: We long ago decided to ignore the poet 's counsel and took the road more traveled . 
+  K: If ignore causes take then agent of ignore is the same as agent of take
+
+223.S: No one who reads these chapters will scoop up another spoonful of sugar without reflecting on the history of ambivalence , global turmoil , and centuries of suffering needed to put it on the table . 
+  K: If need causes put then agent of need is the same as agent of put
+
+224.S: He then concludes : `` I do n't think anyone wants to call that array a cuisine . '' 
+  K: If want causes call then agent of want is the same as agent of call
+
+225.S: Mintz means to start an argument , to lay out a polemic , but what 's nettlesome is not his answer but the question . 
+  K: If mean causes lie then agent of mean is the same as agent of lie
+
+226.S: Instead , he might have consulted the works of J.B. Jackson , the architecture critic who observed that most American architecture is n't meant to last . 
+  K: If n't mean causes last then recipient of n't mean is the same as agent of last
+
+227.S: Woodward does recount the decision-making process of those Republicans who decided not to run . 
+  K: If decide causes not run then agent of decide is the same as agent of not run
+
+228.S: He excels at coining pithy phrases and metaphors that express anew the power of Darwinian theory . 
+  K: If coin causes express then recipient of coin is the same as agent of express
+
+229.S: Dawkins asks us to imagine the myriad forms of life inhabiting a vast mountain . 
+  K: If ask causes imagine then recipient of ask is the same as agent of imagine
+
+230.S: Dawkins has rebutted these notions convincingly , showing that the phenomena they attempt to explain can all be accounted for with conventional Darwinian theory . 
+  K: If attempt causes explain then agent of attempt is the same as agent of explain
+
+231.S: Alone on the parched plains of Somalia or the Sudan , they lack the strength to lift even a kernel of precious grain . 
+  K: If lack causes lift then recipient of lack is the same as agent of lift
+
+232.S: It also fails to recognize that sometimes , the only effective option is the swift , quasi-imperial intervention of a powerful outsider . 
+  K: If fail causes recognize then agent of fail is the same as agent of recognize
+
+233.S: But once we 're in , we 're in . 
+  K: If 're causes 're then agent of 're is the same as agent of 're
+
+234.S: Meanwhile , Japan , China , and other Asian nations have adopted mercantilist trade strategies : that is , they have sought , through barriers or government subsidies , to guarantee surpluses . 
+  K: If seek causes guarantee then agent of seek is the same as agent of guarantee
+
+235.S: He wants the United States to adopt an `` emergency tariff '' of between 10 percent and 15 percent on imports to force other countries to abandon their mercantile trading strategies . 
+  K: If want causes adopt then recipient of want is the same as agent of adopt
+
+236.S: He wants the United States to adopt an `` emergency tariff '' of between 10 percent and 15 percent on imports to force other countries to abandon their mercantile trading strategies . 
+  K: If force causes abandon then recipient of force is the same as agent of abandon
+
+237.S: Scalia 's notion of what constitutes a popular cause does seem questionable -- racial-minority and gay rights are not nearly as universally supported as Scalia seems to think they are . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+238.S: Scalia 's notion of what constitutes a popular cause does seem questionable -- racial-minority and gay rights are not nearly as universally supported as Scalia seems to think they are . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+239.S: It was a sweeping generalization , based on much less scientific observation than he claimed to have done . 
+  K: If claim causes do then agent of claim is the same as agent of do
+
+240.S: Seizing control of the Post , Katharine swats the newspaper jackals who want to steal it : Sam Newhouse , the Los Angeles Times , and Roy Thomson . 
+  K: If want causes steal then agent of want is the same as agent of steal
+
+241.S: He has not been adequately served by a biographer unwilling or unable to understand the nightmare of Cold War epistemology , the place where politics and pathology become indistinguishable . 
+  K: If not serve causes understand then recipient of not serve is the same as agent of understand
+
+242.S: And you ca n't help but be glad that women these days are at least being told to take care of themselves . 
+  K: If tell causes take then recipient of tell is the same as agent of take
+
+243.S: `` I 'm here to change the world ! '' 
+  K: If 'm causes change then agent of 'm is the same as agent of change
+
+244.S: They may be changing the world , but they 're also underpaid . 
+  K: If change causes 're then agent of change is the same as agent of 're
+
+245.S: It 's only when the plot forces him to hide the cards of certain players , which it does periodically , that my disbelief is unsuspended . 
+  K: If force causes hide then recipient of force is the same as agent of hide
+
+246.S: Java works because it lets everyone run the same program , but it is not clear that everyone wants to run the same program . 
+  K: If want causes run then agent of want is the same as agent of run
+
+247.S: Java works because it lets everyone run the same program , but it is not clear that everyone wants to run the same program . 
+  K: If want causes run then agent of want is the same as agent of run
+
+248.S: Java works because it lets everyone run the same program , but it is not clear that everyone wants to run the same program . 
+  K: If run causes run then agent of run is the same as agent of run
+
+249.S: Java works because it lets everyone run the same program , but it is not clear that everyone wants to run the same program . 
+  K: If run causes run then recipient of run is the same as recipient of run
+
+250.S: Java works because it lets everyone run the same program , but it is not clear that everyone wants to run the same program . 
+  K: If want causes run then agent of want is the same as agent of run
+
+251.S: Because Macintosh users want Macintosh programs , not warmed-over Windows programs . 
+  K: If want causes not warm then recipient of want is the same as recipient of not warm
+
+252.S: Everything was ready-made and in reach of anyone who chose to put it together . '' 
+  K: If choose causes put then agent of choose is the same as agent of put
+
+253.S: He was , the Japanese artist Yayoi Kusama reported , `` deeply impotent , '' the adverb acknowledging that normal sex was something Cornell only believed he wanted , the way he might have thought he ought to learn to draw in order to be a real artist . 
+  K: If learn causes draw then agent of learn is the same as agent of draw
+
+254.S: Amar advocates that all criminal defendants be compelled to give pretrial depositions , but his book is vague about whether these depositions would substitute for or supplement police interrogation . 
+  K: If give causes supplement then recipient of give is the same as agent of supplement
+
+255.S: These are areas where the Soviet Foreign Ministry and party archives have so far yielded little that is illuminating , and the Soviet military and intelligence archives are still tightly controlled where they have been opened at all . 
+  K: If yield causes control then agent of yield is the same as recipient of control
+
+256.S: Was this what we fought for when we battled the fascist invaders ? '' 
+  K: If fight causes battle then agent of fight is the same as agent of battle
+
+257.S: He seemed to be enjoying himself , though he looked a little anxious when a paparazzo took his picture . 
+  K: If seem causes enjoy then agent of seem is the same as agent of enjoy
+
+258.S: The doorman looked her over and said , `` OK , the horse can come in , but you have to stay outside . '' 
+  K: If look causes say then agent of look is the same as agent of say
+
+259.S: But he seemed to swallow far too much tainted water . 
+  K: If seem causes swallow then agent of seem is the same as agent of swallow
+
+260.S: He let the realities of Ireland 's civil war invade and occupy his poetic world . 
+  K: If invade causes occupy then agent of invade is the same as agent of occupy
+
+261.S: Wachtler spends pages and pages excusing his behavior -- he was depressed , he was addicted , he never intended to harm anyone , etc. -- but even here his tone is oddly flat . 
+  K: If never intend causes harm then agent of never intend is the same as agent of harm
+
+262.S: The biographer of a great analyst is always tempted to prove something , to second-guess the dubious reader . 
+  K: If tempt causes second then recipient of tempt is the same as agent of second
+
+263.S: We want to know whether these people should have been trusted , and why and if we should go on trusting their so-called followers . 
+  K: If want causes know then agent of want is the same as agent of know
+
+264.S: This is a story of a man with an amazing talent for finding what and whom he needed to make himself what he wanted to be , the greatest analyst since Freud . 
+  K: If find causes want then recipient of find is the same as recipient of want
+
+265.S: This is a story of a man with an amazing talent for finding what and whom he needed to make himself what he wanted to be , the greatest analyst since Freud . 
+  K: If need causes make then recipient of need is the same as agent of make
+
+266.S: Of course , Lacan 's life here is being read retrospectively , partly through the prism of his writings , whereas he was living it prospectively -LRB- we have to remember , given that Lacan 's work was the theorizing of life stories , that he himself never knew what was going to happen next -RRB- . 
+  K: If go causes happen then agent of go is the same as agent of happen
+
+267.S: Branwell Brontë drank and raved . 
+  K: If drink causes rave then agent of drink is the same as agent of rave
+
+268.S: Spark brings complicated families to mind partly because of the familial structure she gives her novels . 
+  K: If bring causes mind then recipient of bring is the same as agent of mind
+
+269.S: `` You were meant to be half blotted out , '' Claire tells her . 
+  K: If mean causes blot then recipient of mean is the same as recipient of blot
+
+270.S: Jesus Wept Some years ago , I attempted to write a work of nonfiction that reconstructed the life of the historical Jesus . 
+  K: If attempt causes write then agent of attempt is the same as agent of write
+
+271.S: Jesus claims to have been an Essene , a member of that strict Jewish sect whose puritanical customs and views of life it has been the delight of modern fantasists to reconstruct . 
+  K: If claim causes reconstruct then agent of claim is the same as agent of reconstruct
+
+272.S: Pynchon the verbal technician is genius , but Pynchon the humorist is lame indeed and reminds one of a brainy college sophomore who studies joke books to make himself amusing . 
+  K: If study causes make then recipient of study is the same as agent of make
+
+273.S: And he pays his readers the ultimate compliment of writing as though he knows they 're capable of getting his erudite cosmic jokes . 
+  K: If pay causes know then agent of pay is the same as agent of know
+
+274.S: Perhaps parents are eager to go to work not because it gives them autonomy but because it lets them be safely and comfortably childlike . 
+  K: If let causes give then agent of let is the same as agent of give
+
+275.S: More fathers need to buckle down on the home front , which would improve the attitude and motivation of mothers too . 
+  K: If need causes buckle then agent of need is the same as agent of buckle
+
+276.S: The bottles mysteriously failed to explode . 
+  K: If fail causes explode then agent of fail is the same as agent of explode
+
+277.S: But Glazer is also too honest to disguise his own misgivings , and his new book , painful and awkward and sometimes confused , is the record of a reality -- the reality of race and racial identity -- that has resisted the categories he has tried to impose on it throughout his career . 
+  K: If try causes impose then agent of try is the same as agent of impose
+
+278.S: Glazer is the last person one would expect to applaud the kind of ethnic chauvinism and myth-mongering that often go under the name of multiculturalism , and he does n't . 
+  K: If expect causes applaud then agent of expect is the same as agent of applaud
+
+279.S: Now he is saying that blacks want to follow the ethnic pattern , but ca n't -- and that multiculturalism is the result of that frustration . 
+  K: If want causes follow then agent of want is the same as agent of follow
+
+280.S: He is forced to say , instead , that multiculturalism is n't the end of the world . 
+  K: If force causes say then recipient of force is the same as agent of say
+
+281.S: He does n't believe that any large-scale policy can increase residential or educational integration , or raise the low level of racial intermarriage . 
+  K: If increase causes raise then agent of increase is the same as agent of raise
+
+282.S: He does n't believe that racism is the cause of black isolation , so he does n't suggest that enlightenment is the answer . 
+  K: If n't believe causes n't suggest then agent of n't believe is the same as agent of n't suggest
+
+283.S: What you are is you 're always trying to smooth things over . 
+  K: If try causes smooth then agent of try is the same as agent of smooth
+
+284.S: What you are is never telling the truth if you think it 's going to hurt someone 's feelings . 
+  K: If go causes hurt then agent of go is the same as agent of hurt
+
+285.S: He refused , however , to don a Nazi uniform , and struck an attitude that was deemed insufficiently fascist by the monument committee . 
+  K: If refuse causes don then agent of refuse is the same as agent of don
+
+286.S: And , frankly , it helps to have slept around . 
+  K: If help causes sleep then agent of help is the same as agent of sleep
+
+287.S: You 're not just trying to save Ruth . 
+  K: If not try causes save then agent of not try is the same as agent of save
+
+288.S: You 're trying to solve the riddle of female sadness itself . 
+  K: If try causes solve then agent of try is the same as agent of solve
+
+289.S: You 're trying to solve the self-destructive urge of humanity . 
+  K: If try causes solve then agent of try is the same as agent of solve
+
+290.S: You 're trying to crack the mystery of the body . 
+  K: If try causes crack then agent of try is the same as agent of crack
+
+291.S: You 've been hunting the white whale and it is n't going to end well if you do n't take care of yourself . 
+  K: If n't go causes end then agent of n't go is the same as agent of end
+
+292.S: But she was afraid to go too far , to alienate all the `` genial cheerful '' men whose standards she continued to internalize . 
+  K: If continue causes internalize then recipient of continue is the same as agent of internalize
+
+293.S: Now I begin to understand why . 
+  K: If begin causes understand then agent of begin is the same as agent of understand
+
+294.S: The entire town seems to have been laid out according to the cosmologies of the Greek myths . 
+  K: If seem causes lay then agent of seem is the same as recipient of lay
+
+295.S: Are we to conclude that it is a city of mysteries that will never be fathomed -- a city of mysticism and the occult ? 
+  K: If aree causes conclude then agent of aree is the same as agent of conclude
+
+296.S: Wolf seems to think that everyone would get along better if we all went away on retreat . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+297.S: Wolf seems to think that because her goal is worthy , methodologically speaking , anything goes . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+298.S: On the other hand , we 're also supposed to envy her , because she violates the restraints we 've imposed on ourselves . 
+  K: If suppose causes envy then recipient of suppose is the same as agent of envy
+
+299.S: Some reviewers were said to have regretted the unmagicness of the book 's realism and the sobriety of its prose style . 
+  K: If say causes regret then recipient of say is the same as agent of regret
+

@@ -1,0 +1,1101 @@
+1.S: Is n't that what all journalism is , by definition , and what even serious activism aspires to nowadays ? 
+  K: If aspire causes nowadays then recipient of aspire is the same as agent of nowadays
+
+2.S: Mary Thom is herself a staff veteran , who arrived as a researcher at the very start and went on to serve as executive editor under Editor in Chief Robin Morgan in the 1990s . 
+  K: If go causes serve then agent of go is the same as agent of serve
+
+3.S: In the coping-with-children department , the message changed from advice to mothers on , say , avoiding `` martyr complexes , '' to advice on lobbying for child care and avoiding gender stereotypes with sons and daughters . 
+  K: If change causes mother then agent of change is the same as agent of mother
+
+4.S: -LRB- You can sense a magazine 's desperation when it tries to generate hoopla on both its 10 th and 15 th anniversaries . -RRB- 
+  K: If try causes generate then agent of try is the same as agent of generate
+
+5.S: With typical self-assurance , the grand old man of the Cold War bellowed his recommendation at a meeting of the so-called ExComm of top Kennedy aides : a swift U.S. airstrike to take out the nukes . 
+  K: If airstrike causes take then agent of airstrike is the same as agent of take
+
+6.S: Fursenko and Naftali resist the urge to gloat or sermonize , and instead let their research speak for them . 
+  K: If resist causes gloat then recipient of resist is the same as agent of gloat
+
+7.S: Fursenko and Naftali resist the urge to gloat or sermonize , and instead let their research speak for them . 
+  K: If sermonize causes let then agent of sermonize is the same as agent of let
+
+8.S: Fursenko and Naftali resist the urge to gloat or sermonize , and instead let their research speak for them . 
+  K: If gloat causes let then agent of gloat is the same as agent of let
+
+9.S: Fursenko and Naftali resist the urge to gloat or sermonize , and instead let their research speak for them . 
+  K: If sermonize causes let then agent of sermonize is the same as agent of let
+
+10.S: Kennedy began his term hoping to establish a new detente with Moscow , but he also sought to rid the Western Hemisphere of communism by ousting Castro . 
+  K: If seek causes rid then agent of seek is the same as agent of rid
+
+11.S: Kennedy began his term hoping to establish a new detente with Moscow , but he also sought to rid the Western Hemisphere of communism by ousting Castro . 
+  K: If seek causes rid then agent of seek is the same as agent of rid
+
+12.S: Kennedy began his term hoping to establish a new detente with Moscow , but he also sought to rid the Western Hemisphere of communism by ousting Castro . 
+  K: If seek causes rid then agent of seek is the same as agent of rid
+
+13.S: he asked , and decided to move missiles into Cuba . 
+  K: If ask causes decide then agent of ask is the same as agent of decide
+
+14.S: he asked , and decided to move missiles into Cuba . 
+  K: If decide causes move then agent of decide is the same as agent of move
+
+15.S: Washington would learn to live with the missiles , Khrushchev figured , just as Moscow lived with NATO 's nuclear missiles on its Turkish frontier . 
+  K: If learn causes live then agent of learn is the same as agent of live
+
+16.S: After several harrowing days , Khrushchev blinked and agreed to remove the missiles in return for an American pledge not to invade Cuba and a secret pact to remove the Turkish missiles . 
+  K: If not invade causes remove then recipient of not invade is the same as agent of remove
+
+17.S: After several harrowing days , Khrushchev blinked and agreed to remove the missiles in return for an American pledge not to invade Cuba and a secret pact to remove the Turkish missiles . 
+  K: If agree causes remove then agent of agree is the same as agent of remove
+
+18.S: He retreated as philosophically as he could , although he described his reaction to the setback in rather less elegant language . 
+  K: If retreat causes describe then agent of retreat is the same as agent of describe
+
+19.S: There was no need for the Kremlin , he said , to `` act like the czarist officer who farted at the ball and then shot himself . '' 
+  K: If say causes act then agent of say is the same as agent of act
+
+20.S: The Kremlin , we learn , had decided to use tactical battlefield nuclear weapons against U.S. troops if Kennedy invaded Cuba . 
+  K: If decide causes use then agent of decide is the same as agent of use
+
+21.S: `` Any fool could start a war , '' Khrushchev used to like to say . 
+  K: If use causes like then agent of use is the same as agent of like
+
+22.S: `` Any fool could start a war , '' Khrushchev used to like to say . 
+  K: If like causes say then agent of like is the same as agent of say
+
+23.S: `` Any fool could start a war , '' Khrushchev used to like to say . 
+  K: If like causes say then agent of like is the same as agent of say
+
+24.S: It would stand to reason that a German eye and an Egyptian eye and an American eye and a Micronesian eye would all be equally naked behind the lens . 
+  K: If stand causes reason then agent of stand is the same as agent of reason
+
+25.S: As one of the essayists notes , Germany for various reasons failed to produce its Nadar or its Matthew Brady . 
+  K: If fail causes produce then agent of fail is the same as agent of produce
+
+26.S: Very loosely speaking , photographic modernism in its grandest period consisted of finding and framing the most dramatic designs to be found in the accidental accretion of the world . 
+  K: If design causes find then agent of design is the same as recipient of find
+
+27.S: He brought out a tattered paperback and thrust it at me , insisting that the volume was too important not to be passed on . 
+  K: If bring causes thrust then agent of bring is the same as agent of thrust
+
+28.S: `` It was a difficult admission to make , but I am glad that I made it ; later I came to believe that this admission about oneself may be the only redemption in America . '' 
+  K: If come causes believe then agent of come is the same as agent of believe
+
+29.S: A rosy-cheeked suburban family seated next to him at a football game makes him want to `` cut my jugular . '' 
+  K: If want causes cut then agent of want is the same as agent of cut
+
+30.S: Yardley 's book does little to solve the mystery of how a man with no apparent self-discipline , minimal formal training , and colossally self-destructive habits managed to write a contemporary classic on his first go round . 
+  K: If manage causes write then agent of manage is the same as agent of write
+
+31.S: The number of offspring in each generation is limited by the female 's contribution : one for each egg she produces and nurtures . 
+  K: If produce causes nurture then agent of produce is the same as agent of nurture
+
+32.S: Blum is a superb science reporter who presents just the right amount of complexity , tries to explain findings rather than just report them , and writes in a consistently clear and pleasant style . 
+  K: If try causes explain then agent of try is the same as agent of explain
+
+33.S: If organisms were designed to benefit the species , they would not waste half the available food on sons , who ca n't directly replenish the species with babies . 
+  K: If design causes benefit then recipient of design is the same as agent of benefit
+
+34.S: Blum not only fails to share these explanations , but also sometimes repeats ones that are downright wrong -- such as that men die young because the species needs them less . 
+  K: If fail causes repeat then agent of fail is the same as agent of repeat
+
+35.S: Blum not only fails to share these explanations , but also sometimes repeats ones that are downright wrong -- such as that men die young because the species needs them less . 
+  K: If share causes repeat then agent of share is the same as agent of repeat
+
+36.S: `` I remember exactly where I was when I realized that Post-Modernism had bought it . 
+  K: If realize causes remember then agent of realize is the same as agent of remember
+
+37.S: In 1975 , this , and not a celebrity or a promotional motive anywhere in sight -LRB- do I need to point out that William Y is an invention of the author 's ? -RRB- . 
+  K: If need causes point then agent of need is the same as agent of point
+
+38.S: Reading Barthelme may make you think of Surrealism , of Pop Art , of various species of what used to be called bricolage , but what came to my mind , revisiting his stories after a long absence , was the mile-a-minute channel-switching in the monologues of Robin Williams . 
+  K: If use causes call then agent of use is the same as recipient of call
+
+39.S: If I were to publish your collected table talk you would be appalled -- only your spouse and your deity know how many times you 've told those same five stories . 
+  K: If appal causes tell then recipient of appal is the same as agent of tell
+
+40.S: But maybe , just maybe , in some circuitous and stealthy way , Not-Knowing will play its part in revising that lapse , prompting young readers in particular to seek out the best work of an American original , part philosophe and part banana . 
+  K: If prompt causes seek then recipient of prompt is the same as agent of seek
+
+41.S: But , pretty soon , Self 's imagination begins to sputter . 
+  K: If begin causes sputter then agent of begin is the same as agent of sputter
+
+42.S: The needs they 're asked to fulfill almost certainly are . 
+  K: If ask causes fulfill then recipient of ask is the same as agent of fulfill
+
+43.S: In Toward the End of Time these descriptions never quite rise to ecstatic levels , though . 
+  K: If rise causes ecstatic then agent of rise is the same as agent of ecstatic
+
+44.S: And it becomes poignantly clear that Updike 's hero is beginning to die , not just because his physical self is deteriorating , but because he has a soul , which is shrinking . 
+  K: If begin causes die then agent of begin is the same as agent of die
+
+45.S: Despite the Civil War , the Reconstruction , and the Civil Rights Revolution , an appreciable number of observers continue to assert that the United States is , and will remain , a white supremacist pigmentocracy . 
+  K: If continue causes assert then agent of continue is the same as agent of assert
+
+46.S: Does one wash it , or does one discard it ? 
+  K: If wash causes discard then agent of wash is the same as agent of discard
+
+47.S: Does one wash it , or does one discard it ? 
+  K: If wash causes discard then recipient of wash is the same as recipient of discard
+
+48.S: Painfully aware of the limitations of class , occasionally able to peer outside the prison house of race , he strains to exceed his inheritance . 
+  K: If strain causes exceed then agent of strain is the same as agent of exceed
+
+49.S: To fully understand why the `` debate '' over Foster 's death is so phony , it helps to review a few of the raw , incontrovertible -LRB- you would think -RRB- facts . 
+  K: If help causes review then agent of help is the same as agent of review
+
+50.S: Siegel also fails to grasp certain key political facts of urban life . 
+  K: If fail causes grasp then agent of fail is the same as agent of grasp
+
+51.S: Siegel fails to address the basic problem of a federal system that makes local governments dependent on their local tax base to fund basic services , infrastructure , and education . 
+  K: If fail causes address then agent of fail is the same as agent of address
+
+52.S: No doubt , the mayors who took these funds did try to use them to consolidate their political bases . 
+  K: If try causes use then agent of try is the same as agent of use
+
+53.S: No doubt , the mayors who took these funds did try to use them to consolidate their political bases . 
+  K: If use causes consolidate then recipient of use is the same as agent of consolidate
+
+54.S: These great cities will continue to shape our future . 
+  K: If continue causes shape then agent of continue is the same as agent of shape
+
+55.S: Apparently only a guilt-ridden masochistic homosexual could be driven by such suspect and cleverly disguised views . 
+  K: If drive causes disguise then recipient of drive is the same as recipient of disguise
+
+56.S: The book 's cynicism is even more distressing , symptomatic as it is of a larger cynicism that seems to have gripped our public culture . 
+  K: If seem causes grip then agent of seem is the same as agent of grip
+
+57.S: This is the period when a single issue -- Vietnam -- came to trump all others in establishing the political order of battle . 
+  K: If come causes trump then agent of come is the same as agent of trump
+
+58.S: Politicians who seemed not to know how to handle rifles like men . 
+  K: If seem causes not know then agent of seem is the same as agent of not know
+
+59.S: Politicians who seemed not to know how to handle rifles like men . 
+  K: If not know causes handle then agent of not know is the same as agent of handle
+
+60.S: -LRB- I 'm still trying to figure out why anybody would want to do that . -RRB- 
+  K: If try causes figure then agent of try is the same as agent of figure
+
+61.S: What Dyson essentially believes is that if we would just embrace the Net , we could make the world a better place . 
+  K: If embrace causes make then agent of embrace is the same as agent of make
+
+62.S: It will allow people to be anonymous when it suits them and to be themselves when that suits them . 
+  K: If suit causes suit then recipient of suit is the same as recipient of suit
+
+63.S: As she puts it , `` One purpose of this book is to encourage people to make the mainstream of cyberspace nice enough that people will want to live their social lives there . '' 
+  K: If want causes live then agent of want is the same as agent of live
+
+64.S: As she puts it , `` One purpose of this book is to encourage people to make the mainstream of cyberspace nice enough that people will want to live their social lives there . '' 
+  K: If encourage causes make then recipient of encourage is the same as agent of make
+
+65.S: As she puts it , `` One purpose of this book is to encourage people to make the mainstream of cyberspace nice enough that people will want to live their social lives there . '' 
+  K: If encourage causes make then recipient of encourage is the same as agent of make
+
+66.S: But she also seems to believe that if we would start spending more of our social lives on the Net , that would help make us nicer , since the culture of the Internet will inevitably foster `` niceness . '' 
+  K: If seem causes believe then agent of seem is the same as agent of believe
+
+67.S: The larger problem is that the Internet is simply not going to make us nicer people -- nor are we going to become nicer just because we want to see the Internet reach its full potential . 
+  K: If make causes not go then agent of make is the same as agent of not go
+
+68.S: His victories emboldened him and his National Socialist followers to visit untold misery upon their victims . 
+  K: If embolden causes visit then recipient of embolden is the same as agent of visit
+
+69.S: But the more senior the official who was suborned into taking responsibility , the farther he stood to fall ; and the better he knew the error of trusting this president to protect him . 
+  K: If stand causes fall then agent of stand is the same as agent of fall
+
+70.S: But the more senior the official who was suborned into taking responsibility , the farther he stood to fall ; and the better he knew the error of trusting this president to protect him . 
+  K: If stand causes fall then agent of stand is the same as agent of fall
+
+71.S: So why is one inclined to forgive this book 's faults ? 
+  K: If incline causes forgive then recipient of incline is the same as agent of forgive
+
+72.S: Does Dunne mean to make himself ridiculous , or is his sense of `` real life '' so far gone ? 
+  K: If mean causes make then agent of mean is the same as agent of make
+
+73.S: Does Dunne mean to make himself ridiculous , or is his sense of `` real life '' so far gone ? 
+  K: If make causes go then agent of make is the same as recipient of go
+
+74.S: Later she agreed to marry a very tall , very ugly younger man , but she changed her mind the next morning . 
+  K: If agree causes marry then agent of agree is the same as agent of marry
+
+75.S: Stiff James , the oldest , wanted to be a writer -LRB- he ended up a curate -RRB- and spurred Jane to compete . 
+  K: If spur causes compete then recipient of spur is the same as agent of compete
+
+76.S: Though Frank says he aims to illuminate the entire world of `` business culture , '' his book actually concentrates on the image-conscious executives of the advertising and men 's - clothing industries . 
+  K: If aim causes illuminate then agent of aim is the same as agent of illuminate
+
+77.S: He does not believe that sinister advertisers were simply trying to capture or control an idealistic -- and burgeoning -- young audience . 
+  K: If try causes capture then agent of try is the same as agent of capture
+
+78.S: But after the many-tendriled beast of cable TV conquered the American home , the mélange of chefs , Muppets , TV talk , and prowling lions came to define not PBS but the act of channel surfing itself . 
+  K: If come causes define then agent of come is the same as agent of define
+
+79.S: They want them to obey the conventions of current realism . 
+  K: If want causes obey then recipient of want is the same as agent of obey
+
+80.S: Cagney 's slow fade is especially surprising when you consider how much the genre he helped to invent , the gangster film , thrives . 
+  K: If help causes invent then agent of help is the same as agent of invent
+
+81.S: -LRB- The audience is left to guess if Rocky is spineless or if he 's just trying to convince all the kids who worship him that crime does n't pay . -RRB- 
+  K: If try causes convince then agent of try is the same as agent of convince
+
+82.S: -LRB- The audience is left to guess if Rocky is spineless or if he 's just trying to convince all the kids who worship him that crime does n't pay . -RRB- 
+  K: If leave causes guess then recipient of leave is the same as agent of guess
+
+83.S: Shortly before he died , Cagney described to McCabe his method of acting . 
+  K: If describe causes McCabe then agent of describe is the same as agent of McCabe
+
+84.S: He thought he 'd broken out of his niche , but Warner still wanted to boss him around . 
+  K: If want causes boss then agent of want is the same as agent of boss
+
+85.S: He thought he 'd broken out of his niche , but Warner still wanted to boss him around . 
+  K: If want causes boss then agent of want is the same as agent of boss
+
+86.S: He thought he 'd broken out of his niche , but Warner still wanted to boss him around . 
+  K: If want causes boss then agent of want is the same as agent of boss
+
+87.S: `` The tragedy is that they destroyed the good ones and left this trash behind . '' 
+  K: If destroy causes leave then agent of destroy is the same as agent of leave
+
+88.S: Vendler herself sometimes fails to meet that standard . 
+  K: If fail causes meet then agent of fail is the same as agent of meet
+
+89.S: She offers ingenious paraphrases and elaborations , but she imposes a false order on a genially chaotic world . 
+  K: If offer causes impose then agent of offer is the same as agent of impose
+
+90.S: Only two words have more than one syllable : Stevens follows to extremes the old schoolhouse rule that short words work better than long ones . 
+  K: If follow causes extremes then agent of follow is the same as agent of extremes
+
+91.S: So Mike 's heart is heavy , but she is still a police , as she likes to put it . 
+  K: If like causes put then agent of like is the same as agent of put
+
+92.S: Shall I awake and find all this a dream ? 
+  K: If awake causes find then agent of awake is the same as agent of find
+
+93.S: Panic-stricken , unsure of how best to get rid of him , they begin to argue . 
+  K: If begin causes argue then agent of begin is the same as agent of argue
+
+94.S: Quite the opposite , and just as the couple is drifting off to sleep , he phones Joe to declare his undying love . 
+  K: If drift causes sleep then agent of drift is the same as agent of sleep
+
+95.S: Quite the opposite , and just as the couple is drifting off to sleep , he phones Joe to declare his undying love . 
+  K: If phone causes declare then recipient of phone is the same as agent of declare
+
+96.S: -LRB- `` I just wanted you to know , I understand what you 're feeling . 
+  K: If want causes know then recipient of want is the same as agent of know
+
+97.S: ... It takes a man to stand . '' 
+  K: If take causes stand then recipient of take is the same as agent of stand
+
+98.S: He helped his clients eat and find a warm bed . 
+  K: If eat causes find then agent of eat is the same as agent of find
+
+99.S: Of course , Carey is n't the first author to use castaways to dramatize a world gone wrong . 
+  K: If use causes dramatize then recipient of use is the same as agent of dramatize
+
+100.S: Carey 's cheerful ham-fistedness turns out to be just what is called for to correct Dickens ' lugubriousness . 
+  K: If call causes correct then recipient of call is the same as agent of correct
+
+101.S: Suffice it to say that when Carey rewrites Dickens ' ending -- Maggs , unlike the late lamented Magwitch , does not die a miserable death -- it is a perfectly delightful solution . 
+  K: If Suffice causes say then recipient of Suffice is the same as agent of say
+
+102.S: The Arabs did not build the `` inspired dream palace of their national thoughts '' that Lawrence sought to give them ; they tried to build a dream palace of their own , `` an intellectual edifice '' influenced by the West but not of the West . 
+  K: If seek causes give then agent of seek is the same as agent of give
+
+103.S: The Arabs did not build the `` inspired dream palace of their national thoughts '' that Lawrence sought to give them ; they tried to build a dream palace of their own , `` an intellectual edifice '' influenced by the West but not of the West . 
+  K: If try causes build then agent of try is the same as agent of build
+
+104.S: His purpose is to find Nachtigel and kill him . 
+  K: If find causes kill then agent of find is the same as agent of kill
+
+105.S: The officials now know him so well that they drop the loud , jangling popular music he detests on the loudspeaker and put on chamber music . 
+  K: If drop causes put then agent of drop is the same as agent of put
+
+106.S: My memory is a powerful machine that stores and constantly discharges lost years and faces . 
+  K: If lose causes face then agent of lose is the same as agent of face
+
+107.S: `` Hitler wanted to destroy the Jews , and indeed he destroyed them , '' he explained . 
+  K: If want causes destroy then agent of want is the same as agent of destroy
+
+108.S: `` A mistake , '' he did n't hesitate to reply . 
+  K: If n't hesitate causes reply then agent of n't hesitate is the same as agent of reply
+
+109.S: Siegelbaum wants to kill the man for revealing his hidden desire . 
+  K: If want causes kill then agent of want is the same as agent of kill
+
+110.S: They 're `` reluctant to pass judgment on how other people act and think . '' 
+  K: If act causes think then agent of act is the same as agent of think
+
+111.S: The Whigs kept seeing the proles through the lens of Europe 's old feudal societies , imagining that America 's lower orders wanted to seize property rather than acquire it . 
+  K: If want causes acquire then agent of want is the same as agent of acquire
+
+112.S: The Whigs kept seeing the proles through the lens of Europe 's old feudal societies , imagining that America 's lower orders wanted to seize property rather than acquire it . 
+  K: If want causes acquire then agent of want is the same as agent of acquire
+
+113.S: She neglects to mention that our safety depends on the ability of these officers to kill their adversaries . 
+  K: If depend causes kill then agent of depend is the same as agent of kill
+
+114.S: She neglects to mention that our safety depends on the ability of these officers to kill their adversaries . 
+  K: If neglect causes mention then agent of neglect is the same as agent of mention
+
+115.S: Given this oddly paternalistic -LRB- or maternalistic -RRB- diagnosis , it 's not surprising that Tannen should wish to cover our ears , filtering out strife , deception , and debate . 
+  K: If wish causes cover then agent of wish is the same as agent of cover
+
+116.S: He wished to run a third time but his party was not having it . 
+  K: If wish causes run then agent of wish is the same as agent of run
+
+117.S: Even avid readers tend to know only the two easiest of her 20-odd books , the experimental but accessible Three Lives -LRB- 1908 -RRB- and the gossipy Autobiography of Alice B. Toklas -LRB- 1933 -RRB- . 
+  K: If tend causes know then agent of tend is the same as agent of know
+
+118.S: Stein is far more amusing when she forgets her rules and gets drunk on the music of words . 
+  K: If forget causes get then agent of forget is the same as agent of get
+
+119.S: -LRB- Or click to read my summary of Wolfe 's and Rose 's positions . -RRB- 
+  K: If click causes read then agent of click is the same as agent of read
+
+120.S: Unwilling to give up the notion that she has a mission , she embarks on a final escapade : She tries to liberate Lorna , the family 's angry , put-upon slave-maid . 
+  K: If try causes liberate then agent of try is the same as agent of liberate
+
+121.S: I ca n't help but think that many white Americans share this queasy ambivalence . 
+  K: If n't help causes think then agent of n't help is the same as agent of think
+
+122.S: The only Southerners who want to blot it out are black Southerners , who wish that all the noise and symbolism would go away . 
+  K: If want causes wish then agent of want is the same as agent of wish
+
+123.S: The only Southerners who want to blot it out are black Southerners , who wish that all the noise and symbolism would go away . 
+  K: If blot causes wish then agent of blot is the same as agent of wish
+
+124.S: Questions I never thought to ask . 
+  K: If never think causes ask then agent of never think is the same as agent of ask
+
+125.S: He wants desperately to be a thug , because that is the only way he knows to be Jewish . 
+  K: If want causes know then agent of want is the same as agent of know
+
+126.S: 2 -RRB- How many trillions does it take to make an anti-tobacconist smile ? 
+  K: If take causes make then agent of take is the same as agent of make
+
+127.S: But when the industry attempted to create , the same activists protested again , declaring the `` safer '' cigarette evil because it would encourage smokers to continue their habit . 
+  K: If attempt causes create then agent of attempt is the same as agent of create
+
+128.S: But when the industry attempted to create , the same activists protested again , declaring the `` safer '' cigarette evil because it would encourage smokers to continue their habit . 
+  K: If encourage causes continue then recipient of encourage is the same as agent of continue
+
+129.S: It 's a treasure trove of messy , not always courtworthy gender-job dilemmas that nevertheless need to be explored . 
+  K: If need causes explore then agent of need is the same as recipient of explore
+
+130.S: -LRB- One day she finally got the courage to knock on the door of the department chair and ask if she could join the program . 
+  K: If get causes join then agent of get is the same as agent of join
+
+131.S: Conley says she never intended to take legal action . 
+  K: If never intend causes take then agent of never intend is the same as agent of take
+
+132.S: But gradually , it has to be admitted , he came to suffer a mild case of the very power sickness he had diagnosed . 
+  K: If come causes suffer then agent of come is the same as agent of suffer
+
+133.S: They could claim to use the products themselves and other women trusted them . 
+  K: If claim causes use then recipient of claim is the same as agent of use
+
+134.S: He 'll pursue beautiful single mothers and pretend he has a child , too . 
+  K: If pursue causes pretend then agent of pursue is the same as agent of pretend
+
+135.S: Just knowing that Mrs. Shawn is still alive adds a certain tension to reading much of what this Other Woman chooses to divulge . 
+  K: If choose causes divulge then recipient of choose is the same as agent of divulge
+
+136.S: `` It is as if , Mehta , he were beyond our human conception , '' Janet Flanner tells him once to calm him down . 
+  K: If tell causes calm then recipient of tell is the same as recipient of calm
+
+137.S: `` It is as if , Mehta , he were beyond our human conception , '' Janet Flanner tells him once to calm him down . 
+  K: If tell causes calm then recipient of tell is the same as agent of calm
+
+138.S: Your level of aspiration and contentment varies not according to some absolute standard but according to your choice of reference group . 
+  K: If not vary causes accord then agent of not vary is the same as agent of accord
+
+139.S: Another is `` trusting that , somehow , it is going to work . '' 
+  K: If go causes work then agent of go is the same as agent of work
+
+140.S: He haunted the campus , where students began to call him `` the Phantom . '' 
+  K: If begin causes call then agent of begin is the same as agent of call
+
+141.S: Why did Rockefeller wait so long to return Tarbell 's fire ? 
+  K: If wait causes return then agent of wait is the same as agent of return
+
+142.S: If you 've got God , why on earth would you need a public relations man ? 
+  K: If get causes need then agent of get is the same as agent of need
+
+143.S: The deluge of cash angered President Teddy Roosevelt , who had hoped the break-up would bring the monopolists only pain . 
+  K: If anger causes hope then recipient of anger is the same as agent of hope
+
+144.S: He overcame this fear enough to give away billions -LRB- more by far than even Andrew Carnegie -RRB- and created the University of Chicago , Rockefeller University , and his own foundation . 
+  K: If overcome causes give then agent of overcome is the same as agent of give
+
+145.S: As time went on , McPhee began to focus more and more on the structure of a piece . 
+  K: If begin causes focus then agent of begin is the same as agent of focus
+
+146.S: Its members hint at what they 're thinking and expect you to read their minds . 
+  K: If expect causes read then recipient of expect is the same as agent of read
+
+147.S: Its members hint at what they 're thinking and expect you to read their minds . 
+  K: If expect causes read then recipient of expect is the same as agent of read
+
+148.S: Its members hint at what they 're thinking and expect you to read their minds . 
+  K: If expect causes read then recipient of expect is the same as agent of read
+
+149.S: The money men want to transform his little successes -LRB- a Yahoo ! 
+  K: If want causes transform then agent of want is the same as agent of transform
+
+150.S: Isaacson 's genius was that he understood the Web 's potential but was smart enough to leave the new media division early . 
+  K: If understand causes leave then agent of understand is the same as agent of leave
+
+151.S: And by repeatedly reminding the reader of what a dishonest , scheming little shit he is , he seeks to inflate his credibility . 
+  K: If seek causes inflate then agent of seek is the same as agent of inflate
+
+152.S: It soon becomes apparent that Rosenbaum does not wish to answer these questions . 
+  K: If not wish causes answer then agent of not wish is the same as agent of answer
+
+153.S: , and implied that Micheels wished to rehabilitate his torturers . 
+  K: If wish causes rehabilitate then agent of wish is the same as agent of rehabilitate
+
+154.S: Murakami lays several plot lines and , both consummate miniaturist and committed pessimist , appears to develop each carefully while keeping the mix unstable . 
+  K: If appear causes develop then agent of appear is the same as agent of develop
+
+155.S: He meets a veteran whose wartime experiences allow Murakami to play anti-imperialist . 
+  K: If allow causes play then recipient of allow is the same as agent of play
+
+156.S: What 's special about her is her job , chief medical examiner of Virginia , which allows her to witness more gruesome sights than one could dream of . 
+  K: If allow causes witness then recipient of allow is the same as agent of witness
+
+157.S: The chin seems to have emerged around 130,000 years ago . 
+  K: If seem causes emerge then agent of seem is the same as agent of emerge
+
+158.S: Whatever it is , it transcends culture , despite what Naomi Wolf may try to tell you . 
+  K: If try causes tell then recipient of try is the same as agent of tell
+
+159.S: This effect was first noticed when a 19 th century eugenicist tried to create an average criminal face by making a photographic composite of lots of mug shots . 
+  K: If try causes create then agent of try is the same as agent of create
+
+160.S: A fake smile is seldom persuasive -- it lasts too long , it looks wrong around the eyes . 
+  K: If last causes look then agent of last is the same as agent of look
+
+161.S: It 's hard to describe Davis ' new book , since it flits among several genres . 
+  K: If describe causes flit then agent of describe is the same as agent of flit
+
+162.S: Even tornadoes , which are generally thought to prefer the Midwest , spin threateningly on the horizon . 
+  K: If think causes prefer then recipient of think is the same as agent of prefer
+
+163.S: First Davis accuses the bourgeoisie of misdirected anxieties , then he urges them to wake up and worry . 
+  K: If urge causes worry then recipient of urge is the same as agent of worry
+
+164.S: Davis seems to think that the four horsemen of the Apocalypse will arrive via the Pacific Coast Highway . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+165.S: Even Davis seems to realize this . 
+  K: If seem causes realize then agent of seem is the same as agent of realize
+
+166.S: I 'm not saying Davis should stop complaining and suck it up , but this decade has seen the birth of new fantasies , and he fails to take them on . 
+  K: If fail causes take then agent of fail is the same as agent of take
+
+167.S: Do they reveal the composer 's intentions , or merely demonstrate the practical limitations against which he struggled ? 
+  K: If reveal causes demonstrate then agent of reveal is the same as agent of demonstrate
+
+168.S: But -- and Levin is likely to find this praise more infuriating than any criticism -- had he chosen to play his `` Emperor '' on a Steinway or a Bosendorfer , he might have given us one of the greatest recordings of the piece ever put on disc . 
+  K: If choose causes play then agent of choose is the same as agent of play
+
+169.S: But -- and Levin is likely to find this praise more infuriating than any criticism -- had he chosen to play his `` Emperor '' on a Steinway or a Bosendorfer , he might have given us one of the greatest recordings of the piece ever put on disc . 
+  K: If play causes give then agent of play is the same as agent of give
+
+170.S: The CDs get louder or softer , but the quality of penetration fails to vary . 
+  K: If fail causes vary then agent of fail is the same as agent of vary
+
+171.S: World War II was over , Europe wanted to scrub off its history , and Berio and Penderecki , an Italian and a Pole , were two of the music world 's most ruthless and effective slate-cleaners . 
+  K: If want causes scrub then agent of want is the same as agent of scrub
+
+172.S: When 19 th - century composers wanted to be solemn , they invoked the Baroque : Thick counterpoint and a good old passacaglia -- variations over a repeating bass -- never failed to sound lofty . 
+  K: If want causes solemn then agent of want is the same as recipient of solemn
+
+173.S: Berio , on the other hand , has n't needed to rediscover history . 
+  K: If n't need causes rediscover then agent of n't need is the same as agent of rediscover
+
+174.S: Paris has the answer : Just take it back , and take it further . 
+  K: If take causes take then recipient of take is the same as recipient of take
+
+175.S: His presidential suit alone created his special blend of personal attractiveness and public statesmanship , a blend our leaders are always being urged to emulate . 
+  K: If urge causes emulate then recipient of urge is the same as agent of emulate
+
+176.S: A straight spine is something Evita did have that Madonna and most others now either lack or choose not to show off . 
+  K: If choose causes not show then agent of choose is the same as agent of not show
+
+177.S: A straight spine is something Evita did have that Madonna and most others now either lack or choose not to show off . 
+  K: If choose causes not show then agent of choose is the same as agent of not show
+
+178.S: And so the news media , Gould marveled sardonically , `` manage to explain it all . '' 
+  K: If manage causes explain then agent of manage is the same as agent of explain
+
+179.S: Trying to summon and express good judgment may be next to impossible -- even good judgment about what will sell . 
+  K: If Try causes express then agent of Try is the same as agent of express
+
+180.S: Trying to summon and express good judgment may be next to impossible -- even good judgment about what will sell . 
+  K: If summon causes express then agent of summon is the same as agent of express
+
+181.S: Trying to summon and express good judgment may be next to impossible -- even good judgment about what will sell . 
+  K: If summon causes express then recipient of summon is the same as agent of express
+
+182.S: Breasts have lost much of their mythological aura and acquired some needed reality . 
+  K: If lose causes acquire then agent of lose is the same as agent of acquire
+
+183.S: Much Renaissance and Baroque portraiture displays its successful effect , which has repeatedly inspired high and low practical elegance ever since . 
+  K: If display causes inspire then recipient of display is the same as agent of inspire
+
+184.S: Maybe the anti-fashion people now wearing pale blue and muted rose are dressing to match the new dawn they assume will flood the future and ultimately wash away the ink-stamped past . 
+  K: If dress causes match then agent of dress is the same as agent of match
+
+185.S: You could handle them if you wore the white cotton gloves provided by the vigilant Sotheby 's staff , who hastened over whenever you leaned your nose too near the chiffon or made too broad a gesture toward the embroidery . 
+  K: If wear causes lean then agent of wear is the same as agent of lean
+
+186.S: You could handle them if you wore the white cotton gloves provided by the vigilant Sotheby 's staff , who hastened over whenever you leaned your nose too near the chiffon or made too broad a gesture toward the embroidery . 
+  K: If handle causes lean then agent of handle is the same as agent of lean
+
+187.S: The result is an undeniable beauty whatever the mode , a beauty specifically meant to render the individual wearer beautiful , too . 
+  K: If mean causes render then agent of mean is the same as agent of render
+
+188.S: I turned my head and saw the woman next to me wearing a leopard-print scarf , and I felt a little dizzy . 
+  K: If turn causes feel then agent of turn is the same as agent of feel
+
+189.S: I turned my head and saw the woman next to me wearing a leopard-print scarf , and I felt a little dizzy . 
+  K: If see causes feel then agent of see is the same as agent of feel
+
+190.S: Ghosts of Nijinksy Figure skating began to captivate me and my friends when we were 8 . 
+  K: If begin causes captivate then agent of begin is the same as agent of captivate
+
+191.S: But none of this imaginative freedom seems to have reached the ice , except on Russians . 
+  K: If seem causes reach then agent of seem is the same as agent of reach
+
+192.S: The virtuous but lively daughters of Protestant capitalists were encouraged to show some ankle and make advantageous marriages . 
+  K: If encourage causes make then recipient of encourage is the same as agent of make
+
+193.S: The virtuous but lively daughters of Protestant capitalists were encouraged to show some ankle and make advantageous marriages . 
+  K: If show causes make then agent of show is the same as agent of make
+
+194.S: Fashion-prints were published and studied . 
+  K: If publish causes study then recipient of publish is the same as recipient of study
+
+195.S: Female beauty helped to modernize the world . 
+  K: If help causes modernize then agent of help is the same as agent of modernize
+
+196.S: Women 's legs were known to be there , but they were meant to be seen and judged privately . 
+  K: If mean causes see then recipient of mean is the same as recipient of see
+
+197.S: Her brains and her feet could be seen to connect , and she would become a normal human being . 
+  K: If see causes connect then recipient of see is the same as agent of connect
+
+198.S: Though many girls still wear their skirts very , very short , novelty has lately required increasing their length , not their brevity -- and many new long skirts are resembling South Sea wraparounds , often gauzy , to suggest more exotic freedoms , newer ways for longer skirts to seduce . 
+  K: If skirt causes seduce then agent of skirt is the same as agent of seduce
+
+199.S: Dark-haired girls could dye their hair blond , but no trace of the original color was permitted to show . 
+  K: If permit causes show then recipient of permit is the same as agent of show
+
+200.S: Lately , we have all wanted to resemble exciting , quasimarginal celebrities . 
+  K: If want causes resemble then agent of want is the same as agent of resemble
+
+201.S: He could expect to be reclothed by whomever he visited next . 
+  K: If expect causes reclothed then agent of expect is the same as recipient of reclothed
+
+202.S: The queen recognizes garments she had designed and woven herself . 
+  K: If design causes weave then agent of design is the same as agent of weave
+
+203.S: Every actress would like to play the most legendary Nora but , for much of the first act , Janet McTeer seems to want to play the most irritating . 
+  K: If like causes play then agent of like is the same as agent of play
+
+204.S: Every actress would like to play the most legendary Nora but , for much of the first act , Janet McTeer seems to want to play the most irritating . 
+  K: If seem causes want then agent of seem is the same as agent of want
+
+205.S: Every actress would like to play the most legendary Nora but , for much of the first act , Janet McTeer seems to want to play the most irritating . 
+  K: If want causes play then agent of want is the same as agent of play
+
+206.S: The supreme tragedies leave us not devastated but exhilarated , and the sublime actors , the moment their performances begin , stop acting . 
+  K: If not devastate causes exhilarate then agent of not devastate is the same as agent of exhilarate
+
+207.S: A man who `` wanted to change the world through the means -- always sordid -- of killing other men . '' 
+  K: If want causes change then agent of want is the same as agent of change
+
+208.S: It was the appeal of death -- doled out , and accepted . 
+  K: If doled causes accept then agent of doled is the same as agent of accept
+
+209.S: But now his behavior seems ordinary , even to be expected . 
+  K: If seem causes expect then agent of seem is the same as recipient of expect
+
+210.S: He looks toward the heavens and proclaims , `` The stars , Gunilla . 
+  K: If look causes proclaim then agent of look is the same as agent of proclaim
+
+211.S: `` Some younger scientists were so upset by these theological trends that they resolved simply to block their cosmological source , '' commented the German astronomer Otto Heckmann , a prominent investigator of cosmic expansion . 
+  K: If resolve causes block then agent of resolve is the same as agent of block
+
+212.S: 2 -RRB- The universe began to exist . 
+  K: If begin causes exist then agent of begin is the same as agent of exist
+
+213.S: The premise does not say that everything needs a cause but that everything that begins to exist does . 
+  K: If need causes begin then agent of need is the same as agent of begin
+
+214.S: The premise does not say that everything needs a cause but that everything that begins to exist does . 
+  K: If begin causes exist then agent of begin is the same as agent of exist
+
+215.S: God never began to exist -- he is eternal . 
+  K: If never begin causes exist then agent of never begin is the same as agent of exist
+
+216.S: Apparently they enjoy being baffled by `` imaginary time , '' a theoretical fiction Hawking uses to redescribe the big bang so that there is no beginning . 
+  K: If use causes redescribe then agent of use is the same as agent of redescribe
+
+217.S: Apparently they enjoy being baffled by `` imaginary time , '' a theoretical fiction Hawking uses to redescribe the big bang so that there is no beginning . 
+  K: If use causes redescribe then agent of use is the same as agent of redescribe
+
+218.S: Apparently they enjoy being baffled by `` imaginary time , '' a theoretical fiction Hawking uses to redescribe the big bang so that there is no beginning . 
+  K: If use causes redescribe then agent of use is the same as agent of redescribe
+
+219.S: It seems to suggest that the Creator was a bungler . 
+  K: If seem causes suggest then agent of seem is the same as agent of suggest
+
+220.S: István Deák , a Columbia University historian who agreed to write a preface , backed out . 
+  K: If agree causes write then agent of agree is the same as agent of write
+
+221.S: But they also take pains not to dismiss the trauma the Holocaust visited and continues to visit upon Jews . 
+  K: If continue causes visit then agent of continue is the same as agent of visit
+
+222.S: But they also take pains not to dismiss the trauma the Holocaust visited and continues to visit upon Jews . 
+  K: If continue causes visit then agent of continue is the same as agent of visit
+
+223.S: But they also take pains not to dismiss the trauma the Holocaust visited and continues to visit upon Jews . 
+  K: If visit causes visit then agent of visit is the same as agent of visit
+
+224.S: But they also take pains not to dismiss the trauma the Holocaust visited and continues to visit upon Jews . 
+  K: If continue causes visit then agent of continue is the same as agent of visit
+
+225.S: `` Goldhagen seems to have difficulty comprehending that when perpetrators claim to have been motivated by Nazi propaganda , it need not be sincere , '' she writes . 
+  K: If claim causes motivate then agent of claim is the same as recipient of motivate
+
+226.S: No serious student of history can afford to ignore these well-reasoned and withering reflections on the perils of pseudo-scholarship . '' 
+  K: If afford causes ignore then agent of afford is the same as agent of ignore
+
+227.S: The authors of this volume express serious doubt , which I share . 
+  K: If express causes share then recipient of express is the same as recipient of share
+
+228.S: We ca n't -- molesters are monsters , and they 'll continue to molest , no matter what the penalty . 
+  K: If continue causes molest then agent of continue is the same as agent of molest
+
+229.S: How can we make sure trials convict molesters and acquit the falsely accused ? 
+  K: If convict causes acquit then agent of convict is the same as agent of acquit
+
+230.S: It is designed to stimulate video rentals ; that makes it a commercial list . 
+  K: If design causes stimulate then recipient of design is the same as agent of stimulate
+
+231.S: The AFI compilation reflects more than just technological change and the shifting power to confer `` greatness , '' however . 
+  K: If reflect causes confer then recipient of reflect is the same as agent of confer
+
+232.S: When other Dealey Plaza home movies surfaced , they too were `` collected '' and altered to match . 
+  K: If alter causes match then recipient of alter is the same as agent of match
+
+233.S: If you believe your own eyes , you 'll conclude the opposite . 
+  K: If believe causes conclude then agent of believe is the same as agent of conclude
+
+234.S: European Jewish émigrés , whether cultured cosmopolitans or members of the pious bourgeoisie , do n't suddenly convert to fundamentalism ; that 's a specialty of godless Americans . 
+  K: If n't convert causes fundamentalism then agent of n't convert is the same as agent of fundamentalism
+
+235.S: There is not one of them who is what we used to call an Educated Man . '' 
+  K: If use causes call then recipient of use is the same as agent of call
+
+236.S: Moody Blues The decline of the big band was belabored and cartoonish ; it kept coming back long after it seemed to have drawn its last breath . 
+  K: If seem causes draw then agent of seem is the same as agent of draw
+
+237.S: And Evans and Davis ' calculated rhythmic displacement is a major jazz metaphor , one that more commercial composers would never try to attain . 
+  K: If never try causes attain then agent of never try is the same as agent of attain
+
+238.S: The difference is that Sun Ra actually came to believe it . 
+  K: If come causes believe then agent of come is the same as agent of believe
+
+239.S: As he put it , `` Black people are behind on these things , and they 've got to catch up . '' 
+  K: If get causes catch then agent of get is the same as agent of catch
+
+240.S: Laissez-faire is now used to describe a variety of `` anything-goes '' regulatory regimes , whether in law or child-rearing . 
+  K: If use causes describe then recipient of use is the same as agent of describe
+
+241.S: <I> Yadda Yadda Yadda </I> Language , we all know , allows us to say something . 
+  K: If allow causes say then recipient of allow is the same as agent of say
+
+242.S: Yet it is also frequently called upon to say nothing . 
+  K: If call causes say then recipient of call is the same as agent of say
+
+243.S: Also , eponymous terms allow almost anyone to display competence , even brilliance , at coining useful and appropriate-sounding new words -- thereby encouraging further attempts to do so . 
+  K: If allow causes display then recipient of allow is the same as agent of display
+
+244.S: West African languages , to give just one example , also tend not to make use of a `` th '' sound . 
+  K: If tend causes not make then agent of tend is the same as agent of not make
+
+245.S: `` Ebonics '' may not merit the status of a distinct language now , his research seems to imply -- but just give it time . 
+  K: If seem causes imply then agent of seem is the same as agent of imply
+
+246.S: You 've got to move on , Larry . 
+  K: If get causes move then agent of get is the same as agent of move
+
+247.S: You 've got to find closure . '' 
+  K: If get causes find then agent of get is the same as agent of find
+
+248.S: When we require words to describe personal motivation and other interior processes , the most likely source today is psychology . 
+  K: If require causes describe then recipient of require is the same as agent of describe
+
+249.S: The National Basketball Association has famously sought to trademark the scores of its games . 
+  K: If seek causes trademark then agent of seek is the same as agent of trademark
+
+250.S: Harley-Davidson has sought to trademark the rumble of its motorcycles . 
+  K: If seek causes trademark then agent of seek is the same as agent of trademark
+
+251.S: We build it , and out pours the entire Vegan army . '' 
+  K: If build causes pour then agent of build is the same as agent of pour
+
+252.S: ... Murphy : Oh God , we did n't want to leave out old Heinrich . 
+  K: If n't want causes leave then agent of n't want is the same as agent of leave
+
+253.S: The book seeks to explain how footnotes became an essential element of the `` narrative architecture '' of historical writing . 
+  K: If seek causes explain then agent of seek is the same as agent of explain
+
+254.S: Some mechanism was needed to make sense of it all . 
+  K: If need causes make then recipient of need is the same as agent of make
+
+255.S: It will need to happen again sometime next year . -RRB- 
+  K: If need causes happen then agent of need is the same as agent of happen
+
+256.S: William Safire , who once addressed the phrase in passing , seemed to think it a nonce expression , enjoying an ephemeral vogue . 
+  K: If seem causes think then agent of seem is the same as agent of think
+
+257.S: The physicality of words is something we tend to lose sight of -- literally -- although the consequences of physicality are inescapable and often startling . 
+  K: If lose causes tend then agent of lose is the same as agent of tend
+
+258.S: Because an electronically linked worldwide medical community needs a common language , new terminology has been adopted by the International Federation of Associations of Anatomists to describe human body parts . 
+  K: If adopt causes describe then recipient of adopt is the same as agent of describe
+
+259.S: Because an electronically linked worldwide medical community needs a common language , new terminology has been adopted by the International Federation of Associations of Anatomists to describe human body parts . 
+  K: If adopt causes describe then recipient of adopt is the same as agent of describe
+
+260.S: In making the digital world fun , we somehow made fun merely digital . 
+  K: If make causes make then recipient of make is the same as recipient of make
+
+261.S: If you listened very carefully , though , you realized that there actually was no dialogue ; the actors were obviously aware that their voices were not going to be heard . 
+  K: If not go causes hear then agent of not go is the same as recipient of hear
+
+262.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If n't speak causes want then agent of n't speak is the same as agent of want
+
+263.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If never seem causes want then agent of never seem is the same as agent of want
+
+264.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If want causes let then agent of want is the same as agent of let
+
+265.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If never seem causes want then agent of never seem is the same as agent of want
+
+266.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If want causes let then agent of want is the same as agent of let
+
+267.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If want causes let then agent of want is the same as agent of let
+
+268.S: He did n't speak his lines , he distended them : He never seemed to want to let them out of his mouth . 
+  K: If want causes let then agent of want is the same as agent of let
+
+269.S: Spader is a bit too sincere and boyish to play the jaded libertine Ballard , but he 's a fine actor and unquestionably game . 
+  K: If boyish causes play then agent of boyish is the same as agent of play
+
+270.S: Just when Jack has you convinced that Judy is a pretentious albatross -LRB- Richardson 's very British clucking-tongue routine helps here -RRB- , Judy 's stock rises as she stoically describes how the intolerant new government had begun to crack down on her and her father . 
+  K: If begin causes crack then agent of begin is the same as agent of crack
+
+271.S: And you realize -- or you 're supposed to realize -- that however arrogant and annoying you find Judy and Howard , some bottom-line human decency will be violated if they are harmed . 
+  K: If suppose causes realize then recipient of suppose is the same as agent of realize
+
+272.S: But the big villain is a power-mad government whose only agenda seems to be hunting down and killing smart people . 
+  K: If seem causes kill then agent of seem is the same as agent of kill
+
+273.S: But the big villain is a power-mad government whose only agenda seems to be hunting down and killing smart people . 
+  K: If hunt causes kill then agent of hunt is the same as agent of kill
+
+274.S: Then it appears that the large rubber tortoises are good guys , and perhaps did n't mean to kill him . 
+  K: If n't mean causes kill then agent of n't mean is the same as agent of kill
+
+275.S: Then it appears that the large rubber tortoises are good guys , and perhaps did n't mean to kill him . 
+  K: If appear causes kill then agent of appear is the same as agent of kill
+
+276.S: Then it appears that the large rubber tortoises are good guys , and perhaps did n't mean to kill him . 
+  K: If n't mean causes kill then agent of n't mean is the same as agent of kill
+
+277.S: They do n't rob Fort Knox , attempt to wipe out the Eastern seaboard , or even molest the Mormon Tabernacle Choir . 
+  K: If attempt causes wipe then agent of attempt is the same as agent of wipe
+
+278.S: `` I take care of them , they take care of me . '' 
+  K: If take causes take then recipient of take is the same as recipient of take
+
+279.S: When I say that Batman & Robin is a punishing ordeal , I want you to know where I 'm coming from . 
+  K: If say causes want then agent of say is the same as agent of want
+
+280.S: When I say that Batman & Robin is a punishing ordeal , I want you to know where I 'm coming from . 
+  K: If want causes know then recipient of want is the same as agent of know
+
+281.S: The Grisham diptych , The Client and A Time to Kill ? 
+  K: If diptych causes Kill then recipient of diptych is the same as agent of Kill
+
+282.S: She reaches out to touch the wall of the machine and it ripples , the way the highway seems to flutter on a hot day . 
+  K: If seem causes flutter then agent of seem is the same as agent of flutter
+
+283.S: `` As long as I can remember , I 've been searching . 
+  K: If remember causes search then agent of remember is the same as agent of search
+
+284.S: He finds someone 's cell phone and calls the White House . 
+  K: If find causes call then agent of find is the same as agent of call
+
+285.S: The writer-director , James Mangold -LRB- Heavy -RRB- , labors mightily to establish a sense of place -- he never stops setting the scene . 
+  K: If labor causes establish then agent of labor is the same as agent of establish
+
+286.S: All these Scorsese types are in there pitching , doing their damnedest to legitimize the movie and its wayward star . 
+  K: If pitch causes legitimize then recipient of pitch is the same as agent of legitimize
+
+287.S: The over-deliberate diction lets you know that he knows the line is a cliché but that he thinks it 's entertaining anyway . 
+  K: If know causes think then agent of know is the same as agent of think
+
+288.S: It 's not that I 'm planning to give away plot twists -- as in , `` She has a penis ! '' 
+  K: If plan causes give then agent of plan is the same as agent of give
+
+289.S: It 's simply that I do n't want to orient you . 
+  K: If n't want causes orient then agent of n't want is the same as agent of orient
+
+290.S: We know we should be horrified , but we 're not . 
+  K: If know causes not 're then agent of know is the same as agent of not 're
+
+291.S: We know we should be horrified , but we 're not . 
+  K: If horrify causes not 're then recipient of horrify is the same as agent of not 're
+
+292.S: So she tells Dirk that she loves him as if he were her baby , and then she seduces him . 
+  K: If love causes seduce then agent of love is the same as agent of seduce
+
+293.S: So she tells Dirk that she loves him as if he were her baby , and then she seduces him . 
+  K: If love causes seduce then recipient of love is the same as recipient of seduce
+
+294.S: So she tells Dirk that she loves him as if he were her baby , and then she seduces him . 
+  K: If tell causes seduce then agent of tell is the same as agent of seduce
+
+295.S: She might even want to be loved for falling on her face . 
+  K: If want causes love then agent of want is the same as recipient of love
+
+296.S: It 's possible that Ryder gets worse the harder she tries to act . 
+  K: If try causes act then agent of try is the same as agent of act
+
+297.S: -LRB- `` I 've always called you ` Jesus , ' you 've always called me ` Sonny . ' '' -RRB- 
+  K: If call causes call then recipient of call is the same as agent of call
+
+298.S: Altman makes you work to pick up dialogue , to follow the threads , to figure out -- always after the fact -- just what people 's motivations were . 
+  K: If work causes pick then agent of work is the same as agent of pick
+
+299.S: Better , I think , to have left some bleeding fragments . 
+  K: If think causes leave then agent of think is the same as agent of leave
+
+300.S: But her images refuse to melt . 
+  K: If refuse causes melt then agent of refuse is the same as agent of melt
+
+301.S: Anyone who 's tried to write a screenplay knows the difficulty of writing a climax . 
+  K: If try causes write then recipient of try is the same as agent of write
+
+302.S: But the hype that greeted Blood Simple appears to have convinced them that they are sufficient unto themselves . 
+  K: If appear causes convince then agent of appear is the same as agent of convince
+
+303.S: Hurt 's face is so deeply lined that he now resembles Boris Karloff 's mummy -- not flesh and blood but flakes and embalming fluid . 
+  K: If resemble causes flake then agent of resemble is the same as agent of flake
+
+304.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If find causes pace then agent of find is the same as agent of pace
+
+305.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If n't bind causes stick then recipient of n't bind is the same as agent of stick
+
+306.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If n't bind causes stick then recipient of n't bind is the same as agent of stick
+
+307.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If pace causes bolt then agent of pace is the same as agent of bolt
+
+308.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If n't bind causes stick then recipient of n't bind is the same as agent of stick
+
+309.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If n't bind causes stick then recipient of n't bind is the same as agent of stick
+
+310.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If pace causes bolt then agent of pace is the same as agent of bolt
+
+311.S: I found it so oppressively smug that I had to get up and pace the aisles three or four times , and I 'd have bolted if I had n't been duty bound to stick it out . 
+  K: If n't bind causes stick then recipient of n't bind is the same as agent of stick
+
+312.S: I do n't want to rain too hard on Bulworth 's parade -- only drizzle a little . 
+  K: If n't want causes rain then agent of n't want is the same as agent of rain
+
+313.S: You get a glimpse of the star who taught Gary Hart to talk politics out of one side of his mouth and pick up babes out of the other . 
+  K: If teach causes talk then recipient of teach is the same as agent of talk
+
+314.S: You get a glimpse of the star who taught Gary Hart to talk politics out of one side of his mouth and pick up babes out of the other . 
+  K: If talk causes pick then agent of talk is the same as agent of pick
+
+315.S: -- you 'd be tempted to give him your vote . 
+  K: If tempt causes give then recipient of tempt is the same as agent of give
+
+316.S: He 's almost never erect -- he stoops to incinerate . 
+  K: If stoop causes incinerate then agent of stoop is the same as agent of incinerate
+
+317.S: Will both shuttles manage to land on the asteroid through a shower of -LRB- 3-D , surround-sound -RRB- debris ? 
+  K: If manage causes land then agent of manage is the same as agent of land
+
+318.S: He can deliver zingers , and he can also invoke the Almighty . 
+  K: If deliver causes invoke then agent of deliver is the same as agent of invoke
+
+319.S: No phony demureness here : She acts as if she came of age telling an endless parade of Latin men where to put it . 
+  K: If put causes tell then agent of put is the same as recipient of tell
+
+320.S: He lingered on it , slowed it down , fastened on blood-spurting bodies as they hurtled through the air -- and ended up making it lyrical , aestheticizing it , distancing it . 
+  K: If hurtle causes aestheticizing then agent of hurtle is the same as agent of aestheticizing
+
+321.S: They 've barely beached before the first bullets come -- before these smooth-faced , overgrown kids begin to get blown through . 
+  K: If begin causes blow then agent of begin is the same as recipient of blow
+
+322.S: They 've barely beached before the first bullets come -- before these smooth-faced , overgrown kids begin to get blown through . 
+  K: If begin causes blow then agent of begin is the same as recipient of blow
+
+323.S: They 've barely beached before the first bullets come -- before these smooth-faced , overgrown kids begin to get blown through . 
+  K: If begin causes blow then agent of begin is the same as recipient of blow
+
+324.S: Deciding to shoot Saving Private Ryan as if it were a war documentary gives Spielberg 's art a new orientation . 
+  K: If Decide causes shoot then agent of Decide is the same as agent of shoot
+
+325.S: Reiben -LRB- Burns -RRB- and Mellish want to blow him away , but the translator -- who has almost never fired a gun -- protests vigorously that such an act would be a war crime and that the German must be taken prisoner or freed . 
+  K: If want causes blow then agent of want is the same as agent of blow
+
+326.S: Now De Palma needs to learn that the kind of payoff that dazzles a math professor does n't always give an audience that ultimate , explosive charge . 
+  K: If need causes learn then agent of need is the same as agent of learn
+
+327.S: The approach is certainly dramatic , but it can also be too comfy , allowing you to pat yourself on the back for being nobler than the people you 're observing . 
+  K: If allow causes pat then recipient of allow is the same as agent of pat
+
+328.S: Single people fear they 're going to die alone -- unloved and unloving . 
+  K: If go causes die then agent of go is the same as agent of die
+
+329.S: But I 'm not going to recant my first response . 
+  K: If not go causes recant then agent of not go is the same as agent of recant
+
+330.S: What holds the film together is Zellweger 's Ellen , and not because of anything she does but because she 's the only major player who seems to be listening . 
+  K: If seem causes listen then agent of seem is the same as agent of listen
+
+331.S: One True Thing prompted me to call my mom when I got home . 
+  K: If prompt causes call then recipient of prompt is the same as agent of call
+
+332.S: He must know that no one can be shocked when everyone 's in on the joke , but he does n't seem to want -LRB- or to be able -RRB- to step outside the camp aesthetic and play anything `` straight . '' 
+  K: If shock causes play then recipient of shock is the same as agent of play
+
+333.S: They said you 've got to give him a proper name . 
+  K: If get causes give then agent of get is the same as agent of give
+
+334.S: Besides , he confesses , `` I do n't like to be accessed . '' 
+  K: If n't like causes access then agent of n't like is the same as recipient of access
+
+335.S: I 'm watching MSNBC and using my computer . 
+  K: If watch causes use then agent of watch is the same as agent of use
+
+336.S: They are too biased to help you think clearly about which candidate is better . 
+  K: If bias causes help then recipient of bias is the same as agent of help
+
+337.S: How shall I visit Mecca , I wonder ? 
+  K: If visit causes wonder then agent of visit is the same as agent of wonder
+
+338.S: Web Weather Today A few nights ago , I turned on Channel 4 to watch the 6 p.m. weather forecast . 
+  K: If turn causes watch then agent of turn is the same as agent of watch
+
+339.S: Or rather , I turned on Channel 4 to watch meteorologist Bob Ryan . 
+  K: If turn causes watch then agent of turn is the same as agent of watch
+
+340.S: So sites strive desperately to build brand identity . 
+  K: If strive causes build then agent of strive is the same as agent of build
+
+341.S: They prove that even when all you care about is weather , the Web still has plenty of dirty pictures to show you . 
+  K: If care causes show then agent of care is the same as recipient of show
+
+342.S: Many sites include a customizable `` timeline , `` reminding you when to buy what . 
+  K: If remind causes buy then recipient of remind is the same as agent of buy
+
+343.S: Many sites include a customizable `` timeline , `` reminding you when to buy what . 
+  K: If remind causes buy then recipient of remind is the same as agent of buy
+
+344.S: Each urges you to shake free of the tired mainstream and embrace a more spirited tradition . 
+  K: If urge causes embrace then recipient of urge is the same as agent of embrace
+
+345.S: Each urges you to shake free of the tired mainstream and embrace a more spirited tradition . 
+  K: If shake causes embrace then agent of shake is the same as agent of embrace
+
+346.S: The more I looked , the gloomier I got . 
+  K: If look causes get then agent of look is the same as agent of get
+
+347.S: To really understand college ball , you would need to spend most of the fall and winter watching Big Sky conference games on satellite television and reading back issues of Inside Metro Conference Basketball . 
+  K: If need causes spend then agent of need is the same as agent of spend
+
+348.S: If you do n't want to pay , you can view some of the site free . -RRB- 
+  K: If n't want causes view then agent of n't want is the same as agent of view
+
+349.S: If you do n't want to pay , you can view some of the site free . -RRB- 
+  K: If pay causes view then agent of pay is the same as agent of view
+
+350.S: -LRB- I also found it slow-loading and buggy . -RRB- 
+  K: If slow causes buggy then agent of slow is the same as agent of buggy
+
+351.S: As the political eyes of the world turn to watch whether the heavily favored , Bill Clinton-like Tony Blair and his Labor Party trounce the long-ruling Conservatives and their stiff Prime Minister John Major , some snazzy Web sites are waiting to show them what 's really going on . 
+  K: If wait causes show then agent of wait is the same as agent of show
+
+352.S: GE97 , in addition to polls , rundowns of the players , backgrounders on salient issues , events calendars , chat groups , and a wrap up of current betting odds , allows you to build your own `` party manifesto . '' 
+  K: If allow causes build then recipient of allow is the same as agent of build
+
+353.S: Election 97 uses a new Virtual Reality Modeling Language technology to provide 3-D maps that give British voters a better understanding of how constituencies are spread throughout the country and where the critical districts lie . 
+  K: If use causes provide then recipient of use is the same as agent of provide
+
+354.S: Microsoft publishes both Sidewalk and Slate , and pays my salary . 
+  K: If publish causes pay then agent of publish is the same as agent of pay
+
+355.S: The greatest annoyance : Neither site enables you to buy tickets or make reservations online . 
+  K: If enable causes make then recipient of enable is the same as agent of make
+
+356.S: The city sites are untouched by the grit and idiosyncrasy that define urban living . 
+  K: If untouched causes define then agent of untouched is the same as agent of define
+
+357.S: `` The White House , This is where I used to work . 
+  K: If use causes work then agent of use is the same as agent of work
+
+358.S: If she has n't been , she wants to start . 
+  K: If want causes start then agent of want is the same as agent of start
+
+359.S: And yet , we also have everything we 're supposed to need to construct our own vision of the girl . 
+  K: If suppose causes need then recipient of suppose is the same as agent of need
+
+360.S: And yet , we also have everything we 're supposed to need to construct our own vision of the girl . 
+  K: If need causes construct then agent of need is the same as agent of construct
+
+361.S: We ca n't really expect Lewinsky sites to define the `` real '' Monica Lewinsky . 
+  K: If n't expect causes define then recipient of n't expect is the same as agent of define
+
+362.S: Nor would we want them to reflect a grassroots campaign of unwavering support . 
+  K: If want causes reflect then recipient of want is the same as agent of reflect
+
+363.S: Aruldhas ' daughter , Beulah , pushed me , rewriting words forty-fifty times , literally mugging As we used to say . 
+  K: If use causes say then agent of use is the same as agent of say
+
+364.S: You must have noticed him : a sharp-faced foreign devil always lurking somewhere and staring so ? 
+  K: If lurk causes stare then agent of lurk is the same as agent of stare
+
+365.S: Aristotle writes that you 'll sufferover the mysteries but will learnnothing new . 
+  K: If write causes learnnothing then agent of write is the same as agent of learnnothing
+
+366.S: Not finding themis n't it the same as if you had?We know you through your writingsand your complaints . 
+  K: If had?We causes know then agent of had?We is the same as recipient of know
+
+367.S: I had to help withthe wounded and haul out the dead . 
+  K: If help causes haul then agent of help is the same as agent of haul
+
